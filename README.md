@@ -18,6 +18,7 @@
 20'10'11/hanoi_tower.py - **61p, Python**
 
 ## OpenCV로 배우는 컴퓨터 비전과 머신러닝
+### 2020년 10월 18
 20'10'18/HelloOpenCV.cpp - **49~52p, C++**
 
 20'10'18/MatOpEx.cpp - **90~95p, C++**
