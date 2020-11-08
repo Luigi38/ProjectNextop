@@ -32,6 +32,11 @@
 20'10'11/hanoi_tower.py - **61p, Python**
 
 ## OpenCV로 배우는 컴퓨터 비전과 머신러닝
+### 2020년 11월 8일
+20'11'08/drawingEx.cpp **144~147p, C++**
+
+20'11'08/MaskFiltering.cpp - **180~183p, C++**
+
 ### 2020년 11월 1일
 20'11'01/LetsPlayVideo.cpp - **135~138p, C++**
 
