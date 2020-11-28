@@ -68,6 +68,13 @@
 20'10'18/MatOpEx.cpp - **90~95p, C++**
 
 ## 백준 문제
+### 2020년 11월 28일
+20'11'28/editor.cpp - **에디터, C++**
+
+20'11'28/StringExplosion.cpp - **문자열 폭발, C++**
+
+20'11'28/stringExplosion2.cpp - **문자열 폭발, C++**
+
 ### 2020년 11월 21일
 20'11'21/StringExplosion.cpp - **문자열 폭발, C++**
 
