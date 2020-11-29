@@ -35,6 +35,13 @@
 20'10'11/hanoi_tower.py - **61p, Python**
 
 ## OpenCV로 배우는 컴퓨터 비전과 머신러닝
+### 2020년 11월 29일
+20'11'29/image_arithmetic.cpp = **230~238p, C++**
+
+20'11'29/logical.pp - **239~242p, C++**
+
+20'11'29/filterer.cpp - **244~265p, C++**
+
 ### 2020년 11월 22일
 20'11'22/contrast.cpp - **207~213p, C++**
 
