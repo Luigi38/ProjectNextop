@@ -38,6 +38,8 @@
 ### 2020년 12월 6일
 20'12'06/opencv_example.cpp - **OpenCV 예제, C++**
 
+20'12'06/lets_remove_noise.cpp - **265~274p, C++**
+
 ### 2020년 11월 29일
 20'11'29/image_arithmetic.cpp - **230~238p, C++**
 
