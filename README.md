@@ -80,15 +80,20 @@
 20'10'18/MatOpEx.cpp - **90~95p, C++**
 
 ## 백준 문제
+### 2020년 12월 6일
+20'12'06/stringExplosion3.cpp - **문자열 폭발, C++** (성공)
+
+20'12'06/keylogger.cpp - **키로거, C++**
+
 ### 2020년 11월 28일
 20'11'28/editor.cpp - **에디터, C++**
 
-20'11'28/StringExplosion.cpp - **문자열 폭발, C++**
+20'11'28/StringExplosion.cpp - **문자열 폭발, C++** (시간 초과)
 
-20'11'28/stringExplosion2.cpp - **문자열 폭발, C++**
+20'11'28/stringExplosion2.cpp - **문자열 폭발, C++** (시간 초과)
 
 ### 2020년 11월 21일
-20'11'21/StringExplosion.cpp - **문자열 폭발, C++**
+20'11'21/StringExplosion.cpp - **문자열 폭발, C++** (시간 초과)
 
 ## 심심해서 그냥 만들어본 소소한 미니 프로젝트
 20'11'01/Drug.cpp - **대마초를 먹은 느낌이랄까?, C++**
