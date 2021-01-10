@@ -35,6 +35,9 @@
 20'10'11/hanoi_tower.py - **61p, Python**
 
 ## OpenCV로 배우는 컴퓨터 비전과 머신러닝
+### 2021년 1월 10일
+21'01'10/affine.cpp - **276~302p, C++**
+
 ### 2020년 12월 6일
 20'12'06/opencv_example.cpp - **OpenCV 예제, C++**
 
