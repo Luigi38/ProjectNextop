@@ -1,6 +1,8 @@
 # ProjectNextop
 넥스탑 👍
 
+[용어사전](https://github.com/Luigi38/ProjectNextop/blob/main/%EC%9A%A9%EC%96%B4%EC%82%AC%EC%A0%84.md)
+
 ## 자료구조
 ### 2020년 11월 14일
 20'11'14/search_maze.cpp - **135~141p, C++**
