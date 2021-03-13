@@ -19,21 +19,16 @@
 |[prefix_01_24.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/prefix_01_24.cpp)|[후위 표기식](https://www.acmicpc.net/problem/1918)|C++|출력 초과|01/24|
 
 ### Baekjoon / 20
-reverseString2.cpp - **문자열 뒤집기2, C++** : 12/14
-
-AC.cpp - **AC, C++** : 12/13
-
-stringExplosion3.cpp - **문자열 폭발, C++** (성공) : 12/06
-
-keylogger.cpp - **키로거, C++** : 12/06
-
-editor.cpp - **에디터, C++** : 11/28
-
-StringExplosion.cpp - **문자열 폭발, C++** (시간 초과) : 11/28
-
-stringExplosion2.cpp - **문자열 폭발, C++** (시간 초과) : 11/28
-
-StringExplosion.cpp - **문자열 폭발, C++** (시간 초과) : 11/21
+|소스 코드|문제 제목|언어|성공 여부|날짜|
+|:---:|:---:|:---:|:---:|:---:|
+|[reverseString2.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/20/reverseString2.cpp)|[문자열 뒤집기2](https://www.acmicpc.net/problem/17413)|C++|성공|12/14|
+|[AC.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/20/)|[AC](https://www.acmicpc.net/problem/5430)|C++|성공|12/13|
+|[stringExplosion3.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/20/stringExplosion3_12_06.cpp)|[문자열 폭발](https://www.acmicpc.net/problem/9935)|C++|성공|12/06|
+|[keylogger.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/20/keylogger.cpp)|[키로거](https://www.acmicpc.net/problem/5397)|C++|성공|12/06|
+|[editor.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/20/editor.cpp)|[에디터](https://www.acmicpc.net/problem/1406)|C++|성공|11/28|
+|[StringExplosion.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/20/StringExplosion_11_28.cpp)|[문자열 폭발](https://www.acmicpc.net/problem/9935)|C++|시간 초과|11/28|
+|[stringExplosion2.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/20/stringExplosion2_11_28.cpp)|[문자열 폭발](https://www.acmicpc.net/problem/9935)|C++|시간 초과|11/28|
+|[StringExplosion.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/20/StringExplosion_11_21.cpp)|[문자열 폭발](https://www.acmicpc.net/problem/9935)|C++|시간 초과|11/21|
 
 ## OpenCV로 배우는 컴퓨터 비전과 머신러닝
 ### OpenCV / 21
