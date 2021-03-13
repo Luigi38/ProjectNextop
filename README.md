@@ -5,23 +5,17 @@
 
 ## 백준 문제
 ### Baekjoon / 21
-decomposition.cpp - **분해합, C++** (성공) : 03/06
-
-tree_03_06.cpp - **트리의 부모 찾기, C++** (성공) : 03/06
-
-tree_02_27_failed.cpp - **트리의 부모 찾기, C++** (실패) : 02/27
-
-tomato3.cpp - **토마토, C++** (3차원 버전) : 02/20
-
-tomato.cpp - **토마토, C++** : 02/14
-
-BDFS_Deprecated.cpp - **미로 탐색, C++** (하다가 때려쳤음) : 02/6
-
-search_miro_by_bfs.cpp - **미로 탐색, C++** (성공) : 02/6
-
-prefix_01_31.cpp - **후위 표기식, C++** (성공) : 01/31
-
-prefix.cpp - **후위 표기식, C++** (출력 초과) : 01/24
+|소스 코드|문제 제목|언어|성공 여부|날짜|설명|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|[decomposition.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/decomposition.cpp)|[분해합](https://www.acmicpc.net/problem/2231)|C++|성공|03/06|
+|[tree_03_06.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/tree_03_06.cpp)|[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|C++|성공|03/06|
+|[tree_02_27_failed.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/tree_02_07_failed.cpp)|[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|C++|실패|02/27|
+|[tomato3.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/tomato3.cpp)|[토마토](https://www.acmicpc.net/problem/7569)|C++|성공|02/20|3차원 버전|
+|[tomato.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/tomato.cpp)|[토마토](https://www.acmicpc.net/problem/7576)|C++|성공|02/14|2차원 버전|
+|[search_miro_by_bfs.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/search_miro_by_bfs)|[미로 탐색](https://www.acmicpc.net/problem/2178)|C++|성공|02/06|
+|[BDFS_Deprecated.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/BDFS_Deprecated.cpp)|[미로 탐색](https://www.acmicpc.net/problem/2178)|C++|실패|02/06|하다가 때려쳤음|
+|[prefix_01_31.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/prefix_01_31.cpp)|[후위 표기식](https://www.acmicpc.net/problem/1918)|C++|성공|01/31|
+|[prefix.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/prefix.cpp)|[후위 표기식](https://www.acmicpc.net/problem/1918)|C++|출력 초과|01/24|
 
 ### Baekjoon / 20
 reverseString2.cpp - **문자열 뒤집기2, C++** : 12/14
