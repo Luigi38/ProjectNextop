@@ -65,31 +65,21 @@
 
 ## 자료구조
 ### Data-Structure
-search_maze.cpp - **135~141p, C++** : 20/11/14
-
-brackets.cpp - **119~123p, C++** : 20/10/31
-
-infix_to_postfix.cpp **124~134p, C++** : 20/10/31
-
-loc_is_deleted.cpp - **99p, 10번, C++** : 20/10/24
-
-loc_is_deleted.py - **99p, 10번, Python** : 20/10/24
-
-just_testing.cpp - **99p, 12번, C++** : 20/10/24
-
-just_testing.py - **99p, 12번, Python** : 20/10/24
-
-problem4.cpp - **98p, 4번, C++** : 20/10/17
-
-problem4.py - **98p 4번, Python** : 20/10/17
-
-loc_is_fun.cpp - **98p, 8번, C++** : 20/10/17
-
-loc_is_fun.py - **98p, 8번, Python** : 20/10/17
-
-hanoi_tower.cpp - **61p, C++** : 20/10/11
-
-hanoi_tower.py - **61p, Python** : 20/10/11
+|소스 코드|페이지 수|언어|날짜|설명|
+|:---:|:---:|:---:|:---:|:---:|
+|[search_maze.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Data-Structure/search_maze.cpp)|135~141p|C++|20/11/14|
+|[brackets.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Data-Structure/brackets.cpp)|119~123p|C++|20/10/31|
+|[infix_to_postfix.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Data-Structure/infix_to_postfix.cpp)|124~134p|C++|20/10/31|
+|[just_testing.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Data-Structure/just_testing.cpp)|99p|C++|20/10/24|12번|
+|[just_testing.py](https://github.com/Luigi38/ProjectNextop/blob/main/Data-Structure/just_testing.py)|99p|Python|20/10/24|12번|
+|[loc_is_deleted.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Data-Structure/loc_is_deleted.cpp)|99p|C++|20/10/24|10번|
+|[loc_is_deleted.py](https://github.com/Luigi38/ProjectNextop/blob/main/Data-Structure/loc_is_deleted.py)|99p|Python|20/10/24|10번|
+|[loc_is_fun.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Data-Structure/loc_is_fun.cpp)|98p|C++|20/10/17|8번|
+|[loc_is_fun.py](https://github.com/Luigi38/ProjectNextop/blob/main/Data-Structure/loc_is_fun.py)|98p|Python|20/10/17|8번|
+|[problem4.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Data-Structure/problem4.cpp)|98p|C++|20/10/17|4번|
+|[problem4.py](https://github.com/Luigi38/ProjectNextop/blob/main/Data-Structure/problem4.py)|98p|Python|20/10/17|4번|
+|[hanoi_tower.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Data-Structure/hanoi_tower.cpp)|61p|C++|20/10/11|
+|[hanoi_tower.py](https://github.com/Luigi38/ProjectNextop/blob/main/Data-Structure/hanoi_tower.py)|61p|Python|20/10/11|
 
 ## 심심해서 그냥 만들어본 소소한 미니 프로젝트
 ### Side-Projects
