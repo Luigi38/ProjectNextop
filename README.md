@@ -32,54 +32,36 @@
 
 ## OpenCV로 배우는 컴퓨터 비전과 머신러닝
 ### OpenCV / 21
-Moved to Project REINFORCED. : 02/07
-
-colorOp.cpp - **334~345p, C++** : 01/31
-
-inRange.cpp - **346~356p, C++** : 01/31
-
-hough.cpp - **320~331p, C++** : 01/24
-
-LetsRemoveEdge.cpp - **304~319p, C++** : 01/17
-
-affine.cpp - **276~302p, C++** : 01/10
+|소스 코드|페이지 수|언어|날짜|설명|
+|:---:|:---:|:---:|:---:|:---:|
+|[Project REINFORCED](https://github.com/Nextop-OpenCV/ProjectReinforced)|.|C#|02/07|레인포스 프로젝트로 옮김.|
+|[colorOp.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/OpenCV/21/colorOp.cpp)|334~345p|C++|01/31|
+|[inRange.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/OpenCV/21/inRange.cpp)|346~356p|C++|01/31|
+|[hough.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/OpenCV/21/hough.cpp)|320~331p|C++|01/24|
+|[LetsRemoveEdge.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/OpenCV/21/LetsRemoveEdge.cpp)|304~319p|C++|01/17|
+|[affine.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/OpenCV/21/affine.cpp)|276~302p|C++|01/10|
 
 ### OpenCV / 20
-opencv_example.cpp - **OpenCV 예제, C++** : 12/06
-
-lets_remove_noise.cpp - **265~274p, C++** : 12/06
-
-image_arithmetic.cpp - **230~238p, C++** : 11/29
-
-logical.pp - **239~242p, C++** : 11/29
-
-filterer.cpp - **244~265p, C++** : 11/29
-
-contrast.cpp - **207~213p, C++** : 11/22
-
-histogram.cpp - **213~227p, C++** : 11/22
-
-brightness.cpp - **196~207p, C++** : 11/15
-
-drawingEx.cpp **144~147p, C++** : 11/08
-
-MaskFiltering.cpp - **180~183p, C++** : 11/08
-
-LetsPlayVideo.cpp - **135~138p, C++** : 11/01
-
-LetsSaveVideo.cpp - **138~143p, C++** : 11/01
-
-MatOpEx4Mt.cpp - **95~112p, C++** : 10/25
-
-ScalarOp.cpp - **116~118p, C++** : 10/25
-
-InputArrayOp.cpp - **119~120p, C++** : 10/25
-
-video.cpp - **124~135p, C++** : 10/25
-
-HelloOpenCV.cpp - **49~52p, C++** : 10/18
-
-MatOpEx.cpp - **90~95p, C++** : 10/18
+|소스 코드|페이지 수|언어|날짜|설명|
+|:---:|:---:|:---:|:---:|:---:|
+|[opencv_example.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/OpenCV/20/opencv_example.cpp)|.|C++|12/06|OpenCV 예제|
+|[lets_remove_noise.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/OpenCV/20/lets_remove_noise.cpp)|265~274p|C++|12/06|
+|[image_arithmetic.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/OpenCV/20/image_arithmetic.cpp)|230~238p|C++|11/29|
+|[logical.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/OpenCV/20/logical.cpp)|239~242p|C++|11/29|
+|[filterer.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/OpenCV/20/filterer.cpp)|244~265p|C++|11/29|
+|[contrast.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/OpenCV/20/contrast.cpp)|207~213p|C++|11/22|
+|[histogram.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/OpenCV/20/histogram.cpp)|213~227p|C++|11/22|
+|[brightness.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/OpenCV/20/brightness.cpp)|196~207p|C++|11/15|
+|drawingEx.cpp|144~147p|C++|11/08|
+|MaskFiltering.cpp|180~183p|C++|11/08|
+|[LetsPlayVideo.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/OpenCV/20/LetsPlayVideo.cpp)|135~138p|C++|11/01|
+|[LetsSaveVideo.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/OpenCV/20/LetsSaveVideo.cpp)|138~143p|C++|11/01|
+|[MatOpEx4Mt.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/OpenCV/20/MatOpEx4Mt.cpp)|95~112p|C++|10/25|
+|[ScalarOp.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/OpenCV/20/ScalarOp.cpp)|116~118p|C++|10/25|
+|[InputArrayOp.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/OpenCV/20/InputArrayOp.cpp)|119~120p|C++|10/25|
+|[video.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/OpenCV/20/video.cpp)|124~135p|C++|10/25|
+|[HelloOpenCV.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/OpenCV/20/HelloOpenCV.cpp)|49~52p|C++|10/18|
+|[MatOpEx.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/OpenCV/20/MatOpEx.cpp)|90~95p|C++|10/18|
 
 ## 자료구조
 ### Data-Structure
@@ -111,8 +93,8 @@ hanoi_tower.py - **61p, Python** : 20/10/11
 
 ## 심심해서 그냥 만들어본 소소한 미니 프로젝트
 ### Side-Projects
-Project REINFORCED - **C#** : 21/02/07
-
-Drug2.cpp - **158~159p, C++** : 20/11/08
-
-Drug.cpp - **대마초를 먹은 느낌이랄까?, C++** : 20/11/01
+|소스 코드|책 이름|페이지 수|언어|날짜|설명|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|[Project REINFORCED](https://github.com/Nextop-OpenCV/ProjectReinforced)|.|.|C#|21/02/07|
+|[Drug2.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Side-Projects/Drug2.cpp)|OpenCV|158~159p|C++|20/11/08|
+|[Drug.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Side-Projects/Drug.cpp)|OpenCV|.|C++|20/11/01|대마초를 먹은 느낌이랄까?|
