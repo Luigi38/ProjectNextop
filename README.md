@@ -12,7 +12,7 @@
 |[tree_02_27_failed.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/tree_02_27_failed.cpp)|[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|C++|실패|02/27|
 |[tomato3.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/tomato3.cpp)|[토마토](https://www.acmicpc.net/problem/7569)|C++|성공|02/20|3차원 버전|
 |[tomato.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/tomato.cpp)|[토마토](https://www.acmicpc.net/problem/7576)|C++|성공|02/14|2차원 버전|
-|[search_miro_by_bfs.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/search_miro_by_bfs.체ㅔ)|[미로 탐색](https://www.acmicpc.net/problem/2178)|C++|성공|02/06|
+|[search_miro_by_bfs.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/search_miro_by_bfs.cpp)|[미로 탐색](https://www.acmicpc.net/problem/2178)|C++|성공|02/06|
 |[BDFS_Deprecated.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/BDFS_Deprecated.cpp)|[미로 탐색](https://www.acmicpc.net/problem/2178)|C++|실패|02/06|하다가 때려쳤음|
 |[prefix_01_31.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/prefix_01_31.cpp)|[후위 표기식](https://www.acmicpc.net/problem/1918)|C++|성공|01/31|
 |[prefix_01_24.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/prefix_01_24.cpp)|[후위 표기식](https://www.acmicpc.net/problem/1918)|C++|출력 초과|01/24|
