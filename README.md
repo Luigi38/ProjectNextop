@@ -7,6 +7,7 @@
 ### Baekjoon / 21
 |소스 코드|문제 제목|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+[lotto_03_20.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/lotto_03_20.cpp)|[로또](https://www.acmicpc.net/problem/6603)|C++|성공|03/20|lotto_03_13은 하다가 답이 없어서 때려침. DFS로 대체함|
 [lotto_03_13.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/lotto_03_13.cpp)|[로또](https://www.acmicpc.net/problem/6603)|C++|아직 안함|03/13|하다가 때려칠 수도?|
 |[decomposition.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/decomposition.cpp)|[분해합](https://www.acmicpc.net/problem/2231)|C++|성공|03/06|
 |[tree_03_06.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/tree_03_06.cpp)|[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|C++|성공|03/06|
