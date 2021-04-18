@@ -36,7 +36,7 @@
 ### Koi / 20
 |소스 코드|문제 제목|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|[hamburger.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Koi/20/hamburger.cpp)|[햄버거 분배](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf)|C++|성공04/18|시간 복잡도 O(n)|
+|[hamburger.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Koi/20/hamburger.cpp)|[햄버거 분배](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf)|C++|성공|04/18|시간 복잡도 O(n)|
 
 ## OpenCV로 배우는 컴퓨터 비전과 머신러닝
 ### OpenCV / 21
