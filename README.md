@@ -94,6 +94,7 @@
 ### Side-Projects
 |소스 코드|책 이름|페이지 수|언어|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+|[Git4Nextop](https://github.com/MineEric64/Git4Nextop)|.|.|C#|21/04/24|넥스탑 학원에서 쓰일 깃 프로그램|
 |[Project REINFORCED](https://github.com/Nextop-OpenCV/ProjectReinforced)|.|.|C#|21/02/07|
 |[Drug2.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Side-Projects/Drug2.cpp)|OpenCV|158~159p|C++|20/11/08|
 |[Drug.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Side-Projects/Drug.cpp)|OpenCV|.|C++|20/11/01|대마초를 먹은 느낌이랄까?|
