@@ -7,6 +7,7 @@
 ### Baekjoon / 21
 |소스 코드|문제 제목|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+[DietOfSungWon.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/DietOfSungWon.cpp)|[다이어트](https://www.acmicpc.net/problem/1484)|C++|성공|05/01|한국정보올림피아드에서 나온 다이어트 문제 풀다가 개빡쳐서 이거 풀고 옴. SUNGWON|
 |[nQueen_03_28.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/nQueen_03_28.cpp)|[N-Queen](https://www.acmicpc.net/problem/9663)|C++|아직 안함|03/28|하다가 때려쳤음. 다음 시간에 코드를 다시 짤거임.|
 |[lotto_03_20.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/lotto_03_20.cpp)|[로또](https://www.acmicpc.net/problem/6603)|C++|성공|03/20|lotto_03_13은 하다가 답이 없어서 때려침. DFS로 대체함|
 |[lotto_03_13.cpp](https://github.com/Luigi38/ProjectNextop/blob/main/Baekjoon/21/lotto_03_13.cpp)|[로또](https://www.acmicpc.net/problem/6603)|C++|아직 안함|03/13|하다가 때려칠 수도?|
