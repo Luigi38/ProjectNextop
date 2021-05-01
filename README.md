@@ -37,6 +37,7 @@
 ### Koi / 20
 |소스 코드|문제 제목|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+|[diet_05_01.cpp](../main/Koi/20/diet_05_01.cpp)|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf), [다이어트 (백준)](https://www.acmicpc.net/problem/19942)|C++|실패|05/01|전에 나왔던 오류는 고쳤는데 아직도 `diet()` 함수 코드 때문에 뭔가 계속 틀림. 예제는 맞음.|
 |[hamburger.cpp](../main/Koi/20/hamburger.cpp)|[햄버거 분배](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf)|C++|성공|04/18|시간 복잡도 O(n)|
 |[diet.cpp](../main/Koi/20/diet.cpp)|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf)|C++|실패|04/18|`diet()` 함수만 고치면 성공적으로 될거임.|
 
