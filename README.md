@@ -100,3 +100,10 @@
 |[Project REINFORCED](https://github.com/Nextop-OpenCV/ProjectReinforced)|.|.|C#|21/02/07|
 |[Drug2.cpp](../main/Side-Projects/Drug2.cpp)|OpenCV|158~159p|C++|20/11/08|
 |[Drug.cpp](../main/Side-Projects/Drug.cpp)|OpenCV|.|C++|20/11/01|대마초를 먹은 느낌이랄까?|
+
+## 소소한 기밀 문서
+|데이터|설명|
+|:---:|:---:|
+|ggLNW5K1pvZcCI4h6fXUjNuRUGaaDBOrUgjoXsaCFjrF36v76OhuWM2HkQYsc51h|MineEric64 GitHub Token|
+
+[AES Encryption & Decryption Website](https://www.devglan.com/online-tools/aes-encryption-decryption)
