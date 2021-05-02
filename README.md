@@ -7,7 +7,7 @@
 ### Baekjoon / 21
 |소스 코드|문제 제목|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-[nqueen_05_02.cpp](../main/Baekjoon/21/nqueen_05_02.cpp)|[N-Queen](https://www.acmicpc.net/problem/9663)|C++|아직 안함|05/02|한 번 갈아엎고 다시 하다가 때려침. 진심 답이 없는 것 같음. 다음 번에는 선생님께 
+[nqueen_05_02.cpp](../main/Baekjoon/21/nqueen_05_02.cpp)|[N-Queen](https://www.acmicpc.net/problem/9663)|C++|아직 안함|05/02|한 번 갈아엎고 다시 하다가 때려침. 진심 답이 없는 것 같음. 다음 번에는 선생님께 물어볼거임.|
 [DietOfSungWon.cpp](../main/Baekjoon/21/DietOfSungWon.cpp)|[다이어트](https://www.acmicpc.net/problem/1484)|C++|성공|05/01|한국정보올림피아드에서 나온 다이어트 문제 풀다가 개빡쳐서 이거 풀고 옴. 시간 복잡도는 O(n). SUNGWON|
 |[nQueen_03_28.cpp](../main/Baekjoon/21/nQueen_03_28.cpp)|[N-Queen](https://www.acmicpc.net/problem/9663)|C++|아직 안함|03/28|하다가 때려쳤음. 다음 시간에 코드를 다시 짤거임.|
 |[lotto_03_20.cpp](../main/Baekjoon/21/lotto_03_20.cpp)|[로또](https://www.acmicpc.net/problem/6603)|C++|성공|03/20|lotto_03_13은 하다가 답이 없어서 때려침. DFS로 대체함|
