@@ -7,8 +7,9 @@
 ### Baekjoon / 21
 |소스 코드|문제 제목|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-[nqueen_05_02.cpp](../main/Baekjoon/21/nqueen_05_02.cpp)|[N-Queen](https://www.acmicpc.net/problem/9663)|C++|아직 안함|05/02|한 번 갈아엎고 다시 하다가 때려침. 진심 답이 없는 것 같음. 다음 번에는 선생님께 물어볼거임.|
-[DietOfSungWon.cpp](../main/Baekjoon/21/DietOfSungWon.cpp)|[다이어트](https://www.acmicpc.net/problem/1484)|C++|성공|05/01|한국정보올림피아드에서 나온 다이어트 문제 풀다가 개빡쳐서 이거 풀고 옴. 시간 복잡도는 O(n). SUNGWON|
+|[nqueen_05_09.cpp](../main/Baekjoon/21/nqueen_05_09.cpp)|[N-Queen](https://www.acmicpc.net/problem/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|C++|메모리 초과|05/09|다시 한번 갈아 엎으려다가 수정해서 겨우 힘들게 만들었는데 2^196번 탐색을 해야하는 경우에서 좌절했음. 다음 시간에 백트랙킹으로 마무리하면 됨. 거의 다 끝남. BOHEMIAN RHAPSODY|
+|[nqueen_05_02.cpp](../main/Baekjoon/21/nqueen_05_02.cpp)|[N-Queen](https://www.acmicpc.net/problem/9663)|C++|아직 안함|05/02|한 번 갈아엎고 다시 하다가 때려침. 진심 답이 없는 것 같음. 다음 번에는 선생님께 물어볼거임.|
+|[DietOfSungWon.cpp](../main/Baekjoon/21/DietOfSungWon.cpp)|[다이어트](https://www.acmicpc.net/problem/1484)|C++|성공|05/01|한국정보올림피아드에서 나온 다이어트 문제 풀다가 개빡쳐서 이거 풀고 옴. 시간 복잡도는 O(n). SUNGWON|
 |[nQueen_03_28.cpp](../main/Baekjoon/21/nQueen_03_28.cpp)|[N-Queen](https://www.acmicpc.net/problem/9663)|C++|아직 안함|03/28|하다가 때려쳤음. 다음 시간에 코드를 다시 짤거임.|
 |[lotto_03_20.cpp](../main/Baekjoon/21/lotto_03_20.cpp)|[로또](https://www.acmicpc.net/problem/6603)|C++|성공|03/20|lotto_03_13은 하다가 답이 없어서 때려침. DFS로 대체함|
 |[lotto_03_13.cpp](../main/Baekjoon/21/lotto_03_13.cpp)|[로또](https://www.acmicpc.net/problem/6603)|C++|아직 안함|03/13|하다가 때려칠 수도?|
