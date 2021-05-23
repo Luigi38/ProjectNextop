@@ -123,7 +123,7 @@ void dfs(const int N, const bool select, const int index, vector<point>& S, Quee
 }
 
 /*
-dfs() - Ä­ º°·Î °¡´Â°Ô ¾Æ´Ñ ÁÙ º°·Î Àç±ÍÈ£Ãâ (index -> line)
+dfs() - ì¹¸ ë³„ë¡œ ê°€ëŠ”ê²Œ ì•„ë‹Œ ì¤„ ë³„ë¡œ ìž¬ê·€í˜¸ì¶œ (index -> line)
 */
 
 int main() { // O(N*8*N^196)
