@@ -38,13 +38,17 @@
 |[StringExplosion.cpp](../main/Baekjoon/20/StringExplosion_11_21.cpp)|[문자열 폭발](https://www.acmicpc.net/problem/9935)|C++|시간 초과|11/21|
 
 ## 한국정보올림피아드
+### Koi / 21
+|소스 코드|문제 수준|문제 제목|언어|성공 여부|날짜|설명|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[e_eraser.cpp](../main/Koi/21/e_eraser.cpp)|초등부|[지우개](https://www.acmicpc.net/problem/21756)|C++|성공|05/23|EASY|
 ### Koi / 20
-|소스 코드|문제 제목|언어|성공 여부|날짜|설명|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|[diet_05_02.cpp](..main/Koi/20/diet_05_02.cpp)|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf), [다이어트 (백준)](https://www.acmicpc.net/problem/19942)|C++|성공|05/02|DFS랑 `higher_than_minimum()` 함수랑 `diet()` 함수 셋 다 문제였음. 아무튼 성공!|
-|[diet_05_01.cpp](../main/Koi/20/diet_05_01.cpp)|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf), [다이어트 (백준)](https://www.acmicpc.net/problem/19942)|C++|실패|05/01|전에 나왔던 오류는 고쳤는데 아직도 `diet()` 함수 코드 때문에 뭔가 계속 틀림. 예제는 맞음.|
-|[hamburger.cpp](../main/Koi/20/hamburger.cpp)|[햄버거 분배](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf)|C++|성공|04/18|시간 복잡도 O(n)|
-|[diet.cpp](../main/Koi/20/diet.cpp)|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf)|C++|실패|04/18|`diet()` 함수만 고치면 성공적으로 될거임.|
+|소스 코드|문제 수준|문제 제목|언어|성공 여부|날짜|설명|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[diet_05_02.cpp](../main/Koi/20/diet_05_02.cpp)|중등부|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf), [다이어트 (백준)](https://www.acmicpc.net/problem/19942)|C++|성공|05/02|DFS랑 `higher_than_minimum()` 함수랑 `diet()` 함수 셋 다 문제였음. 아무튼 성공!|
+|[diet_05_01.cpp](../main/Koi/20/diet_05_01.cpp)|중등부|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf), [다이어트 (백준)](https://www.acmicpc.net/problem/19942)|C++|실패|05/01|전에 나왔던 오류는 고쳤는데 아직도 `diet()` 함수 코드 때문에 뭔가 계속 틀림. 예제는 맞음.|
+|[hamburger.cpp](../main/Koi/20/hamburger.cpp)|중등부|[햄버거 분배](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf)|C++|성공|04/18|시간 복잡도 O(n)|
+|[diet.cpp](../main/Koi/20/diet.cpp)|중등부|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf)|C++|실패|04/18|`diet()` 함수만 고치면 성공적으로 될거임.|
 
 ## OpenCV로 배우는 컴퓨터 비전과 머신러닝
 ### OpenCV / 21
