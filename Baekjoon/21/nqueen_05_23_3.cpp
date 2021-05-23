@@ -8,10 +8,10 @@ struct point {
 };
 
 struct chess {
-	vector<bool> horizontal; //°¡·Î
-	vector<bool> vertical; //¼¼·Î
-	vector<bool> diagonal1; //´ë°¢¼± (¾Æ¿Ş-À§¿À)
-	vector<bool> diagonal2; //´ë°¢¼± (À§¿Ş-¾Æ¿À)
+	vector<bool> horizontal; //ê°€ë¡œ
+	vector<bool> vertical; //ì„¸ë¡œ
+	vector<bool> diagonal1; //ëŒ€ê°ì„  (ì•„ì™¼-ìœ„ì˜¤)
+	vector<bool> diagonal2; //ëŒ€ê°ì„  (ìœ„ì™¼-ì•„ì˜¤)
 };
 
 struct QueenOption {
