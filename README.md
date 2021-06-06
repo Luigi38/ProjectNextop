@@ -45,6 +45,9 @@
 ### Koi / 21
 |소스 코드|문제 수준|문제 제목|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[honey_06_06_02.cpp](../main/Koi/21/honey_06_06_02.cpp)|중등부|[꿀 따기](https://www.acmicpc.net/problem/21758)|C++|부분 성공 : 시간 초과|06/06|다음 시간에 개선 ㄱㄱ|
+|[honey_06_06_01.cpp](../main/Koi/21/honey_06_06_01.cpp)|중등부|[꿀 따기](https://www.acmicpc.net/problem/21758)|C++|부분 성공 : 때려침|06/06|멘붕|
+|[DogHoneyJam_06_06.cpp](../main/Koi/21/DogHoneyJam_06_06.cpp)|중등부|[꿀 따기](https://www.acmicpc.net/problem/21758)|C++|부분 성공 : 실패|06/06|DogHoneyJam 개선 버전. 왜 실패?|
 |[honey.cpp](../main/Koi/21/honey.cpp)|중등부|[꿀 따기](https://www.acmicpc.net/problem/21758)|C++|부분 성공 : 아직 안함|05/30|만들다가 말았음. 밤새서 그런지 머리가 안돌아감.|
 |[DogHoneyJam.cpp](../main/Koi/21/DogHoneyJam.cpp)|중등부|[꿀 따기](https://www.acmicpc.net/problem/21758)|C++|부분 성공|05/30|삼중 포문 안에 while문을 `honey.cpp`처럼 값을 미리 구해서 할 수 있음. O(N^3*2N)|
 |[e_eraser.cpp](../main/Koi/21/e_eraser.cpp)|초등부|[지우개](https://www.acmicpc.net/problem/21756)|C++|성공|05/23|EASY|
