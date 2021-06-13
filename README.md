@@ -45,6 +45,7 @@
 ### Koi / 21
 |소스 코드|문제 수준|문제 제목|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[honey_06_13_03.cpp](../main/Koi/21/honey_06_13_03.cpp)|중등부|[꿀 따기](https://www.acmicpc.net/problem/21758)|C++|부분 성공 (55점)|06/13|상황 3 규칙 개선, O(N^2)|
 |[honey_06_13_02.cpp](../main/Koi/21/honey_06_13_02.cpp)|중등부|[꿀 따기](https://www.acmicpc.net/problem/21758)|C++|부분 성공 (55점)|06/13|`fly()` 함수 개선 버전. 기존 while문을 `DogHoneyJam_06_06.cpp`에 있는 미리 구하는 코드로 변경, O(N^2)|
 |[honey_06_13_01.cpp](../main/Koi/21/honey_06_13_01.cpp)|중등부|[꿀 따기](https://www.acmicpc.net/problem/21758)|C++|부분 성공 (24점)|06/13|Idea [#3](../../issues/3), O(N^3)|
 |[honey_06_06_02.cpp](../main/Koi/21/honey_06_06_02.cpp)|중등부|[꿀 따기](https://www.acmicpc.net/problem/21758)|C++|시간 초과|06/06|다음 시간에 개선 ㄱㄱ|
