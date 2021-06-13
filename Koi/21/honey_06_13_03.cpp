@@ -113,9 +113,6 @@ int main() {
 			continue;
 		}
 
-		//N (Â¦¼ö): N / 2
-		//N (È¦¼ö): N / 2 + 1
-
 		int k = fly(0, N - 1, x3, N, S, max_v, max_v_rev);
 		h = max(h, k);
 	}
