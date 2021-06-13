@@ -132,3 +132,14 @@
 |:---:|:---:|:---:|
 |0|ggLNW5K1pvZcCI4h6fXUjNuRUGaaDBOrUgjoXsaCFjrF36v76OhuWM2HkQYsc51h|라고 합니다|
 |.|[Advanced Encryption Standard](https://www.devglan.com/online-tools/aes-encryption-decryption)|암호화 및 복호화|
+
+## 꿀팁
+```c++
+ios_base::sync_with_stdio(false);
+cin.tie(NULL);
+cout.tie(NULL);
+```
+
+입출력을 전보다 빠르게 가속시킬 수 있다.
+
+endl 보다 '\n'을 사용하기
