@@ -12,9 +12,9 @@ struct option {
 };
 
 /*
-N - Á¤Á¡ÀÇ °³¼ö (ÃÖ´ë)
-M - °£¼±ÀÇ °³¼ö
-V - ½ÃÀÛÇÒ Á¤Á¡ ¹øÈ£
+N - ì •ì ì˜ ê°œìˆ˜ (ìµœëŒ€)
+M - ê°„ì„ ì˜ ê°œìˆ˜
+V - ì‹œìž‘í•  ì •ì  ë²ˆí˜¸
 */
 
 void bfs(const option& o, vector<int>& result) {
