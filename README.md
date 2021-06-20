@@ -3,6 +3,7 @@
 
 - [용어사전](../main/%EC%9A%A9%EC%96%B4%EC%82%AC%EC%A0%84.md)
 - [정보보호영재교육원 2021](../../tree/main/SWU)
+- [가장 어려웠던 문제 모음, 어떻게 풀었을까?](../main/HowSolved.md)
 
 ## 백준 문제
 ### Baekjoon / 21
