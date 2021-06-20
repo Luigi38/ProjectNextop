@@ -8,7 +8,7 @@
 ## 백준 문제
 ### Baekjoon / 21
 |소스 코드|문제 제목|언어|성공 여부|날짜|설명|시도 횟수|
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[dfs_and_bfs.cpp](../main/Baekjoon/21/Graph/dfs_and_bfs.cpp)|[DFS와 BFS](http://boj.kr/1260)|C++|성공|06/20|쉽ね。|1|
 |[nqueen_05_30_pls_final.cpp](../main/Baekjoon/21/nqueen_05_30_pls_final.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|C++|성공|05/30|와 드디어 끝남. 이렇게 단순하게 풀어버리니깐 그동안 만들었던 나만의 알고리즘과 함수들이 갑자기 허무해짐. 아무튼 GG|8|
 |[nqueen_05_23_3.cpp](../main/Baekjoon/21/nqueen_05_23_3.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|C++|시간 초과|05/23|답이 없음. 아 정말. 아 진짜. 5시간 반 동안 갇힌 이유가 사라짐 그냥 다음에 선생님께 물어보는걸로|7|
@@ -32,8 +32,8 @@
 |[prefix_01_24.cpp](../main/Baekjoon/21/prefix_01_24.cpp)|[후위 표기식](http://boj.kr/1918)|C++|출력 초과|01/24|1|
 
 ### Baekjoon / 20
-|소스 코드|문제 제목|언어|성공 여부|날짜|
-|:---:|:---:|:---:|:---:|:---:|
+|소스 코드|문제 제목|언어|성공 여부|날짜|시도 횟수|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |[reverseString2.cpp](../main/Baekjoon/20/reverseString2.cpp)|[문자열 뒤집기2](http://boj.kr/17413)|C++|성공|12/14|.|1|
 |[AC.cpp](../main/Baekjoon/20/AC.cpp)|[AC](http://boj.kr/5430)|C++|성공|12/13|.|1|
 |[stringExplosion3.cpp](../main/Baekjoon/20/stringExplosion3_12_06.cpp)|[문자열 폭발](http://boj.kr/9935)|C++|성공|12/06|.|4|
@@ -45,8 +45,8 @@
 
 ## 한국정보올림피아드
 ### Koi / 21
-|소스 코드|문제 수준|문제 제목|언어|성공 여부|날짜|설명|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|소스 코드|문제 수준|문제 제목|언어|성공 여부|날짜|설명|시도 횟수|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[honey_06_13_04.cpp](../main/Koi/21/honey_06_13_04.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|C++|성공|06/13|최댓값을 미리 구한다면? FINISH. GG, O(3N)|9|
 |[honey_06_13_03.cpp](../main/Koi/21/honey_06_13_03.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|C++|부분 성공 (55점)|06/13|상황 3 규칙 개선, O(N^2)|8|
 |[honey_06_13_02.cpp](../main/Koi/21/honey_06_13_02.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|C++|부분 성공 (55점)|06/13|`fly()` 함수 개선 버전. 기존 while문을 `DogHoneyJam_06_06.cpp`에 있는 미리 구하는 코드로 변경, O(N^2)|7|
@@ -58,8 +58,8 @@
 |[DogHoneyJam.cpp](../main/Koi/21/DogHoneyJam.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|C++|부분 성공 (11점)|05/30|삼중 포문 안에 while문을 `honey.cpp`처럼 값을 미리 구해서 할 수 있음. O(N^3*2N)|1|
 |[e_eraser.cpp](../main/Koi/21/e_eraser.cpp)|초등부|[지우개](http://boj.kr/21756)|C++|성공|05/23|EASY|1|
 ### Koi / 20
-|소스 코드|문제 수준|문제 제목|언어|성공 여부|날짜|설명|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|소스 코드|문제 수준|문제 제목|언어|성공 여부|날짜|설명|시도 횟수|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[diet_05_02.cpp](../main/Koi/20/diet_05_02.cpp)|중등부|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf), [다이어트 (백준)](http://boj.kr/19942)|C++|성공|05/02|DFS랑 `higher_than_minimum()` 함수랑 `diet()` 함수 셋 다 문제였음. 아무튼 성공!|3|
 |[diet_05_01.cpp](../main/Koi/20/diet_05_01.cpp)|중등부|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf), [다이어트 (백준)](http://boj.kr/19942)|C++|실패|05/01|전에 나왔던 오류는 고쳤는데 아직도 `diet()` 함수 코드 때문에 뭔가 계속 틀림. 예제는 맞음.|2|
 |[hamburger.cpp](../main/Koi/20/hamburger.cpp)|중등부|[햄버거 분배](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf)|C++|성공|04/18|시간 복잡도 O(n)|1|
