@@ -7,63 +7,63 @@
 
 ## 백준 문제
 ### Baekjoon / 21
-|소스 코드|문제 제목|언어|성공 여부|날짜|설명|시도 횟수|
+|소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[dfs_and_bfs.cpp](../main/Baekjoon/21/Graph/dfs_and_bfs.cpp)|[DFS와 BFS](http://boj.kr/1260)|C++|성공|06/20|쉽ね。|1|
-|[nqueen_05_30_pls_final.cpp](../main/Baekjoon/21/nqueen_05_30_pls_final.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|C++|성공|05/30|와 드디어 끝남. 이렇게 단순하게 풀어버리니깐 그동안 만들었던 나만의 알고리즘과 함수들이 갑자기 허무해짐. 아무튼 GG|8|
-|[nqueen_05_23_3.cpp](../main/Baekjoon/21/nqueen_05_23_3.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|C++|시간 초과|05/23|답이 없음. 아 정말. 아 진짜. 5시간 반 동안 갇힌 이유가 사라짐 그냥 다음에 선생님께 물어보는걸로|7|
-|[nqueen_05_23_2.cpp](../main/Baekjoon/21/nqueen_05_23_2.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|C++|시간 초과|05/23|record() 함수 갈아 엎은 후 소스 코드. 1로 롤백 예정|6|
-|[nqueen_05_23_1.cpp](../main/Baekjoon/21/nqueen_05_23_1.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|C++|시간 초과|05/23|record() 함수 갈아 엎기 전 소스 코드|5|
-|[nqueen_05_16.cpp](../main/Baekjoon/21/nqueen_05_16.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|C++|시간 초과|05/16|어떻게 백트래킹으로 해도 시간 초과지? 이건 답이 없음. 최악의 시간 복잡도는 O(2^N×N^2*2)|4|
-|[nqueen_05_09.cpp](../main/Baekjoon/21/nqueen_05_09.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|C++|메모리 초과|05/09|다시 한번 갈아 엎으려다가 수정해서 겨우 힘들게 만들었는데 2^196번 탐색을 해야하는 경우에서 좌절했음. 다음 시간에 백트랙킹으로 마무리하면 됨. 거의 다 끝남. BOHEMIAN RHAPSODY|3|
-|[nqueen_05_02.cpp](../main/Baekjoon/21/nqueen_05_02.cpp)|[N-Queen](http://boj.kr/9663)|C++|아직 안함|05/02|한 번 갈아엎고 다시 하다가 때려침. 진심 답이 없는 것 같음. 다음 번에는 선생님께 물어볼거임.|2|
-|[DietOfSungWon.cpp](../main/Baekjoon/21/DietOfSungWon.cpp)|[다이어트](http://boj.kr/1484)|C++|성공|05/01|한국정보올림피아드에서 나온 다이어트 문제 풀다가 개빡쳐서 이거 풀고 옴. 시간 복잡도는 O(n). SUNGWON|1|
-|[nQueen_03_28.cpp](../main/Baekjoon/21/nQueen_03_28.cpp)|[N-Queen](http://boj.kr/9663)|C++|아직 안함|03/28|하다가 때려쳤음. 다음 시간에 코드를 다시 짤거임.|1|
-|[lotto_03_20.cpp](../main/Baekjoon/21/lotto_03_20.cpp)|[로또](http://boj.kr/6603)|C++|성공|03/20|lotto_03_13은 하다가 답이 없어서 때려침. DFS로 대체함|2|
-|[lotto_03_13.cpp](../main/Baekjoon/21/lotto_03_13.cpp)|[로또](http://boj.kr/6603)|C++|아직 안함|03/13|하다가 때려칠 수도?|1|
-|[decomposition.cpp](../main/Baekjoon/21/decomposition.cpp)|[분해합](http://boj.kr/2231)|C++|성공|03/06|1|
-|[tree_03_06.cpp](../main/Baekjoon/21/tree_03_06.cpp)|[트리의 부모 찾기](http://boj.kr/11725)|C++|성공|03/06|2|
-|[tree_02_27_failed.cpp](../main/Baekjoon/21/tree_02_27_failed.cpp)|[트리의 부모 찾기](http://boj.kr/11725)|C++|실패|02/27|1|
-|[tomato3.cpp](../main/Baekjoon/21/tomato3.cpp)|[토마토](http://boj.kr/7569)|C++|성공|02/20|3차원 버전|1|
-|[tomato.cpp](../main/Baekjoon/21/tomato.cpp)|[토마토](http://boj.kr/7576)|C++|성공|02/14|2차원 버전|1|
-|[search_miro_by_bfs.cpp](../main/Baekjoon/21/search_miro_by_bfs.cpp)|[미로 탐색](http://boj.kr/2178)|C++|성공|02/06|2|
-|[BDFS_Deprecated.cpp](../main/Baekjoon/21/BDFS_Deprecated.cpp)|[미로 탐색](http://boj.kr/2178)|C++|실패|02/06|하다가 때려쳤음|1|
-|[prefix_01_31.cpp](../main/Baekjoon/21/prefix_01_31.cpp)|[후위 표기식](http://boj.kr/1918)|C++|성공|01/31|2|
-|[prefix_01_24.cpp](../main/Baekjoon/21/prefix_01_24.cpp)|[후위 표기식](http://boj.kr/1918)|C++|출력 초과|01/24|1|
+|[nqueen_05_30_pls_final.cpp](../main/Baekjoon/21/nqueen_05_30_pls_final.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|8|C++|성공|05/30|와 드디어 끝남. 이렇게 단순하게 풀어버리니깐 그동안 만들었던 나만의 알고리즘과 함수들이 갑자기 허무해짐. 아무튼 GG|
+|[nqueen_05_23_3.cpp](../main/Baekjoon/21/nqueen_05_23_3.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|7|C++|시간 초과|05/23|답이 없음. 아 정말. 아 진짜. 5시간 반 동안 갇힌 이유가 사라짐 그냥 다음에 선생님께 물어보는걸로|
+|[nqueen_05_23_2.cpp](../main/Baekjoon/21/nqueen_05_23_2.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|6|C++|시간 초과|05/23|record() 함수 갈아 엎은 후 소스 코드. 1로 롤백 예정|
+|[nqueen_05_23_1.cpp](../main/Baekjoon/21/nqueen_05_23_1.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|5|C++|시간 초과|05/23|record() 함수 갈아 엎기 전 소스 코드
+|[nqueen_05_16.cpp](../main/Baekjoon/21/nqueen_05_16.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|4|C++|시간 초과|05/16|어떻게 백트래킹으로 해도 시간 초과지? 이건 답이 없음. 최악의 시간 복잡도는 O(2^N×N^2*2)|
+|[nqueen_05_09.cpp](../main/Baekjoon/21/nqueen_05_09.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|3|C++|메모리 초과|05/09|다시 한번 갈아 엎으려다가 수정해서 겨우 힘들게 만들었는데 2^196번 탐색을 해야하는 경우에서 좌절했음. 다음 시간에 백트랙킹으로 마무리하면 됨. 거의 다 끝남. BOHEMIAN RHAPSODY|
+|[nqueen_05_02.cpp](../main/Baekjoon/21/nqueen_05_02.cpp)|[N-Queen](http://boj.kr/9663)|2|C++|아직 안함|05/02|한 번 갈아엎고 다시 하다가 때려침. 진심 답이 없는 것 같음. 다음 번에는 선생님께 물어볼거임.|
+|[DietOfSungWon.cpp](../main/Baekjoon/21/DietOfSungWon.cpp)|[다이어트](http://boj.kr/1484)|1|C++|성공|05/01|한국정보올림피아드에서 나온 다이어트 문제 풀다가 개빡쳐서 이거 풀고 옴. 시간 복잡도는 O(n). SUNGWON|
+|[nQueen_03_28.cpp](../main/Baekjoon/21/nQueen_03_28.cpp)|[N-Queen](http://boj.kr/9663)|1|C++|아직 안함|03/28|하다가 때려쳤음. 다음 시간에 코드를 다시 짤거임.
+|[lotto_03_20.cpp](../main/Baekjoon/21/Graph/lotto_03_20.cpp)|[로또](http://boj.kr/6603)|2|C++|성공|03/20|lotto_03_13은 하다가 답이 없어서 때려침. DFS로 대체함|
+|[lotto_03_13.cpp](../main/Baekjoon/21/Graph/lotto_03_13.cpp)|[로또](http://boj.kr/6603)|1|C++|아직 안함|03/13|하다가 때려칠 수도?|
+|[decomposition.cpp](../main/Baekjoon/21/decomposition.cpp)|[분해합](http://boj.kr/2231)|1|C++|성공|03/06|
+|[tree_03_06.cpp](../main/Baekjoon/21/tree_03_06.cpp)|[트리의 부모 찾기](http://boj.kr/11725)|1|C++|성공|03/06|
+|[tree_02_27_failed.cpp](../main/Baekjoon/21/tree_02_27_failed.cpp)|[트리의 부모 찾기](http://boj.kr/11725)|1|C++|실패|02/27|
+|[tomato3.cpp](../main/Baekjoon/21/tomato3.cpp)|[토마토](http://boj.kr/7569)|1|C++|성공|02/20|3차원 버전|
+|[tomato.cpp](../main/Baekjoon/21/tomato.cpp)|[토마토](http://boj.kr/7576)|1|C++|성공|02/14|2차원 버전|
+|[search_miro_by_bfs.cpp](../main/Baekjoon/21/search_miro_by_bfs.cpp)|[미로 탐색](http://boj.kr/2178)|2|C++|성공|02/06|
+|[BDFS_Deprecated.cpp](../main/Baekjoon/21/Graph/BDFS_Deprecated.cpp)|[미로 탐색](http://boj.kr/2178)|1|C++|실패|02/06|하다가 때려쳤음|
+|[prefix_01_31.cpp](../main/Baekjoon/21/prefix_01_31.cpp)|[후위 표기식](http://boj.kr/1918)|2|C++|성공|01/31|
+|[prefix_01_24.cpp](../main/Baekjoon/21/prefix_01_24.cpp)|[후위 표기식](http://boj.kr/1918)|1|C++|출력 초과|01/24|
 
 ### Baekjoon / 20
-|소스 코드|문제 제목|언어|성공 여부|날짜|시도 횟수|
+|소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|[reverseString2.cpp](../main/Baekjoon/20/reverseString2.cpp)|[문자열 뒤집기2](http://boj.kr/17413)|C++|성공|12/14|.|1|
-|[AC.cpp](../main/Baekjoon/20/AC.cpp)|[AC](http://boj.kr/5430)|C++|성공|12/13|.|1|
-|[stringExplosion3.cpp](../main/Baekjoon/20/stringExplosion3_12_06.cpp)|[문자열 폭발](http://boj.kr/9935)|C++|성공|12/06|.|4|
-|[keylogger.cpp](../main/Baekjoon/20/keylogger.cpp)|[키로거](http://boj.kr/5397)|C++|성공|12/06|.|1|
-|[editor.cpp](../main/Baekjoon/20/editor.cpp)|[에디터](http://boj.kr/1406)|C++|성공|11/28|.|1|
-|[StringExplosion.cpp](../main/Baekjoon/20/StringExplosion_11_28.cpp)|[문자열 폭발](http://boj.kr/9935)|C++|시간 초과|11/28|.|3|
-|[stringExplosion2.cpp](../main/Baekjoon/20/stringExplosion2_11_28.cpp)|[문자열 폭발](http://boj.kr/9935)|C++|시간 초과|11/28|.|2|
-|[StringExplosion.cpp](../main/Baekjoon/20/StringExplosion_11_21.cpp)|[문자열 폭발](http://boj.kr/9935)|C++|시간 초과|11/21|.|1|
+|[reverseString2.cpp](../main/Baekjoon/20/reverseString2.cpp)|[문자열 뒤집기2](http://boj.kr/17413)|1|C++|성공|12/14|
+|[AC.cpp](../main/Baekjoon/20/AC.cpp)|[AC](http://boj.kr/5430)|1|C++|성공|12/13|
+|[stringExplosion3.cpp](../main/Baekjoon/20/stringExplosion3_12_06.cpp)|[문자열 폭발](http://boj.kr/9935)|4|C++|성공|12/06|
+|[keylogger.cpp](../main/Baekjoon/20/keylogger.cpp)|[키로거](http://boj.kr/5397)|1|C++|성공|12/06|
+|[editor.cpp](../main/Baekjoon/20/editor.cpp)|[에디터](http://boj.kr/1406)|1|C++|성공|11/28|
+|[StringExplosion.cpp](../main/Baekjoon/20/StringExplosion_11_28.cpp)|[문자열 폭발](http://boj.kr/9935)|3|C++|시간 초과|11/28|
+|[stringExplosion2.cpp](../main/Baekjoon/20/stringExplosion2_11_28.cpp)|[문자열 폭발](http://boj.kr/9935)|2|C++|시간 초과|11/28|
+|[StringExplosion.cpp](../main/Baekjoon/20/StringExplosion_11_21.cpp)|[문자열 폭발](http://boj.kr/9935)|C++|1|시간 초과|11/21|
 
 ## 한국정보올림피아드
 ### Koi / 21
-|소스 코드|문제 수준|문제 제목|언어|성공 여부|날짜|설명|시도 횟수|
+|소스 코드|문제 수준|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[honey_06_13_04.cpp](../main/Koi/21/honey_06_13_04.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|C++|성공|06/13|최댓값을 미리 구한다면? FINISH. GG, O(3N)|9|
-|[honey_06_13_03.cpp](../main/Koi/21/honey_06_13_03.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|C++|부분 성공 (55점)|06/13|상황 3 규칙 개선, O(N^2)|8|
-|[honey_06_13_02.cpp](../main/Koi/21/honey_06_13_02.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|C++|부분 성공 (55점)|06/13|`fly()` 함수 개선 버전. 기존 while문을 `DogHoneyJam_06_06.cpp`에 있는 미리 구하는 코드로 변경, O(N^2)|7|
-|[honey_06_13_01.cpp](../main/Koi/21/honey_06_13_01.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|C++|부분 성공 (24점)|06/13|Idea [#3](../../issues/3), O(N^3)|6|
-|[honey_06_06_02.cpp](../main/Koi/21/honey_06_06_02.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|C++|시간 초과|06/06|다음 시간에 개선 ㄱㄱ|5|
-|[honey_06_06_01.cpp](../main/Koi/21/honey_06_06_01.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|C++|때려침|06/06|멘붕|4|
-|[DogHoneyJam_06_06.cpp](../main/Koi/21/DogHoneyJam_06_06.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|C++|실패|06/06|DogHoneyJam 개선 버전. 왜 실패?|3|
-|[honey.cpp](../main/Koi/21/honey.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|C++|아직 안함|05/30|만들다가 말았음. 밤새서 그런지 머리가 안돌아감.|2|
-|[DogHoneyJam.cpp](../main/Koi/21/DogHoneyJam.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|C++|부분 성공 (11점)|05/30|삼중 포문 안에 while문을 `honey.cpp`처럼 값을 미리 구해서 할 수 있음. O(N^3*2N)|1|
-|[e_eraser.cpp](../main/Koi/21/e_eraser.cpp)|초등부|[지우개](http://boj.kr/21756)|C++|성공|05/23|EASY|1|
+|[honey_06_13_04.cpp](../main/Koi/21/honey_06_13_04.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|9|C++|성공|06/13|최댓값을 미리 구한다면? FINISH. GG, O(3N)|
+|[honey_06_13_03.cpp](../main/Koi/21/honey_06_13_03.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|8|C++|부분 성공 (55점)|06/13|상황 3 규칙 개선, O(N^2)|
+|[honey_06_13_02.cpp](../main/Koi/21/honey_06_13_02.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|7|C++|부분 성공 (55점)|06/13|`fly()` 함수 개선 버전. 기존 while문을 `DogHoneyJam_06_06.cpp`에 있는 미리 구하는 코드로 변경, O(N^2)|
+|[honey_06_13_01.cpp](../main/Koi/21/honey_06_13_01.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|6|C++|부분 성공 (24점)|06/13|Idea [#3](../../issues/3), O(N^3)|
+|[honey_06_06_02.cpp](../main/Koi/21/honey_06_06_02.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|5|C++|시간 초과|06/06|다음 시간에 개선 ㄱㄱ|
+|[honey_06_06_01.cpp](../main/Koi/21/honey_06_06_01.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|4|C++|때려침|06/06|멘붕|
+|[DogHoneyJam_06_06.cpp](../main/Koi/21/DogHoneyJam_06_06.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|3|C++|실패|06/06|DogHoneyJam 개선 버전. 왜 실패?|
+|[honey.cpp](../main/Koi/21/honey.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|2|C++|아직 안함|05/30|만들다가 말았음. 밤새서 그런지 머리가 안돌아감.|
+|[DogHoneyJam.cpp](../main/Koi/21/DogHoneyJam.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|1|C++|부분 성공 (11점)|05/30|삼중 포문 안에 while문을 `honey.cpp`처럼 값을 미리 구해서 할 수 있음. O(N^3*2N)|
+|[e_eraser.cpp](../main/Koi/21/e_eraser.cpp)|초등부|[지우개](http://boj.kr/21756)|1|C++|성공|05/23|EASY|
 ### Koi / 20
-|소스 코드|문제 수준|문제 제목|언어|성공 여부|날짜|설명|시도 횟수|
+|소스 코드|문제 수준|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[diet_05_02.cpp](../main/Koi/20/diet_05_02.cpp)|중등부|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf), [다이어트 (백준)](http://boj.kr/19942)|C++|성공|05/02|DFS랑 `higher_than_minimum()` 함수랑 `diet()` 함수 셋 다 문제였음. 아무튼 성공!|3|
-|[diet_05_01.cpp](../main/Koi/20/diet_05_01.cpp)|중등부|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf), [다이어트 (백준)](http://boj.kr/19942)|C++|실패|05/01|전에 나왔던 오류는 고쳤는데 아직도 `diet()` 함수 코드 때문에 뭔가 계속 틀림. 예제는 맞음.|2|
-|[hamburger.cpp](../main/Koi/20/hamburger.cpp)|중등부|[햄버거 분배](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf)|C++|성공|04/18|시간 복잡도 O(n)|1|
-|[diet.cpp](../main/Koi/20/diet.cpp)|중등부|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf)|C++|실패|04/18|`diet()` 함수만 고치면 성공적으로 될거임.|1|
+|[diet_05_02.cpp](../main/Koi/20/diet_05_02.cpp)|중등부|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf), [다이어트 (백준)](http://boj.kr/19942)|3|C++|성공|05/02|DFS랑 `higher_than_minimum()` 함수랑 `diet()` 함수 셋 다 문제였음. 아무튼 성공!|
+|[diet_05_01.cpp](../main/Koi/20/diet_05_01.cpp)|중등부|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf), [다이어트 (백준)](http://boj.kr/19942)|2|C++|실패|05/01|전에 나왔던 오류는 고쳤는데 아직도 `diet()` 함수 코드 때문에 뭔가 계속 틀림. 예제는 맞음.|
+|[hamburger.cpp](../main/Koi/20/hamburger.cpp)|중등부|[햄버거 분배](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf)|1|C++|성공|04/18|시간 복잡도 O(n)|
+|[diet.cpp](../main/Koi/20/diet.cpp)|중등부|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf)|1|C++|실패|04/18|`diet()` 함수만 고치면 성공적으로 될거임.|
 
 ## OpenCV로 배우는 컴퓨터 비전과 머신러닝
 ### OpenCV / 21
