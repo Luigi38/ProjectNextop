@@ -10,7 +10,7 @@
 ### Baekjoon / 21
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[fibonacci.cpp](../main/Baekjoon/21/fibonacci_improved.cpp)|[피보나치 함수](http://boj.kr/1003)|1|C++|성공|06/27|O(N)|
+|[fibonacci_improved.cpp](../main/Baekjoon/21/fibonacci_improved.cpp)|[피보나치 함수](http://boj.kr/1003)|1|C++|성공|06/27|O(N)|
 |[fibonacci.cpp](../main/Baekjoon/21/fibonacci.cpp)|[피보나치 함수](http://boj.kr/1003)|1|C++|성공|06/27|원래 정석적인 방법은 O(N)인데 나는 O(N - 5)로 해결함. 이게 맞나?|
 |[paste_complex.cpp](../main/Baekjoon/21/Graph/paste_complex.cpp)|[단지번호붙이기](http://boj.kr/2667)|1|C++|성공|06/20|문제 자체는 쉬웠는데 좀 애먹었음. GG|
 |[dfs_and_bfs.cpp](../main/Baekjoon/21/Graph/dfs_and_bfs.cpp)|[DFS와 BFS](http://boj.kr/1260)|1|C++|성공|06/20|쉽ね。|
