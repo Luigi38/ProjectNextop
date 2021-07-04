@@ -10,6 +10,7 @@
 ### Baekjoon / 21
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[virus.cpp](../main/Baekjoon/21/Graph/virus.cpp)|[바이러스](http://boj.kr/2606)|1|C++|성공|07/04|
 |[make_to_one.cpp](../main/Baekjoon/21/DP/make_to_one.cpp)|[1로 만들기](http://boj.kr/1463)|1|C++|성공|06/27|
 |[fibonacci_improved.cpp](../main/Baekjoon/21/fibonacci_improved.cpp)|[피보나치 함수](http://boj.kr/1003)|1|C++|성공|06/27|O(N)|
 |[fibonacci.cpp](../main/Baekjoon/21/fibonacci.cpp)|[피보나치 함수](http://boj.kr/1003)|1|C++|성공|06/27|원래 정석적인 방법은 O(N)인데 나는 O(N - 5)로 해결함. 이게 맞나?|
