@@ -10,6 +10,8 @@
 ### Baekjoon / 21
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[essence_triangle_02.cpp](../main/Baekjoon/21/DP/essence_triangle_02.cpp)|[정수 삼각형](http://boj.kr/1932)|2|C++|성공|07/11|막상 해보니깐 쉬운데 풀 때는 진짜 어려운 것 같음. dp는 v의 배열 구조에 따라서 유동적으로 변할 수 있구나.. 라고 생각을 하게 됨.|
+|[essence_triangle.cpp](../main/Baekjoon/21/DP/essence_triangle.cpp)|[정수 삼각형](http://boj.kr/1932)|1|C++|아직 안함|07/11|머리 터질 것 같아서 때려침.|
 |[rise_stair.cpp](../main/Baekjoon/21/DP/rise_stair.cpp)|[계단 오르기](http://boj.kr/2579)|1|C++|성공|07/04|
 |[virus.cpp](../main/Baekjoon/21/Graph/virus.cpp)|[바이러스](http://boj.kr/2606)|1|C++|성공|07/04|
 |[make_to_one.cpp](../main/Baekjoon/21/DP/make_to_one.cpp)|[1로 만들기](http://boj.kr/1463)|1|C++|성공|06/27|
