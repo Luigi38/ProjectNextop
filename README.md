@@ -10,6 +10,7 @@
 ### Baekjoon / 21
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[min_heap.cpp](../main/Baekjoon/21/DataStructure/min_heap.cpp)|[최소 힙](http://boj.kr/1927)|1|C++|성공|07/18|
 |[max_heap.cpp](../main/Baekjoon/21/DataStructure/max_heap.cpp)|[최대 힙](http://boj.kr/11279)|1|C++|성공|07/18|
 |[essence_triangle_02.cpp](../main/Baekjoon/21/DP/essence_triangle_02.cpp)|[정수 삼각형](http://boj.kr/1932)|2|C++|성공|07/11|막상 해보니깐 쉬운데 풀 때는 진짜 어려운 것 같음. dp는 v의 배열 구조에 따라서 유동적으로 변할 수 있구나.. 라고 생각을 하게 됨.|
 |[essence_triangle.cpp](../main/Baekjoon/21/DP/essence_triangle.cpp)|[정수 삼각형](http://boj.kr/1932)|1|C++|아직 안함|07/11|머리 터질 것 같아서 때려침.|
