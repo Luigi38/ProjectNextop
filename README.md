@@ -26,18 +26,18 @@
 |[fibonacci.cpp](../main/Baekjoon/21/DP/fibonacci.cpp)|[피보나치 함수](http://boj.kr/1003)|1|C++|성공|06/27|원래 정석적인 방법은 O(N)인데 나는 O(N - 5)로 해결함. 이게 맞나?|
 |[paste_complex.cpp](../main/Baekjoon/21/Graph/paste_complex.cpp)|[단지번호붙이기](http://boj.kr/2667)|1|C++|성공|06/20|문제 자체는 쉬웠는데 좀 애먹었음. GG|
 |[dfs_and_bfs.cpp](../main/Baekjoon/21/Graph/dfs_and_bfs.cpp)|[DFS와 BFS](http://boj.kr/1260)|1|C++|성공|06/20|쉽ね。|
-|[nqueen_05_30_pls_final.cpp](../main/Baekjoon/21/Graph/N-Queen/nqueen_05_30_pls_final.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|8|C++|성공|05/30|와 드디어 끝남. 이렇게 단순하게 풀어버리니깐 그동안 만들었던 나만의 알고리즘과 함수들이 갑자기 허무해짐. 아무튼 GG|
-|[nqueen_05_23_3.cpp](../main/Baekjoon/21/Graph/N-Queen/nqueen_05_23_3.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|7|C++|시간 초과|05/23|답이 없음. 아 정말. 아 진짜. 5시간 반 동안 갇힌 이유가 사라짐 그냥 다음에 선생님께 물어보는걸로|
-|[nqueen_05_23_2.cpp](../main/Baekjoon/21/Graph/N-Queen/nqueen_05_23_2.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|6|C++|시간 초과|05/23|record() 함수 갈아 엎은 후 소스 코드. 1로 롤백 예정|
-|[nqueen_05_23_1.cpp](../main/Baekjoon/21/Graph/N-Queen/nqueen_05_23_1.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|5|C++|시간 초과|05/23|record() 함수 갈아 엎기 전 소스 코드
-|[nqueen_05_16.cpp](../main/Baekjoon/21/Graph/N-Queen/nqueen_05_16.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|4|C++|시간 초과|05/16|어떻게 백트래킹으로 해도 시간 초과지? 이건 답이 없음. 최악의 시간 복잡도는 O(2^N×N^2*2)|
-|[nqueen_05_09.cpp](../main/Baekjoon/21/Graph/N-Queen/nqueen_05_09.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|3|C++|메모리 초과|05/09|다시 한번 갈아 엎으려다가 수정해서 겨우 힘들게 만들었는데 2^196번 탐색을 해야하는 경우에서 좌절했음. 다음 시간에 백트랙킹으로 마무리하면 됨. 거의 다 끝남. BOHEMIAN RHAPSODY|
-|[nqueen_05_02.cpp](../main/Baekjoon/21/Graph/N-Queen/nqueen_05_02.cpp)|[N-Queen](http://boj.kr/9663)|2|C++|아직 안함|05/02|한 번 갈아엎고 다시 하다가 때려침. 진심 답이 없는 것 같음. 다음 번에는 선생님께 물어볼거임.|
+|[nqueen_05_30_pls_final.cpp](../main/Baekjoon/21/Brute-Force/N-Queen/nqueen_05_30_pls_final.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|8|C++|성공|05/30|와 드디어 끝남. 이렇게 단순하게 풀어버리니깐 그동안 만들었던 나만의 알고리즘과 함수들이 갑자기 허무해짐. 아무튼 GG|
+|[nqueen_05_23_3.cpp](../main/Baekjoon/21/Brute-Force/N-Queen/nqueen_05_23_3.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|7|C++|시간 초과|05/23|답이 없음. 아 정말. 아 진짜. 5시간 반 동안 갇힌 이유가 사라짐 그냥 다음에 선생님께 물어보는걸로|
+|[nqueen_05_23_2.cpp](../main/Baekjoon/21/Brute-Force/N-Queen/nqueen_05_23_2.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|6|C++|시간 초과|05/23|record() 함수 갈아 엎은 후 소스 코드. 1로 롤백 예정|
+|[nqueen_05_23_1.cpp](../main/Baekjoon/21/Brute-Force/N-Queen/nqueen_05_23_1.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|5|C++|시간 초과|05/23|record() 함수 갈아 엎기 전 소스 코드
+|[nqueen_05_16.cpp](../main/Baekjoon/21/Brute-Force/N-Queen/nqueen_05_16.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|4|C++|시간 초과|05/16|어떻게 백트래킹으로 해도 시간 초과지? 이건 답이 없음. 최악의 시간 복잡도는 O(2^N×N^2*2)|
+|[nqueen_05_09.cpp](../main/Baekjoon/21/Brute-Force/N-Queen/nqueen_05_09.cpp)|[N-Queen](http://boj.kr/9663), [N-Queen 문제 풀이](http://sooyoung32.github.io/dev/2016/03/14/n-queen-algorithm.html)|3|C++|메모리 초과|05/09|다시 한번 갈아 엎으려다가 수정해서 겨우 힘들게 만들었는데 2^196번 탐색을 해야하는 경우에서 좌절했음. 다음 시간에 백트랙킹으로 마무리하면 됨. 거의 다 끝남. BOHEMIAN RHAPSODY|
+|[nqueen_05_02.cpp](../main/Baekjoon/21/Brute-Force/N-Queen/nqueen_05_02.cpp)|[N-Queen](http://boj.kr/9663)|2|C++|아직 안함|05/02|한 번 갈아엎고 다시 하다가 때려침. 진심 답이 없는 것 같음. 다음 번에는 선생님께 물어볼거임.|
 |[DietOfSungWon.cpp](../main/Baekjoon/21/DietOfSungWon.cpp)|[다이어트](http://boj.kr/1484)|1|C++|성공|05/01|한국정보올림피아드에서 나온 다이어트 문제 풀다가 개빡쳐서 이거 풀고 옴. 시간 복잡도는 O(n). SUNGWON|
-|[nQueen_03_28.cpp](../main/Baekjoon/21/nQueen_03_28.cpp)|[N-Queen](http://boj.kr/9663)|1|C++|아직 안함|03/28|하다가 때려쳤음. 다음 시간에 코드를 다시 짤거임.
+|[nQueen_03_28.cpp](../main/Baekjoon/21/Brute-Force/N-Queen/nQueen_03_28.cpp)|[N-Queen](http://boj.kr/9663)|1|C++|아직 안함|03/28|하다가 때려쳤음. 다음 시간에 코드를 다시 짤거임.
 |[lotto_03_20.cpp](../main/Baekjoon/21/Graph/lotto_03_20.cpp)|[로또](http://boj.kr/6603)|2|C++|성공|03/20|lotto_03_13은 하다가 답이 없어서 때려침. DFS로 대체함|
 |[lotto_03_13.cpp](../main/Baekjoon/21/Graph/lotto_03_13.cpp)|[로또](http://boj.kr/6603)|1|C++|아직 안함|03/13|하다가 때려칠 수도?|
-|[decomposition.cpp](../main/Baekjoon/21/decomposition.cpp)|[분해합](http://boj.kr/2231)|1|C++|성공|03/06|
+|[decomposition.cpp](../main/Baekjoon/21/Brute-Forcedecomposition.cpp)|[분해합](http://boj.kr/2231)|1|C++|성공|03/06|
 |[tree_03_06.cpp](../main/Baekjoon/21/Graph/tree_03_06.cpp)|[트리의 부모 찾기](http://boj.kr/11725)|1|C++|성공|03/06|
 |[tree_02_27_failed.cpp](../main/Baekjoon/21/Graph/tree_02_27_failed.cpp)|[트리의 부모 찾기](http://boj.kr/11725)|1|C++|실패|02/27|
 |[tomato3.cpp](../main/Baekjoon/21/Graph/tomato3.cpp)|[토마토](http://boj.kr/7569)|1|C++|성공|02/20|3차원 버전|
