@@ -20,9 +20,9 @@ int get_tomato_date(const int M, const int N, const int H, vector<box>& boxes, q
 
 	point last_point = { -1, -1, -1 };
 
-	int dx[] = { 0, 0, -1, 1, 0, 0 }; //°¡·Î
-	int dy[] = { 1, -1, 0, 0, 0, 0 }; //¼¼·Î
-	int dz[] = { 0, 0, 0, 0, 1, -1 }; //³ôÀÌ
+	int dx[] = { 0, 0, -1, 1, 0, 0 }; //ê°€ë¡œ
+	int dy[] = { 1, -1, 0, 0, 0, 0 }; //ì„¸ë¡œ
+	int dz[] = { 0, 0, 0, 0, 1, -1 }; //ë†’ì´
 
 	while (!points.empty()) {
 		point now = points.front();
@@ -41,7 +41,7 @@ int get_tomato_date(const int M, const int N, const int H, vector<box>& boxes, q
 		}
 	}
 
-	if (last_point.x == -1 && last_point.y == -1 && last_point.z == -1) return -1; //ÃÊ±â°ª
+	if (last_point.x == -1 && last_point.y == -1 && last_point.z == -1) return -1; //ì´ˆê¸°ê°’
 	for (int z = 0; z < H; z++) for (int y = 0; y < N; y++) for (int x = 0; x < M; x++) if (boxes[z][y][x] == 0) return -1;
 
 	return counts[last_point.z][last_point.y][last_point.x];
@@ -52,16 +52,16 @@ bool is_tomato_in_bounds(const point p, const int M, const int N, const int H) {
 }
 
 int main() {
-	int M, N, H; //°¡·Î, ¼¼·Î, ³ôÀÌ
+	int M, N, H; //ê°€ë¡œ, ì„¸ë¡œ, ë†’ì´
 	cin >> M >> N >> H;
 
-	vector<box> boxes; //ÀÔ·Â ¼ø¼­´Â ¹İ´ë·Î
+	vector<box> boxes; //ì…ë ¥ ìˆœì„œëŠ” ë°˜ëŒ€ë¡œ
 	vector<box> counts;
 	queue<point> riped_boxes;
 
 	bool already_riped = true;
 
-	for (int i = 0; i < H; i++) { //Åä¸¶Åä µ¥ÀÌÅÍ ÀÔ·Â
+	for (int i = 0; i < H; i++) { //í† ë§ˆí†  ë°ì´í„° ì…ë ¥
 		boxes.push_back(box());
 		counts.push_back(box());
 
