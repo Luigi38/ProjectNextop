@@ -13,7 +13,6 @@
 ### Baekjoon / 21
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-
 |[total_number_of_2d_array_02.cpp](../main/Baekjoon/21/total_number_of_2d_array_02.cpp)|[2차원 배열의 합](http://boj.kr/2167)|1|C++|성공|08/08|집합을 사용한 풀이, 시간 복잡도 재료: O(N * M), 답: O(K)|
 |[total_number_of_2d_array_01.cpp](../main/Baekjoon/21/total_number_of_2d_array_01.cpp)|[2차원 배열의 합](http://boj.kr/2167)|1|C++|성공|08/08|시도한지 1번만에 성공. 하지만 개선 케이스가 있다고 함. 시간 복잡도는 O(K * N)|
 |[min_heap.cpp](../main/Baekjoon/21/DataStructure/min_heap.cpp)|[최소 힙](http://boj.kr/1927)|1|C++|성공|07/18|
