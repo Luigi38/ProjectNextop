@@ -37,7 +37,7 @@
 |[nQueen_03_28.cpp](../main/Baekjoon/21/Brute-Force/N-Queen/nQueen_03_28.cpp)|[N-Queen](http://boj.kr/9663)|1|C++|아직 안함|03/28|하다가 때려쳤음. 다음 시간에 코드를 다시 짤거임.
 |[lotto_03_20.cpp](../main/Baekjoon/21/Graph/lotto_03_20.cpp)|[로또](http://boj.kr/6603)|2|C++|성공|03/20|lotto_03_13은 하다가 답이 없어서 때려침. DFS로 대체함|
 |[lotto_03_13.cpp](../main/Baekjoon/21/Graph/lotto_03_13.cpp)|[로또](http://boj.kr/6603)|1|C++|아직 안함|03/13|하다가 때려칠 수도?|
-|[decomposition.cpp](../main/Baekjoon/21/Brute-Forcedecomposition.cpp)|[분해합](http://boj.kr/2231)|1|C++|성공|03/06|
+|[decomposition.cpp](../main/Baekjoon/21/Brute-Force/decomposition.cpp)|[분해합](http://boj.kr/2231)|1|C++|성공|03/06|
 |[tree_03_06.cpp](../main/Baekjoon/21/Graph/tree_03_06.cpp)|[트리의 부모 찾기](http://boj.kr/11725)|1|C++|성공|03/06|
 |[tree_02_27_failed.cpp](../main/Baekjoon/21/Graph/tree_02_27_failed.cpp)|[트리의 부모 찾기](http://boj.kr/11725)|1|C++|실패|02/27|
 |[tomato3.cpp](../main/Baekjoon/21/Graph/tomato3.cpp)|[토마토](http://boj.kr/7569)|1|C++|성공|02/20|3차원 버전|
