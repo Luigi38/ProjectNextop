@@ -37,11 +37,17 @@
 |[fibonacci_improved.cpp](../main/Baekjoon/21/DP/fibonacci_improved.cpp)|[피보나치 함수](http://boj.kr/1003)|1|C++|성공|6/27/2021|O(N)|
 |[fibonacci.cpp](../main/Baekjoon/21/DP/fibonacci.cpp)|[피보나치 함수](http://boj.kr/1003)|1|C++|성공|6/27/2021|원래 정석적인 방법은 O(N)인데 나는 O(N - 5)로 해결함. 이게 맞나?|
 
-### 자료구조
+### 자료 구조 (우선순위 큐)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[min_heap.cpp](../main/Baekjoon/21/Data%20Structure/min_heap.cpp)|[최소 힙](http://boj.kr/1927)|1|C++|성공|7/18/2021|
-|[max_heap.cpp](../main/Baekjoon/21/Data%20Structure/max_heap.cpp)|[최대 힙](http://boj.kr/11279)|1|C++|성공|7/18/2021|
+|[min_heap.cpp](../main/Baekjoon/21/Data%20Structure/Priority%20Queue/min_heap.cpp)|[최소 힙](http://boj.kr/1927)|1|C++|성공|7/18/2021|
+|[max_heap.cpp](../main/Baekjoon/21/Data%20Structure/Priority%20Queue/max_heap.cpp)|[최대 힙](http://boj.kr/11279)|1|C++|성공|7/18/2021|
+
+### 자료 구조 (스택)
+|소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[prefix_01_31.cpp](../main/Baekjoon/21/Data%20Structure/Stack/prefix_01_31.cpp)|[후위 표기식](http://boj.kr/1918)|2|C++|성공|1/31/2021|
+|[prefix_01_24.cpp](../main/Baekjoon/21/Data%20Structure/Stack/prefix_01_24.cpp)|[후위 표기식](http://boj.kr/1918)|1|C++|출력 초과|1/24/2021|
 
 ### 그래프 (BFS & DFS)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
@@ -67,9 +73,7 @@
 ### Baekjoon / 21
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[DietOfSungWon.cpp](../main/Baekjoon/21/DietOfSungWon.cpp)|[다이어트](http://boj.kr/1484)|1|C++|성공|5/1/2021|한국정보올림피아드에서 나온 다이어트 문제 풀다가 개빡쳐서 이거 풀고 옴. 시간 복잡도는 O(n). SUNGWON|
-|[prefix_01_31.cpp](../main/Baekjoon/21/prefix_01_31.cpp)|[후위 표기식](http://boj.kr/1918)|2|C++|성공|1/31/2021|
-|[prefix_01_24.cpp](../main/Baekjoon/21/prefix_01_24.cpp)|[후위 표기식](http://boj.kr/1918)|1|C++|출력 초과|1/24/2021|
+|[diet_of_SUNGWON.cpp](../main/Baekjoon/21/diet_of_SUNGWON.cpp)|[다이어트](http://boj.kr/1484)|1|C++|성공|5/1/2021|한국정보올림피아드에서 나온 다이어트 문제 풀다가 개빡쳐서 이거 풀고 옴. 시간 복잡도는 O(n). SUNGWON|
 
 ### Baekjoon / 20
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|
