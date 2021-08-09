@@ -85,7 +85,7 @@
 |[editor.cpp](../main/Baekjoon/20/editor.cpp)|[에디터](http://boj.kr/1406)|1|C++|성공|11/28/2020|
 |[StringExplosion.cpp](../main/Baekjoon/20/StringExplosion_11_28.cpp)|[문자열 폭발](http://boj.kr/9935)|3|C++|시간 초과|11/28/2020|
 |[stringExplosion2.cpp](../main/Baekjoon/20/stringExplosion2_11_28.cpp)|[문자열 폭발](http://boj.kr/9935)|2|C++|시간 초과|11/28/2020|
-|[StringExplosion.cpp](../main/Baekjoon/20/StringExplosion_11_21.cpp)|[문자열 폭발](http://boj.kr/9935)|C++|1|시간 초과|11/21/2020|
+|[StringExplosion.cpp](../main/Baekjoon/20/StringExplosion_11_21.cpp)|[문자열 폭발](http://boj.kr/9935)|1|C++|시간 초과|11/21/2020|
 
 ## 프로그래머스
 ### Programmers / 21
