@@ -1,59 +1,33 @@
 #include <iostream>
 #include <vector>
-#include <stack>
 using namespace std;
-typedef long long ll;
 
 struct zto {
-	ll zero;
-	ll one;
+	int zero;
+	int one;
 };
 
 zto operator +(const zto& a, const zto& b) {
 	return { a.zero + b.zero, a.one + b.one };
 }
 
-zto get_fibonacci(const int n) {
-	zto s = { 0, 0 };
-
-	if (n == 0) {
-		s.zero++;
-		return s;
-	}
-	else if (n == 1) {
-		s.one++;
-		return s;
+zto fibonacci(const int n, vector<zto>& counts) {
+	if (counts[n].zero != 0 || counts[n].one != 0) {
+		return counts[n];
 	}
 
-	zto odd = { 1, 2 }; //3 : 0
-	zto even = { 2, 3 }; //4 : 1
-	zto oe = { 3, 5 }; //5 : 2
-
-	if (n == 2) {
-		return { 1, 1 };
-	}
-	else if (n == 3) {
-		return odd;
-	}
-	else if (n == 4) {
-		return even;
-	}
-	else if (n == 5) {
-		return oe;
-	}
-	
-	s = { 3, 5 }; //init with 5
-
-	for (int i = 6; i <= n; i++) {
-		s = { s.one, s.zero + s.one };
-	}
-
-	return s;
+	counts[n] = fibonacci(n - 1, counts) + fibonacci(n - 2, counts);
+	return counts[n];
 }
 
 int main() {
 	int T;
+
 	vector<zto> v;
+	vector<zto> counts(41, { 0, 0 });
+
+	counts[0] = { 1, 0 };
+	counts[1] = { 0, 1 };
 
 	cin >> T;
 
@@ -61,7 +35,7 @@ int main() {
 		int N;
 		cin >> N;
 
-		zto s = get_fibonacci(N);
+		zto s = fibonacci(N, counts);
 		v.push_back(s);
 	}
 

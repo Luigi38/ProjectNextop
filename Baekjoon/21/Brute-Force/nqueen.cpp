@@ -44,6 +44,7 @@ void dfs(const int N, const int y, const int x, QueenOption& option) {
 	option.confirmed.diagonal2[y - x + N - 1] = false;
 }
 
+//pls_final
 int main() {
 	int N;
 	QueenOption option;
