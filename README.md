@@ -26,8 +26,8 @@
 |[nqueen_t5_v1.cpp](../main/Baekjoon/21/Brute-Force/Footprints/N-Queen/nqueen_t5_v1.cpp)|[N-Queen](http://boj.kr/9663)|5|C++|시간 초과|5/23/2021|record() 함수 갈아 엎기 전 소스 코드
 |[nqueen_t4.cpp](../main/Baekjoon/21/Brute-Force/Footprints/N-Queen/nqueen_t4.cpp)|[N-Queen](http://boj.kr/9663)|4|C++|시간 초과|5/16/2021|어떻게 백트래킹으로 해도 시간 초과지? 이건 답이 없음. 최악의 시간 복잡도는 O(2^N×N^2*2)|
 |[nqueen_t3.cpp](../main/Baekjoon/21/Brute-Force/Footprints/N-Queen/nqueen_t3.cpp)|[N-Queen](http://boj.kr/9663)|3|C++|메모리 초과|5/9/2021|다시 한번 갈아 엎으려다가 수정해서 겨우 힘들게 만들었는데 2^196번 탐색을 해야하는 경우에서 좌절했음. 다음 시간에 백트랙킹으로 마무리하면 됨. 거의 다 끝남. BOHEMIAN RHAPSODY|
-|[nqueen_t2.cpp](../main/Baekjoon/21/Brute-Force/Footprints/N-Queen/nqueen_t2.cpp)|[N-Queen](http://boj.kr/9663)|2|C++|아직 안함|5/2/2021|한 번 갈아엎고 다시 하다가 때려침. 진심 답이 없는 것 같음. 다음 번에는 선생님께 물어볼거임.|
-|[nQueen_t1.cpp](../main/Baekjoon/21/Brute-Force/Footprints/N-Queen/nQueen_t1.cpp)|[N-Queen](http://boj.kr/9663)|1|C++|아직 안함|3/28/2021|하다가 때려쳤음. 다음 시간에 코드를 다시 짤거임.|
+|[nqueen_t2_d.cpp](../main/Baekjoon/21/Brute-Force/Footprints/N-Queen/nqueen_t2_d.cpp)|[N-Queen](http://boj.kr/9663)|2|C++|아직 안함|5/2/2021|한 번 갈아엎고 다시 하다가 때려침. 진심 답이 없는 것 같음. 다음 번에는 선생님께 물어볼거임.|
+|[nQueen_t1_d.cpp](../main/Baekjoon/21/Brute-Force/Footprints/N-Queen/nQueen_t1_d.cpp)|[N-Queen](http://boj.kr/9663)|1|C++|아직 안함|3/28/2021|하다가 때려쳤음. 다음 시간에 코드를 다시 짤거임.|
 
 ### [동적 계획법 (DP)](../../tree/main/Baekjoon/21/DP)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
