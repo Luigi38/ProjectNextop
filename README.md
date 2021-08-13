@@ -27,7 +27,7 @@
 |[nqueen_t4.cpp](../main/Baekjoon/21/Brute-Force/Footprints/N-Queen/nqueen_t4.cpp)|[N-Queen](http://boj.kr/9663)|4|C++|시간 초과|5/16/2021|어떻게 백트래킹으로 해도 시간 초과지? 이건 답이 없음. 최악의 시간 복잡도는 O(2^N×N^2*2)|
 |[nqueen_t3.cpp](../main/Baekjoon/21/Brute-Force/Footprints/N-Queen/nqueen_t3.cpp)|[N-Queen](http://boj.kr/9663)|3|C++|메모리 초과|5/9/2021|다시 한번 갈아 엎으려다가 수정해서 겨우 힘들게 만들었는데 2^196번 탐색을 해야하는 경우에서 좌절했음. 다음 시간에 백트랙킹으로 마무리하면 됨. 거의 다 끝남. BOHEMIAN RHAPSODY|
 |[nqueen_t2_d.cpp](../main/Baekjoon/21/Brute-Force/Footprints/N-Queen/nqueen_t2_d.cpp)|[N-Queen](http://boj.kr/9663)|2|C++|아직 안함|5/2/2021|한 번 갈아엎고 다시 하다가 때려침. 진심 답이 없는 것 같음. 다음 번에는 선생님께 물어볼거임.|
-|[nQueen_t1_d.cpp](../main/Baekjoon/21/Brute-Force/Footprints/N-Queen/nQueen_t1_d.cpp)|[N-Queen](http://boj.kr/9663)|1|C++|아직 안함|3/28/2021|하다가 때려쳤음. 다음 시간에 코드를 다시 짤거임.|
+|[nQueen_t1_d.cpp](../main/Baekjoon/21/Brute-Force/Footprints/N-Queen/nqueen_t1_d.cpp)|[N-Queen](http://boj.kr/9663)|1|C++|아직 안함|3/28/2021|하다가 때려쳤음. 다음 시간에 코드를 다시 짤거임.|
 
 ### [동적 계획법 (DP)](../../tree/main/Baekjoon/21/DP)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
@@ -36,16 +36,16 @@
 |[essence_triangle_d.cpp](../main/Baekjoon/21/DP/Footprints/essence_triangle.cpp)|[정수 삼각형](http://boj.kr/1932)|1|C++|아직 안함|7/11/2021|머리 터질 것 같아서 때려침.|
 |[rise_stair.cpp](../main/Baekjoon/21/DP/rise_stair.cpp)|[계단 오르기](http://boj.kr/2579)|1|C++|성공|7/4/2021|
 |[make_to_one.cpp](../main/Baekjoon/21/DP/make_to_one.cpp)|[1로 만들기](http://boj.kr/1463)|1|C++|성공|6/27/2021|
-|[fibonacci_i.cpp](../main/Baekjoon/21/DP/fibonacci_improved.cpp)|[피보나치 함수](http://boj.kr/1003)|1|C++|성공|6/27/2021|O(N)|
-|[fibonacci_ni.cpp](../main/Baekjoon/21/DP/fibonacci.cpp)|[피보나치 함수](http://boj.kr/1003)|1|C++|성공|6/27/2021|원래 정석적인 방법은 O(N)인데 나는 O(N - 5)로 해결함. 이게 맞나?|
+|[fibonacci_i.cpp](../main/Baekjoon/21/DP/fibonacci.cpp)|[피보나치 함수](http://boj.kr/1003)|1|C++|성공|6/27/2021|O(N)|
+|[fibonacci_ni.cpp](../main/Baekjoon/21/DP/Footprints/fibonacci_ni.cpp)|[피보나치 함수](http://boj.kr/1003)|1|C++|성공|6/27/2021|원래 정석적인 방법은 O(N)인데 나는 O(N - 5)로 해결함. 이게 맞나?|
 
-### [자료 구조 (우선순위 큐)](../../tree/main/Baekjoon/21/Priority%20Queue)
+### [자료 구조 (우선순위 큐)](../../tree/main/Baekjoon/21/Data%20Structure/Priority%20Queue)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[min_heap.cpp](../main/Baekjoon/21/Data%20Structure/Priority%20Queue/min_heap.cpp)|[최소 힙](http://boj.kr/1927)|1|C++|성공|7/18/2021|
 |[max_heap.cpp](../main/Baekjoon/21/Data%20Structure/Priority%20Queue/max_heap.cpp)|[최대 힙](http://boj.kr/11279)|1|C++|성공|7/18/2021|
 
-### [자료 구조 (스택)](../../tree/main/Baekjoon/21/Stack)
+### [자료 구조 (스택)](../../tree/main/Baekjoon/21/Data%20Structure/Stack)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[prefix.cpp](../main/Baekjoon/21/Data%20Structure/Stack/prefix.cpp)|[후위 표기식](http://boj.kr/1918)|2|C++|성공|1/31/2021|
@@ -83,9 +83,9 @@
 |[string_explosion.cpp](../main/Baekjoon/20/string_explosion.cpp)|[문자열 폭발](http://boj.kr/9935)|4|C++|성공|12/6/2020|
 |[keylogger.cpp](../main/Baekjoon/20/keylogger.cpp)|[키로거](http://boj.kr/5397)|1|C++|성공|12/6/2020|
 |[editor.cpp](../main/Baekjoon/20/editor.cpp)|[에디터](http://boj.kr/1406)|1|C++|성공|11/28/2020|
-|[string_explosion_t2_v2.cpp](../main/Baekjoon/20/string_explosion_t2_v2.cpp)|[문자열 폭발](http://boj.kr/9935)|2|C++|시간 초과|11/28/2020|
-|[string_explosion_t2_v1.cpp](../main/Baekjoon/20/string_explosion_t2_v1.cpp)|[문자열 폭발](http://boj.kr/9935)|3|C++|시간 초과|11/28/2020|
-|[string_explosion_t1.cpp](../main/Baekjoon/20/string_explosion_t1.cpp)|[문자열 폭발](http://boj.kr/9935)|1|C++|시간 초과|11/21/2020|
+|[string_explosion_t2_v2.cpp](../main/Baekjoon/20/Footprints/string_explosion_t2_v2.cpp)|[문자열 폭발](http://boj.kr/9935)|2|C++|시간 초과|11/28/2020|
+|[string_explosion_t2_v1.cpp](../main/Baekjoon/20/Footprints/string_explosion_t2_v1.cpp)|[문자열 폭발](http://boj.kr/9935)|3|C++|시간 초과|11/28/2020|
+|[string_explosion_t1.cpp](../main/Baekjoon/20/Footprints/string_explosion_t1.cpp)|[문자열 폭발](http://boj.kr/9935)|1|C++|시간 초과|11/21/2020|
 
 ## 프로그래머스
 ### [Programmers / 21](../../tree/main/Programmers/21)
@@ -106,7 +106,7 @@
 |[honey_t4_v1_d.cpp](../main/Koi/21/Footprints/honey_t4_v1_d.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|4|C++|때려침|6/6/2021|멘붕|
 |[honey_t3.cpp](../main/Koi/21/Footprints/dog_honey_jam_t3.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|3|C++|실패|6/6/2021|`dog_honey_jam_t1_ni.cpp` 코드 개선 버전. 왜 실패?|
 |[honey_t2_d.cpp](../main/Koi/21/Footprints/honey_t2_d.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|2|C++|아직 안함|5/30/2021|만들다가 말았음. 밤새서 그런지 머리가 안돌아감.|
-|[honey_t1_ni.cpp](../main/Koi/21/Footprints/dog_honey_jam_ti_n1.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|1|C++|부분 성공 (11점)|5/30/2021|삼중 포문 안에 while문을 `honey_t2_d.cpp`처럼 값을 미리 구해서 할 수 있음. O(N^3*2N)|
+|[honey_t1_ni.cpp](../main/Koi/21/Footprints/dog_honey_jam_t1_ni.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|1|C++|부분 성공 (11점)|5/30/2021|삼중 포문 안에 while문을 `honey_t2_d.cpp`처럼 값을 미리 구해서 할 수 있음. O(N^3*2N)|
 |[eraser.cpp](../main/Koi/21/eraser.cpp)|초등부|[지우개](http://boj.kr/21756)|1|C++|성공|5/23/2021|EASY|
 
 ### [Koi / 20](../../tree/main/Koi/20)
@@ -139,8 +139,8 @@
 |[contrast.cpp](../main/OpenCV/20/contrast.cpp)|207~213p|C++|11/22/2020|
 |[histogram.cpp](../main/OpenCV/20/histogram.cpp)|213~227p|C++|11/22/2020|
 |[brightness.cpp](../main/OpenCV/20/brightness.cpp)|196~207p|C++|11/15/2020|
-|drawingEx.cpp|144~147p|C++|11/8/2020|
-|MaskFiltering.cpp|180~183p|C++|11/8/2020|
+|[drawingEx.cpp](../main/OpenCV/20/drawingEx.cpp)|144~147p|C++|11/8/2020|
+|[MaskFiltering.cpp](../main/OpenCV/20/MaskFiltering.cpp)|180~183p|C++|11/8/2020|
 |[LetsPlayVideo.cpp](../main/OpenCV/20/LetsPlayVideo.cpp)|135~138p|C++|11/1/2020|
 |[LetsSaveVideo.cpp](../main/OpenCV/20/LetsSaveVideo.cpp)|138~143p|C++|11/1/2020|
 |[MatOpEx4Mt.cpp](../main/OpenCV/20/MatOpEx4Mt.cpp)|95~112p|C++|10/25/2020|
@@ -172,8 +172,8 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[Git4Nextop](https://github.com/MineEric64/Git4Nextop)|.|.|C#|4/24/2021|넥스탑 학원에서 쓰일 깃 프로그램|
 |[Project REINFORCED](https://github.com/Nextop-OpenCV/ProjectReinforced)|.|.|C#|2/7/2021|
-|[Drug2.cpp](../main/Side-Projects/Drug2.cpp)|OpenCV|158~159p|C++|11/8/2020|
-|[Drug.cpp](../main/Side-Projects/Drug.cpp)|OpenCV|.|C++|11/1/2020|대마초를 먹은 느낌이랄까?|
+|[Drug2.cpp](../main/Side%20Projects/Drug2.cpp)|OpenCV|158~159p|C++|11/8/2020|
+|[Drug.cpp](../main/Side%20Projects/Drug.cpp)|OpenCV|.|C++|11/1/2020|대마초를 먹은 느낌이랄까?|
 
 ## 서울여대 정보보호영재교육원 (SWU 2021)
 |파일 이름|날짜|설명|
