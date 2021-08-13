@@ -14,6 +14,8 @@
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[decomposition.cpp](../main/Baekjoon/21/Brute-Force/decomposition.cpp)|[분해합](http://boj.kr/2231)|1|C++|성공|3/6/2021|
+|[tree_03_06.cpp](../main/Baekjoon/21/Graph/tree_03_06.cpp)|[트리의 부모 찾기](http://boj.kr/11725)|1|C++|성공|3/6/2021|
+|[tree_02_27_failed.cpp](../main/Baekjoon/21/Graph/tree_02_27_failed.cpp)|[트리의 부모 찾기](http://boj.kr/11725)|1|C++|실패|2/27/2021|
 
 ### 완전 탐색 (N-Queen)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
@@ -57,8 +59,6 @@
 |[dfs_and_bfs.cpp](../main/Baekjoon/21/Graph/dfs_and_bfs.cpp)|[DFS와 BFS](http://boj.kr/1260)|1|C++|성공|6/20/2021|쉽ね。|
 |[lotto_03_20.cpp](../main/Baekjoon/21/Graph/lotto_03_20.cpp)|[로또](http://boj.kr/6603)|2|C++|성공|3/20/2021|lotto_03_13은 하다가 답이 없어서 때려침. DFS로 대체함|
 |[lotto_03_13.cpp](../main/Baekjoon/21/Graph/lotto_03_13.cpp)|[로또](http://boj.kr/6603)|1|C++|아직 안함|3/13/2021|하다가 때려칠 수도?|
-|[tree_03_06.cpp](../main/Baekjoon/21/Graph/tree_03_06.cpp)|[트리의 부모 찾기](http://boj.kr/11725)|1|C++|성공|3/6/2021|
-|[tree_02_27_failed.cpp](../main/Baekjoon/21/Graph/tree_02_27_failed.cpp)|[트리의 부모 찾기](http://boj.kr/11725)|1|C++|실패|2/27/2021|
 |[tomato3.cpp](../main/Baekjoon/21/Graph/tomato3.cpp)|[토마토](http://boj.kr/7569)|1|C++|성공|2/20/2021|3차원 버전|
 |[tomato.cpp](../main/Baekjoon/21/Graph/tomato.cpp)|[토마토](http://boj.kr/7576)|1|C++|성공|2/14/2021|2차원 버전|
 |[search_miro_by_bfs.cpp](../main/Baekjoon/21/Graph/search_miro_by_bfs.cpp)|[미로 탐색](http://boj.kr/2178)|2|C++|성공|2/6/2021|
