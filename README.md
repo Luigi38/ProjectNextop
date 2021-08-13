@@ -14,6 +14,8 @@
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[decomposition.cpp](../main/Baekjoon/21/Brute-Force/decomposition.cpp)|[분해합](http://boj.kr/2231)|1|C++|성공|3/6/2021|
+|[lotto.cpp](../main/Baekjoon/21/Brute-Force/lotto.cpp)|[로또](http://boj.kr/6603)|2|C++|성공|3/20/2021|`lotto_t1.cpp` 코드는 하다가 답이 없어서 때려침. DFS로 대체함|
+|[lotto_d.cpp](../main/Baekjoon/21/Brute-Force/Footprints/lotto.cpp)|[로또](http://boj.kr/6603)|1|C++|아직 안함|3/13/2021|하다가 때려칠 수도?|
 
 ### 완전 탐색 (N-Queen)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
@@ -30,12 +32,12 @@
 ### [동적 계획법 (DP)](../../tree/main/Baekjoon/21/DP)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[essence_triangle_i.cpp](../main/Baekjoon/21/DP/essence_triangle.cpp)|[정수 삼각형](http://boj.kr/1932)|2|C++|성공|7/11/2021|막상 해보니깐 쉬운데 풀 때는 진짜 어려운 것 같음. dp는 v의 배열 구조에 따라서 유동적으로 변할 수 있구나.. 라고 생각을 하게 됨.|
-|[essence_triangle_ni.cpp](../main/Baekjoon/21/DP/essence_triangle.cpp)|[정수 삼각형](http://boj.kr/1932)|1|C++|아직 안함|7/11/2021|머리 터질 것 같아서 때려침.|
+|[essence_triangle.cpp](../main/Baekjoon/21/DP/essence_triangle.cpp)|[정수 삼각형](http://boj.kr/1932)|2|C++|성공|7/11/2021|막상 해보니깐 쉬운데 풀 때는 진짜 어려운 것 같음. dp는 v의 배열 구조에 따라서 유동적으로 변할 수 있구나.. 라고 생각을 하게 됨.|
+|[essence_triangle_d.cpp](../main/Baekjoon/21/DP/Footprints/essence_triangle.cpp)|[정수 삼각형](http://boj.kr/1932)|1|C++|아직 안함|7/11/2021|머리 터질 것 같아서 때려침.|
 |[rise_stair.cpp](../main/Baekjoon/21/DP/rise_stair.cpp)|[계단 오르기](http://boj.kr/2579)|1|C++|성공|7/4/2021|
 |[make_to_one.cpp](../main/Baekjoon/21/DP/make_to_one.cpp)|[1로 만들기](http://boj.kr/1463)|1|C++|성공|6/27/2021|
-|[fibonacci_improved.cpp](../main/Baekjoon/21/DP/fibonacci_improved.cpp)|[피보나치 함수](http://boj.kr/1003)|1|C++|성공|6/27/2021|O(N)|
-|[fibonacci.cpp](../main/Baekjoon/21/DP/fibonacci.cpp)|[피보나치 함수](http://boj.kr/1003)|1|C++|성공|6/27/2021|원래 정석적인 방법은 O(N)인데 나는 O(N - 5)로 해결함. 이게 맞나?|
+|[fibonacci_i.cpp](../main/Baekjoon/21/DP/fibonacci_improved.cpp)|[피보나치 함수](http://boj.kr/1003)|1|C++|성공|6/27/2021|O(N)|
+|[fibonacci_ni.cpp](../main/Baekjoon/21/DP/fibonacci.cpp)|[피보나치 함수](http://boj.kr/1003)|1|C++|성공|6/27/2021|원래 정석적인 방법은 O(N)인데 나는 O(N - 5)로 해결함. 이게 맞나?|
 
 ### [자료 구조 (우선순위 큐)](../../tree/main/Baekjoon/21/Priority%20Queue)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
@@ -46,8 +48,8 @@
 ### [자료 구조 (스택)](../../tree/main/Baekjoon/21/Stack)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[prefix_01_31.cpp](../main/Baekjoon/21/Data%20Structure/Stack/prefix_01_31.cpp)|[후위 표기식](http://boj.kr/1918)|2|C++|성공|1/31/2021|
-|[prefix_01_24.cpp](../main/Baekjoon/21/Data%20Structure/Stack/prefix_01_24.cpp)|[후위 표기식](http://boj.kr/1918)|1|C++|출력 초과|1/24/2021|
+|[prefix.cpp](../main/Baekjoon/21/Data%20Structure/Stack/prefix.cpp)|[후위 표기식](http://boj.kr/1918)|2|C++|성공|1/31/2021|
+|[prefix_t.cpp](../main/Baekjoon/21/Data%20Structure/Stack/Footprints/prefix.cpp)|[후위 표기식](http://boj.kr/1918)|1|C++|출력 초과|1/24/2021|
 
 ### [그래프 (BFS & DFS)](../../tree/main/Baekjoon/21/Graph)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
@@ -55,20 +57,18 @@
 |[virus.cpp](../main/Baekjoon/21/Graph/virus.cpp)|[바이러스](http://boj.kr/2606)|1|C++|성공|7/4/2021|
 |[paste_complex.cpp](../main/Baekjoon/21/Graph/paste_complex.cpp)|[단지번호붙이기](http://boj.kr/2667)|1|C++|성공|6/20/2021|문제 자체는 쉬웠는데 좀 애먹었음. GG|
 |[dfs_and_bfs.cpp](../main/Baekjoon/21/Graph/dfs_and_bfs.cpp)|[DFS와 BFS](http://boj.kr/1260)|1|C++|성공|6/20/2021|쉽ね。|
-|[lotto_03_20.cpp](../main/Baekjoon/21/Graph/lotto_03_20.cpp)|[로또](http://boj.kr/6603)|2|C++|성공|3/20/2021|lotto_03_13은 하다가 답이 없어서 때려침. DFS로 대체함|
-|[lotto_03_13.cpp](../main/Baekjoon/21/Graph/lotto_03_13.cpp)|[로또](http://boj.kr/6603)|1|C++|아직 안함|3/13/2021|하다가 때려칠 수도?|
-|[tree_03_06.cpp](../main/Baekjoon/21/Graph/tree_03_06.cpp)|[트리의 부모 찾기](http://boj.kr/11725)|1|C++|성공|3/6/2021|
-|[tree_02_27_failed.cpp](../main/Baekjoon/21/Graph/tree_02_27_failed.cpp)|[트리의 부모 찾기](http://boj.kr/11725)|1|C++|실패|2/27/2021|
+|[tree.cpp](../main/Baekjoon/21/Graph/tree.cpp)|[트리의 부모 찾기](http://boj.kr/11725)|1|C++|성공|3/6/2021|
+|[tree_t.cpp](../main/Baekjoon/21/Graph/Footprints/tree.cpp)|[트리의 부모 찾기](http://boj.kr/11725)|1|C++|실패|2/27/2021|
 |[tomato3.cpp](../main/Baekjoon/21/Graph/tomato3.cpp)|[토마토](http://boj.kr/7569)|1|C++|성공|2/20/2021|3차원 버전|
 |[tomato.cpp](../main/Baekjoon/21/Graph/tomato.cpp)|[토마토](http://boj.kr/7576)|1|C++|성공|2/14/2021|2차원 버전|
 |[search_miro_by_bfs.cpp](../main/Baekjoon/21/Graph/search_miro_by_bfs.cpp)|[미로 탐색](http://boj.kr/2178)|2|C++|성공|2/6/2021|
-|[BDFS_Deprecated.cpp](../main/Baekjoon/21/Graph/BDFS_Deprecated.cpp)|[미로 탐색](http://boj.kr/2178)|1|C++|실패|2/6/2021|하다가 때려쳤음|
+|[BDFS_d.cpp](../main/Baekjoon/21/Graph/Footprints/BDFS_d.cpp)|[미로 탐색](http://boj.kr/2178)|1|C++|실패|2/6/2021|하다가 때려쳤음|
 
 ### [누적 합](../../tree/main/Baekjoon/21/Prefix%20Sum)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[total_number_of_2d_array_improved.cpp](../main/Baekjoon/21/Prefix%20Sum/total_number_of_2d_array_improved.cpp)|[2차원 배열의 합](http://boj.kr/2167)|1|C++|성공|8/8/2021|집합을 사용한 풀이, 시간 복잡도 재료: O(N * M), 답: O(K)|
-|[total_number_of_2d_array.cpp](../main/Baekjoon/21/Prefix%20Sum/total_number_of_2d_array.cpp)|[2차원 배열의 합](http://boj.kr/2167)|1|C++|성공|8/8/2021|시도한지 1번만에 성공. 하지만 개선 케이스가 있다고 함. 시간 복잡도는 O(K * N)|
+|[total_number_of_2d_array_i.cpp](../main/Baekjoon/21/Prefix%20Sum/total_number_of_2d_array.cpp)|[2차원 배열의 합](http://boj.kr/2167)|1|C++|성공|8/8/2021|집합을 사용한 풀이, 시간 복잡도 재료: O(N * M), 답: O(K)|
+|[total_number_of_2d_array_ni.cpp](../main/Baekjoon/21/Prefix%20Sum/Footprints/total_number_of_2d_array_ni.cpp)|[2차원 배열의 합](http://boj.kr/2167)|1|C++|성공|8/8/2021|시도한지 1번만에 성공. 하지만 개선 케이스가 있다고 함. 시간 복잡도는 O(K * N)|
 
 ### [Baekjoon / 21](../../tree/main/Baekjoon/21)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
@@ -78,14 +78,14 @@
 ### [Baekjoon / 20](../../tree/main/Baekjoon/20)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|[reverseString2.cpp](../main/Baekjoon/20/reverseString2.cpp)|[문자열 뒤집기2](http://boj.kr/17413)|1|C++|성공|12/14/2020|
+|[reverse_string2.cpp](../main/Baekjoon/20/reverse_string2.cpp)|[문자열 뒤집기2](http://boj.kr/17413)|1|C++|성공|12/14/2020|
 |[AC.cpp](../main/Baekjoon/20/AC.cpp)|[AC](http://boj.kr/5430)|1|C++|성공|12/13/2020|
-|[stringExplosion3.cpp](../main/Baekjoon/20/stringExplosion3_12_06.cpp)|[문자열 폭발](http://boj.kr/9935)|4|C++|성공|12/6/2020|
+|[string_explosion.cpp](../main/Baekjoon/20/string_explosion.cpp)|[문자열 폭발](http://boj.kr/9935)|4|C++|성공|12/6/2020|
 |[keylogger.cpp](../main/Baekjoon/20/keylogger.cpp)|[키로거](http://boj.kr/5397)|1|C++|성공|12/6/2020|
 |[editor.cpp](../main/Baekjoon/20/editor.cpp)|[에디터](http://boj.kr/1406)|1|C++|성공|11/28/2020|
-|[StringExplosion.cpp](../main/Baekjoon/20/StringExplosion_11_28.cpp)|[문자열 폭발](http://boj.kr/9935)|3|C++|시간 초과|11/28/2020|
-|[stringExplosion2.cpp](../main/Baekjoon/20/stringExplosion2_11_28.cpp)|[문자열 폭발](http://boj.kr/9935)|2|C++|시간 초과|11/28/2020|
-|[StringExplosion.cpp](../main/Baekjoon/20/StringExplosion_11_21.cpp)|[문자열 폭발](http://boj.kr/9935)|1|C++|시간 초과|11/21/2020|
+|[string_explosion_t2_v2.cpp](../main/Baekjoon/20/string_explosion_t2_v2.cpp)|[문자열 폭발](http://boj.kr/9935)|2|C++|시간 초과|11/28/2020|
+|[string_explosion_t2_v1.cpp](../main/Baekjoon/20/string_explosion_t2_v1.cpp)|[문자열 폭발](http://boj.kr/9935)|3|C++|시간 초과|11/28/2020|
+|[string_explosion_t1.cpp](../main/Baekjoon/20/string_explosion_t1.cpp)|[문자열 폭발](http://boj.kr/9935)|1|C++|시간 초과|11/21/2020|
 
 ## 프로그래머스
 ### [Programmers / 21](../../tree/main/Programmers/21)
@@ -98,24 +98,24 @@
 ### [Koi / 21](../../tree/main/Koi/21)
 |소스 코드|문제 수준|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[honey_06_13_04.cpp](../main/Koi/21/honey_06_13_04.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|9|C++|성공|6/13/2021|최댓값을 미리 구한다면? FINISH. GG, O(3N)|
-|[honey_06_13_03.cpp](../main/Koi/21/honey_06_13_03.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|8|C++|부분 성공 (55점)|6/13/2021|상황 3 규칙 개선, O(N^2)|
-|[honey_06_13_02.cpp](../main/Koi/21/honey_06_13_02.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|7|C++|부분 성공 (55점)|6/13/2021|`fly()` 함수 개선 버전. 기존 while문을 `DogHoneyJam_06_06.cpp`에 있는 미리 구하는 코드로 변경, O(N^2)|
-|[honey_06_13_01.cpp](../main/Koi/21/honey_06_13_01.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|6|C++|부분 성공 (24점)|6/13/2021|Idea [#3](../../issues/3), O(N^3)|
-|[honey_06_06_02.cpp](../main/Koi/21/honey_06_06_02.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|5|C++|시간 초과|6/6/2021|다음 시간에 개선 ㄱㄱ|
-|[honey_06_06_01.cpp](../main/Koi/21/honey_06_06_01.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|4|C++|때려침|6/6/2021|멘붕|
-|[DogHoneyJam_06_06.cpp](../main/Koi/21/DogHoneyJam_06_06.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|3|C++|실패|6/6/2021|DogHoneyJam 개선 버전. 왜 실패?|
-|[honey.cpp](../main/Koi/21/honey.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|2|C++|아직 안함|5/30/2021|만들다가 말았음. 밤새서 그런지 머리가 안돌아감.|
-|[DogHoneyJam.cpp](../main/Koi/21/DogHoneyJam.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|1|C++|부분 성공 (11점)|5/30/2021|삼중 포문 안에 while문을 `honey.cpp`처럼 값을 미리 구해서 할 수 있음. O(N^3*2N)|
-|[e_eraser.cpp](../main/Koi/21/e_eraser.cpp)|초등부|[지우개](http://boj.kr/21756)|1|C++|성공|5/23/2021|EASY|
+|[honey.cpp](../main/Koi/21/honey.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|9|C++|성공|6/13/2021|최댓값을 미리 구한다면? FINISH. GG, O(3N)|
+|[honey_t5_v3.cpp](../main/Koi/21/Footprints/honey_t5_v3.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|8|C++|부분 성공 (55점)|6/13/2021|상황 3 규칙 개선, O(N^2)|
+|[honey_t5_v2.cpp](../main/Koi/21/Footprints/honey_t5_v2.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|7|C++|부분 성공 (55점)|6/13/2021|`fly()` 함수 개선 버전. 기존 while문을 `dog_honey_jam_t3.cpp`에 있는 미리 구하는 코드로 변경, O(N^2)|
+|[honey_t5_v1.cpp](../main/Koi/21/Footprints/honey_t5_v1.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|6|C++|부분 성공 (24점)|6/13/2021|Idea [#3](../../issues/3), O(N^3)|
+|[honey_t4_v2.cpp](../main/Koi/21/Footprints/honey_t4_v2.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|5|C++|시간 초과|6/6/2021|다음 시간에 개선 ㄱㄱ|
+|[honey_t4_v1_d.cpp](../main/Koi/21/Footprints/honey_t4_v1_d.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|4|C++|때려침|6/6/2021|멘붕|
+|[honey_t3.cpp](../main/Koi/21/Footprints/dog_honey_jam_t3.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|3|C++|실패|6/6/2021|`dog_honey_jam_t1_ni.cpp` 코드 개선 버전. 왜 실패?|
+|[honey_t2_d.cpp](../main/Koi/21/Footprints/honey_t2_d.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|2|C++|아직 안함|5/30/2021|만들다가 말았음. 밤새서 그런지 머리가 안돌아감.|
+|[honey_t1_ni.cpp](../main/Koi/21/Footprints/dog_honey_jam_ti_n1.cpp)|중등부|[꿀 따기](http://boj.kr/21758)|1|C++|부분 성공 (11점)|5/30/2021|삼중 포문 안에 while문을 `honey_t2_d.cpp`처럼 값을 미리 구해서 할 수 있음. O(N^3*2N)|
+|[eraser.cpp](../main/Koi/21/eraser.cpp)|초등부|[지우개](http://boj.kr/21756)|1|C++|성공|5/23/2021|EASY|
 
 ### [Koi / 20](../../tree/main/Koi/20)
 |소스 코드|문제 수준|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[diet_05_02.cpp](../main/Koi/20/diet_05_02.cpp)|중등부|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf), [다이어트 (백준)](http://boj.kr/19942)|3|C++|성공|5/2/2021|DFS랑 `higher_than_minimum()` 함수랑 `diet()` 함수 셋 다 문제였음. 아무튼 성공!|
-|[diet_05_01.cpp](../main/Koi/20/diet_05_01.cpp)|중등부|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf), [다이어트 (백준)](http://boj.kr/19942)|2|C++|실패|5/1/2021|전에 나왔던 오류는 고쳤는데 아직도 `diet()` 함수 코드 때문에 뭔가 계속 틀림. 예제는 맞음.|
+|[diet.cpp](../main/Koi/20/diet.cpp)|중등부|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf), [다이어트 (백준)](http://boj.kr/19942)|3|C++|성공|5/2/2021|DFS랑 `higher_than_minimum()` 함수랑 `diet()` 함수 셋 다 문제였음. 아무튼 성공!|
+|[diet_t2.cpp](../main/Koi/20/Footprints/diet_t2.cpp)|중등부|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf), [다이어트 (백준)](http://boj.kr/19942)|2|C++|실패|5/1/2021|전에 나왔던 오류는 고쳤는데 아직도 `diet()` 함수 코드 때문에 뭔가 계속 틀림. 예제는 맞음.|
 |[hamburger.cpp](../main/Koi/20/hamburger.cpp)|중등부|[햄버거 분배](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf)|1|C++|성공|4/18/2021|시간 복잡도 O(n)|
-|[diet.cpp](../main/Koi/20/diet.cpp)|중등부|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf)|1|C++|실패|4/18/2021|`diet()` 함수만 고치면 성공적으로 될거임.|
+|[diet_t1.cpp](../main/Koi/20/Footprints/diet_t1.cpp)|중등부|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf)|1|C++|실패|4/18/2021|`diet()` 함수만 고치면 성공적으로 될거임.|
 
 ## OpenCV로 배우는 컴퓨터 비전과 머신러닝
 ### [OpenCV / 21](../../tree/main/OpenCV/21)
