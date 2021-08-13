@@ -167,7 +167,7 @@
 |[hanoi_tower.cpp](../main/Data%20Structure/hanoi_tower.cpp)|61p|C++|10/11/2020|
 |[hanoi_tower.py](../main/Data%20Structure/hanoi_tower.py)|61p|Python|10/11/2020|
 
-## [심심해서 그냥 만들어본 소소한 미니 프로젝트](../../tree/main/Side Projects)
+## [심심해서 그냥 만들어본 소소한 미니 프로젝트](../../tree/main/Side%20Projects)
 |소스 코드|책 이름|페이지 수|언어|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[Git4Nextop](https://github.com/MineEric64/Git4Nextop)|.|.|C#|4/24/2021|넥스탑 학원에서 쓰일 깃 프로그램|
