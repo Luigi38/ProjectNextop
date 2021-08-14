@@ -13,9 +13,9 @@
 ### [완전 탐색 (Brute-Force)](../../tree/main/Baekjoon/21/Brute-Force)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[decomposition.cpp](../main/Baekjoon/21/Brute-Force/decomposition.cpp)|[분해합](http://boj.kr/2231)|1|C++|성공|3/6/2021|
 |[lotto.cpp](../main/Baekjoon/21/Brute-Force/lotto.cpp)|[로또](http://boj.kr/6603)|2|C++|성공|3/20/2021|`lotto_d.cpp` 코드는 하다가 답이 없어서 때려침. DFS로 대체함|
 |[lotto_d.cpp](../main/Baekjoon/21/Brute-Force/Footprints/lotto.cpp)|[로또](http://boj.kr/6603)|1|C++|아직 안함|3/13/2021|하다가 때려칠 수도?|
+|[decomposition.cpp](../main/Baekjoon/21/Brute-Force/decomposition.cpp)|[분해합](http://boj.kr/2231)|1|C++|성공|3/6/2021|
 
 ### 완전 탐색 (N-Queen)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
