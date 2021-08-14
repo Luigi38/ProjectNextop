@@ -1,3 +1,6 @@
+# 백엔드란 무엇인가?
+![What-is-backend](https://user-images.githubusercontent.com/25432800/129430420-80d2372d-2f2f-46f7-b9a8-e16bd4f9e49c.png)
+
 # REST API
 ## REST
 - Representational State Transfer의 약자
