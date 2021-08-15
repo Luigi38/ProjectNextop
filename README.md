@@ -54,6 +54,7 @@
 ### [그래프 (BFS & DFS)](../../tree/main/Baekjoon/21/Graph)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[topological_sort.cpp](../main/Baekjoon/21/Graph/topological_sort.cpp)|위상 정렬|1|C++|성공|08/15/2021|위상 정렬 (BFS)|
 |[virus.cpp](../main/Baekjoon/21/Graph/virus.cpp)|[바이러스](http://boj.kr/2606)|1|C++|성공|7/4/2021|
 |[paste_complex.cpp](../main/Baekjoon/21/Graph/paste_complex.cpp)|[단지번호붙이기](http://boj.kr/2667)|1|C++|성공|6/20/2021|문제 자체는 쉬웠는데 좀 애먹었음. GG|
 |[dfs_and_bfs.cpp](../main/Baekjoon/21/Graph/dfs_and_bfs.cpp)|[DFS와 BFS](http://boj.kr/1260)|1|C++|성공|6/20/2021|쉽ね。|
@@ -67,7 +68,6 @@
 ### [누적 합](../../tree/main/Baekjoon/21/Prefix%20Sum)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[topological_sort.cpp](../main/Baekjoon/21/Prefix%20Sum/topological_sort.cpp)|위상 정렬|1|C++|성공|08/15/2021|위상 정렬 (BFS)|
 |[total_number_of_2d_array_i.cpp](../main/Baekjoon/21/Prefix%20Sum/total_number_of_2d_array.cpp)|[2차원 배열의 합](http://boj.kr/2167)|1|C++|성공|8/8/2021|집합을 사용한 풀이, 시간 복잡도 재료: O(N * M), 답: O(K)|
 |[total_number_of_2d_array_ni.cpp](../main/Baekjoon/21/Prefix%20Sum/Footprints/total_number_of_2d_array_ni.cpp)|[2차원 배열의 합](http://boj.kr/2167)|1|C++|성공|8/8/2021|시도한지 1번만에 성공. 하지만 개선 케이스가 있다고 함. 시간 복잡도는 O(K * N)|
 
