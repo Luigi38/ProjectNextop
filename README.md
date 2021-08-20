@@ -54,7 +54,7 @@
 ### [그래프 (BFS & DFS)](../../tree/main/Baekjoon/21/Graph)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[topological_sort.cpp](../main/Baekjoon/21/Graph/topological_sort.cpp)|위상 정렬|1|C++|성공|08/15/2021|위상 정렬 (BFS)|
+|[topological_sort.cpp](../main/Baekjoon/21/Graph/topological_sort.cpp)|위상 정렬|1|C++|성공|8/15/2021|위상 정렬 (BFS)|
 |[virus.cpp](../main/Baekjoon/21/Graph/virus.cpp)|[바이러스](http://boj.kr/2606)|1|C++|성공|7/4/2021|
 |[paste_complex.cpp](../main/Baekjoon/21/Graph/paste_complex.cpp)|[단지번호붙이기](http://boj.kr/2667)|1|C++|성공|6/20/2021|문제 자체는 쉬웠는데 좀 애먹었음. GG|
 |[dfs_and_bfs.cpp](../main/Baekjoon/21/Graph/dfs_and_bfs.cpp)|[DFS와 BFS](http://boj.kr/1260)|1|C++|성공|6/20/2021|쉽ね。|
