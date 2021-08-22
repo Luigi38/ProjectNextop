@@ -55,7 +55,7 @@
 ### [그래프 (BFS & DFS)](../../tree/main/Baekjoon/21/Graph)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[line_up.cpp](../main/Baekjoon/21/Graph/line_up.cpp)|[줄 세우기](http://boj.kr/problem/2252)|2|C++|성공|8/22/2021|위상 정렬을 이용한 풀이 (Queue)|
+|[line_up.cpp](../main/Baekjoon/21/Graph/line_up.cpp)|[줄 세우기](http://boj.kr/2252)|2|C++|성공|8/22/2021|위상 정렬을 이용한 풀이 (Queue)|
 |[topological_sort.cpp](../main/Baekjoon/21/Graph/topological_sort.cpp)|백신|2|C++|성공|8/22/2021|위상 정렬 (BFS, Priority QUeue)|
 |[topological_sort_t.cpp](../main/Baekjoon/21/Graph/Footprints/topological_sort.cpp)|백신|1|C++|실패|8/15/2021|
 |[virus.cpp](../main/Baekjoon/21/Graph/virus.cpp)|[바이러스](http://boj.kr/2606)|1|C++|성공|7/4/2021|
