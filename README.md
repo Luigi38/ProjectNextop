@@ -202,6 +202,8 @@ cout.tie(NULL);
 
 - `endl` 보다 `'\n'`을 사용하기
 
+- GitHub Repository에서 .을 누르면 Visual Studio Code 편집 가능함.
+
 ## 소스 코드 파일 이름 형식
 |key|value|설명|기준|
 |:---:|:---:|:---:|:---:|
