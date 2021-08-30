@@ -68,6 +68,11 @@
 |[search_miro_by_bfs.cpp](../main/Baekjoon/21/Graph/search_miro_by_bfs.cpp)|[미로 탐색](http://boj.kr/2178)|2|C++|성공|2/6/2021|
 |[BDFS_d.cpp](../main/Baekjoon/21/Graph/Footprints/BDFS_d.cpp)|[미로 탐색](http://boj.kr/2178)|1|C++|실패|2/6/2021|하다가 때려쳤음|
 
+### [다익스트라 (Dijkstra)](../../tree/main/Baekjoon/21/Graph/Dijkstra)
+|소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[shortest_path_ni.cpp](../main/Baekjoon/21/Graph/Dijkstra/shortest_path_ni.cpp)|[최단경로](http://boj.kr/1753)|1|C++|시간 초과|8/29/2021|O(N^2)|
+
 ### [누적 합](../../tree/main/Baekjoon/21/Prefix%20Sum)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
