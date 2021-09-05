@@ -71,6 +71,7 @@
 ### [다익스트라 (Dijkstra)](../../tree/main/Baekjoon/21/Graph/Dijkstra)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[shortest_path.cpp](../main/Baekjoon/21/Graph/Dijkstra/shortest_path.cpp)|[최단경로](http://boj.kr/1753)|2|C++|성공|9/5/2021|using Priority Queue|
 |[shortest_path_ni.cpp](../main/Baekjoon/21/Graph/Dijkstra/Footprints/shortest_path_ni.cpp)|[최단경로](http://boj.kr/1753)|1|C++|시간 초과|8/29/2021|O(N^2)|
 
 ### [누적 합](../../tree/main/Baekjoon/21/Prefix%20Sum)
