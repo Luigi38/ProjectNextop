@@ -101,6 +101,9 @@
 ### [Programmers / 21](../../tree/main/Programmers/21)
 |소스 코드|문제 주제|시퀀스|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[4-recommend_job.cpp](../main/Programmers/21/Weekly%20Challenge/4-recommend_job.cpp)|[위클리 챌린지](https://programmers.co.kr/learn/challenges?tab=weekly_challenges)|4주차|[직업군 추천하기](https://programmers.co.kr/learn/courses/30/lessons/84325)|1|C++|성공|9/5/2021|
+|[2-interactive_evaluation.cpp](../main/Programmers/21/Weekly%20Challenge/2-interactive_evaluation.cpp)|[위클리 챌린지](https://programmers.co.kr/learn/challenges?tab=weekly_challenges)|2주차|[상호 평가](https://programmers.co.kr/learn/courses/30/lessons/83201)|1|C++|성공|9/5/2021|
+|[1-amusement_park.cpp](../main/Programmers/21/Weekly%20Challenge/1-amusement_park.cpp)|[위클리 챌린지](https://programmers.co.kr/learn/challenges?tab=weekly_challenges)|1주차|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|1|C++|성공|9/5/2021|
 |[contact_list.cpp](../main/Programmers/21/Hash/contact_list.cpp)|[해시](https://programmers.co.kr/learn/courses/30/parts/12077)|2|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|1|C++|성공|7/25/2021|
 |[unfinished_player.cpp](../main/Programmers/21/Hash/unfinished_player.cpp)|[해시](https://programmers.co.kr/learn/courses/30/parts/12077)|1|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|1|C++|성공|7/25/2021|
 
