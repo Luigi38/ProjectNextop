@@ -93,11 +93,14 @@ string solution(string new_id) {
         vc = 1;
     }
 
-    //step 6 [v]
+    //step 6 [PROBLEM]
     if (vc >= 16) {
         while (vc != 15) {
-            v[ve - 1] = ' ';
-            vc--;
+            if (v[ve - 1] != ' ') {
+                v[ve - 1] = ' ';
+                vc--;
+                
+            }
             ve--;
         }
     }
