@@ -101,6 +101,7 @@
 ### [Programmers / 21](../../tree/main/Programmers/21)
 |소스 코드|문제 주제|시퀀스|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[kakao-recommend_new_id_i.cpp](../main/Programmers/21/Kakao/21/recommend_new_id_i.cpp)|2021 KAKAO BLIND RECRUITMENT|.|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|3|C++|성공|10/3/2021|개선 버전. if문 체크를 안해서 틀림. 너무 유감적|
 |[kakao-recommend_new_id.cpp](../main/Programmers/21/Kakao/21/recommend_new_id.cpp)|2021 KAKAO BLIND RECRUITMENT|.|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|2|C++|성공|10/3/2021|갈아 엎으니깐 됨. 왜?|
 |[kakao-recommend_new_id.cpp](../main/Programmers/21/Kakao/21/Footprints/recommend_new_id.cpp)|2021 KAKAO BLIND RECRUITMENT|.|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|1|C++|실패|9/26/2021|왜 안될까? 모든 경우의 수를 따져봤는데도 안됨. 이건 답이 없음.|
 |[4-recommend_job.cpp](../main/Programmers/21/Weekly%20Challenge/4-recommend_job.cpp)|[위클리 챌린지](https://programmers.co.kr/learn/challenges?tab=weekly_challenges)|4주차|[직업군 추천하기](https://programmers.co.kr/learn/courses/30/lessons/84325)|1|C++|성공|9/5/2021|
