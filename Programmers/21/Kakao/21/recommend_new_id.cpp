@@ -6,126 +6,84 @@ using namespace std;
 string solution(string new_id) {
     string answer = "";
     vector<char> v(new_id.begin(), new_id.end());
+    vector<char> v2;
 
-    int vs = 0; //start index
-    int ve = new_id.length(); //end
-    int vc = new_id.length(); //count
+    //step 1
+    int correction = 'a' - 'A';
+    for (int i = 0; i < v.size(); i++) if (v[i] >= 'A' && v[i] <= 'Z') v[i] += correction;
 
-    for (int i = 0; i < 50; i++) v.push_back(' ');
-
-    //step 1 [v]
-    for (int i = 0; i < v.size(); i++) if (v[i] >= 'A' && v[i] <= 'Z') v[i] = v[i] + 'a' - 'A';
-
-    //step 2 [v]
-    int ei = 0;
-
-    for (int i = vs; i < v.size(); i++) {
-        if (i > ve - 1) break;
-
+    //step 2
+    for (int i = 0; i < v.size(); i++) {
         bool is_lower_case = v[i] >= 'a' && v[i] <= 'z';
         bool is_digit = v[i] >= '0' && v[i] <= '9';
 
-        if (!is_lower_case && !is_digit && v[i] != '-' && v[i] != '_' && v[i] != '.') {
-            v[i] = ' ';
-            vc--;
-
-            if (vs == i) vs++;
-            if (ve - 1 == i) ve = ei + 1;
-        }
-        else {
-            ei = i;
-        }
+        if (is_lower_case || is_digit || v[i] == '-' || v[i] == '_' || v[i] == '.') v2.push_back(v[i]);
     }
 
-    //step 3 [v]
+    //step 3
     char ch = ' ';
-    ei = 0;
-
-    for (int i = vs; i < v.size(); i++) {
-        if (i > ve - 1) break;
-
-        if (v[i] == '.' && ch == '.') {
-            v[i] = ' ';
-            vc--;
-
-            if (vs == i) vs++;
-            if (ve - 1 == i) ve = ei + 1;
-        }
-        else if (v[i] != ' ') {
-            ch = v[i];
-            ei = i;
+    v.clear();
+    
+    for (int i = 0; i < v2.size(); i++) {
+        if (v2[i] != '.' || ch != '.') {
+            v.push_back(v2[i]);
+            ch = v2[i];
         }
     }
 
-    //step 4 [v]
-    for (int i = vs; i < v.size(); i++) {
-        if (i > ve - 1) break;
-
-        if (v[i] == '.') {
-            v[i] = ' ';
-            vc--;
-            vs++;
-        }
-        else if (v[i] != ' ') {
-            break;
-        }
+    //step 4
+    v2.clear();
+    
+    int ds = -1;
+    int de = v.size();
+    
+    for (int i = 0; i < v.size(); i++) {
+        if (v[i] == '.') ds = i;
+        else break;
     }
 
-    for (int i = ve - 1; i >= 0; i--) {
-        if (i < vs) break;
-
-        if (v[i] == '.') {
-            v[i] = ' ';
-            vc--;
-        }
-        else if (v[i] != ' ') {
-            ve = i + 1;
-            break;
-        }
+    for (int i = v.size() - 1; i >= 0; i--) {
+        if (v[i] == '.') de = i;
+        else break;
+    }
+    
+    for (int i = ds + 1; i < de; i++) {
+        v2.push_back(v[i]);
     }
 
-    //step 5 [v]
-    if (vc == 0) {
-        v[0] = 'a';
-
-        vs = 0;
-        ve = 1;
-        vc = 1;
+    //step 5
+    bool step_by_step = false;
+    
+    v.clear();
+    if (v2.size() == 0) {
+        v.push_back('a');
+        step_by_step = true;
     }
 
-    //step 6 [v]
-    if (vc >= 16) {
-        while (vc != 15) {
-            v[ve - 1] = ' ';
-            vc--;
-            ve--;
+    //step 6
+    if (v2.size() >= 16) {
+        for (int i = 0; i < 15; i++) {
+            v.push_back(v2[i]);
         }
+        step_by_step = true;
     }
+    if (!step_by_step) v = vector<char>(v2.begin(), v2.end());
+    v2.clear();
+    de = v.size();
 
-    for (int i = ve - 1; i >= 0; i--) {
-        if (i < vs) break;
-
-        if (v[i] == '.') {
-            v[i] = ' ';
-            vc--;
-        }
-        else if (v[i] != ' ') {
-            ve = i + 1;
-            break;
-        }
+    for (int i = v.size() - 1; i >= 0; i--) {
+        if (v[i] == '.') de = i;
+        else break;
+    }
+    
+    for (int i = 0; i < de; i++) {
+        v2.push_back(v[i]);
     }
 
     //step 7
-    if (vc <= 2) {
-        char ch = v[ve - 1];
-
-        while (vc != 3) {
-            v[ve] = ch;
-            vc++;
-            ve++;
-        }
-    }
-
-    for (int i = 0; i < v.size(); i++) if (v[i] != ' ') answer += v[i];
+    int last_index = v2.size() - 1;
+    if (v2.size() <= 2) while (v2.size() != 3) v2.push_back(v2[last_index]);
+    
+    for (int i = 0; i < v2.size(); i++) answer += v2[i];
     return answer;
 }
