@@ -10,12 +10,6 @@ struct privacy {
     vector<int> vscore;
 };
 
-bool operator ==(const vector<string>& a, const vector<string>& b) {
-    if (a.size() != b.size()) return false;
-    for (int i = 0; i < a.size(); i++) if (a[i] != b[i] && b[i] != "-") return false;
-    return true;
-}
-
 void get_privacies(const vector<string>& info, privacy &v) {
     int i = 0;
 
@@ -81,11 +75,41 @@ void init_map(map<vector<string>, vector<int>>& m, const vector<vector<string>>&
     }
 }
 
+void replace_hypen(const vector<string>& query, vector<vector<string>>& replaced) {
+    vector<string> vlang;
+    vector<string> vjob;
+    vector<string> vcareer;
+    vector<string> vfood;
+
+    if (query[0] != "-") vlang = { query[0] };
+    else vlang = { "cpp", "java", "python" };
+
+    if (query[1] != "-") vjob = { query[1] };
+    else vjob = { "frontend", "backend" };
+
+    if (query[2] != "-") vcareer = { query[2] };
+    else vcareer = { "junior", "senior" };
+
+    if (query[3] != "-") vfood = { query[3] };
+    else vfood = { "chicken", "pizza" };
+
+    for (string one : vlang)
+        for (string two : vjob)
+            for (string three : vcareer)
+                for (string four : vfood)
+                    replaced.push_back({ one, two, three, four });
+}
+
 int search(map<vector<string>, vector<int>>& m, const vector<string>& query, const int score) {
+    vector<vector<string>> replaced;
+    replace_hypen(query, replaced);
+
     int count = 0;
 
-    vector<int> vscore = m[query];
-    count += vscore.end() - lower_bound(vscore.begin(), vscore.end(), score);
+    for (vector<string> q : replaced) {
+        vector<int> vscore = m[q];
+        count += vscore.end() - lower_bound(vscore.begin(), vscore.end(), score);
+    }
 
     return count;
 }
@@ -100,7 +124,7 @@ vector<int> solution(vector<string> info, vector<string> query) {
     get_privacy_from_query(query, pr);
 
     vector<vector<string>> cases;
-    make_case({"cpp", "java", "python", "-"}, {"frontend", "backend", "-"}, {"junior", "senior", "-"}, {"chicken", "pizza", "-"}, cases);
+    make_case({ "cpp", "java", "python" }, { "frontend", "backend" }, { "junior", "senior" }, { "chicken", "pizza" }, cases);
 
     map<vector<string>, vector<int>> m;
     init_map(m, cases, v);
