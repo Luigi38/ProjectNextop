@@ -138,6 +138,13 @@
 |[hamburger.cpp](../main/Koi/20/hamburger.cpp)|중등부|[햄버거 분배](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf)|1|C++|성공|4/18/2021|시간 복잡도 O(n)|
 |[diet_t1.cpp](../main/Koi/20/Footprints/diet_t1.cpp)|중등부|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf)|1|C++|실패|4/18/2021|`diet()` 함수만 고치면 성공적으로 될거임.|
 
+## USACO
+### [USACO / 21](../../tree/main/USACO/21)
+|소스 코드|문제 수준|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[Acowdemia-I.cpp|(../main/USACO/21/Acowdemia-I.cpp)|.|[Acowdemia I](https://www.acmicpc.net/problem/21820)|2|C++|몰라|11/28/2021|.|
+|[Abowdemica-I.cpp](../main/USACO/21/Footprints/Abowdemica-I.cpp)|.|[Acowdemia I](https://www.acmicpc.net/problem/21820)|1|C++|실패|11/14/2021|.|
+
 ## OpenCV로 배우는 컴퓨터 비전과 머신러닝
 ### [OpenCV / 21](../../tree/main/OpenCV/21)
 |소스 코드|페이지 수|언어|날짜|설명|
