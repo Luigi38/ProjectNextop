@@ -99,7 +99,6 @@
 
 ## 프로그래머스
 ### [Programmers / 21](../../tree/main/Programmers/21)
-** 순위 검색 3번 왜 안되는지 다음주에 물어봅시다.
 |소스 코드|문제 주제|시퀀스|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[search_ranking.cpp](../main/Programmers/21/Kakao/21/search_ranking.cpp)|2021 KAKAO BLIND RECRUITMENT|.|[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|4|C++|성공|11/7/2021|굳|
