@@ -142,7 +142,7 @@
 ### [USACO / 21](../../tree/main/USACO/21)
 |소스 코드|문제 수준|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[Acowdemia-I.cpp](../main/USACO/21/Acowdemia-I.cpp)|.|[Acowdemia I](https://www.acmicpc.net/problem/21820)|2|C++|몰라|11/28/2021|.|
+|[Acowdemia-I.cpp](../main/USACO/21/Footprints/Acowdemia-I.cpp)|.|[Acowdemia I](https://www.acmicpc.net/problem/21820)|2|C++|실패|11/28/2021|21%|
 |[Abowdemica-I.cpp](../main/USACO/21/Footprints/Abowdemica-I.cpp)|.|[Acowdemia I](https://www.acmicpc.net/problem/21820)|1|C++|실패|11/14/2021|.|
 
 ## OpenCV로 배우는 컴퓨터 비전과 머신러닝
