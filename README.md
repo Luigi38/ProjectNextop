@@ -147,6 +147,17 @@
 |[Acowdemia-I.cpp](../main/USACO/21/Footprints/Acowdemia-I_t2.cpp)|.|[Acowdemia I](https://www.acmicpc.net/problem/21820)|2|C++|실패|11/28/2021|21%|
 |[Abowdemica-I.cpp](../main/USACO/21/Footprints/Abowdemica-I_t.cpp)|.|[Acowdemia I](https://www.acmicpc.net/problem/21820)|1|C++|실패|11/14/2021|.|
 
+## PS Gym
+### [Silver-I](../../tree/main/PS-Gym/Silver-I)
+|소스 코드|문제 수준|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[RGB.cpp](../main/PS-Gym/Silver-I/RGB.cpp)|.|[RGB 색 영역](https://nextop.kpscoj.com/algorithm/S1/6)|1|C++|성공|12/12/2021|.|
+|[marathon.cpp](../main/PS-Gym/Silver-I/marathon.cpp)|.|[마라톤](https://nextop.kpscoj.com/algorithm/S1/5)|1|C++|성공|12/12/2021|.|
+|[array_reallocation.cpp](../main/PS-Gym/Silver-I/array_reallocation.cpp)|.|[배열 재배치](https://nextop.kpscoj.com/algorithm/S1/4)|1|C++|성공|12/12/2021|.|
+|[set.cpp](../main/PS-Gym/Silver-I/set.cpp)|.|[교집합과 합집합](https://nextop.kpscoj.com/algorithm/S1/3)|1|C++|성공|12/12/2021|.|
+|[abc_card_game.cpp](../main/PS-Gym/Silver-I/abc_card_game.cpp)|.|[ABC 카드게임](https://nextop.kpscoj.com/algorithm/S1/2)|1|C++|성공|12/12/2021|.|
+|[sort.cpp](../main/PS-Gym/Silver-I/sort.cpp)|.|[정렬](https://nextop.kpscoj.com/algorithm/S1/1)|1|C++|성공|12/12/2021|.|
+
 ## OpenCV로 배우는 컴퓨터 비전과 머신러닝
 ### [OpenCV / 21](../../tree/main/OpenCV/21)
 |소스 코드|페이지 수|언어|날짜|설명|
