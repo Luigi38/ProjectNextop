@@ -150,7 +150,7 @@
 ## PS Gym
 ### [SILVER](../../tree/main/PS-Gym/Silver)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[RGB.cpp](../main/PS-Gym/Silver/RGB.cpp)|[RGB 색 영역](https://nextop.kpscoj.com/algorithm/S1/6)|1|C++|성공|12/12/2021|.|
 |[marathon.cpp](../main/PS-Gym/Silver/marathon.cpp)|[마라톤](https://nextop.kpscoj.com/algorithm/S1/5)|1|C++|성공|12/12/2021|.|
 |[array_reallocation.cpp](../main/PS-Gym/Silver/array_reallocation.cpp)|[배열 재배치](https://nextop.kpscoj.com/algorithm/S1/4)|1|C++|성공|12/12/2021|.|
