@@ -211,6 +211,7 @@
 ## [심심해서 그냥 만들어본 소소한 미니 프로젝트](../../tree/main/Side%20Projects)
 |소스 코드|책 이름|페이지 수|언어|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+|[shuffle-monte-carlo.cpp](../main/Side%20Projects/shuffle-monte-carlo.cpp)|.|.|C++|12/26/2021|몬테 칼로 기법을 활용한 무작위 셔플 검증|
 |[Git4Nextop](https://github.com/MineEric64/Git4Nextop)|.|.|C#|4/24/2021|넥스탑 학원에서 쓰일 깃 프로그램|
 |[Project REINFORCED](https://github.com/Nextop-OpenCV/ProjectReinforced)|.|.|C#|2/7/2021|
 |[Drug2.cpp](../main/Side%20Projects/Drug2.cpp)|OpenCV|158~159p|C++|11/8/2020|
