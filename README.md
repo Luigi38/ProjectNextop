@@ -4,6 +4,7 @@
 - [용어사전](../main/Documents/WordDictionary.md)
 - [정보보호영재교육원 2021](../../tree/main/SWU)
 - [가장 어려웠던 문제 모음, 어떻게 풀었을까?](../main/Documents/HowSolved.md)
+- [획기적인 기술, 우선순위 큐](../main/Documents/PriorityIsFun.md)
 - [백엔드 모든 개념 총정리](../main/Documents/Backend.md)
 
 ## 바로가기
