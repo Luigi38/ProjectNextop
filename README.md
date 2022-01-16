@@ -155,6 +155,7 @@
 ### [SILVER](../../tree/main/PS-Gym/Silver)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[excel.cpp](../main/PS-Gym/Silver/Footprints/excel_t2.cpp)|[엑셀](https://nextop.kpscoj.com/algorithm/S1/7)|2|C++|실패|1/16/2022|테스트 실패 케이스: R21C677 => AAA21|
 |[excel.cpp](../main/PS-Gym/Silver/Footprints/excel.cpp)|[엑셀](https://nextop.kpscoj.com/algorithm/S1/7)|1|C++|실패|1/9/2022|.|
 |[RGB.cpp](../main/PS-Gym/Silver/RGB.cpp)|[RGB 색 영역](https://nextop.kpscoj.com/algorithm/S1/6)|1|C++|성공|12/12/2021|.|
 |[marathon.cpp](../main/PS-Gym/Silver/marathon.cpp)|[마라톤](https://nextop.kpscoj.com/algorithm/S1/5)|1|C++|성공|12/12/2021|.|
