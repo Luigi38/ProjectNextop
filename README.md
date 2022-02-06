@@ -117,6 +117,8 @@
 |[unfinished_player.cpp](../main/Programmers/21/Hash/unfinished_player.cpp)|[해시](https://programmers.co.kr/learn/courses/30/parts/12077)|1|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|1|C++|성공|7/25/2021|
 
 ## 한국정보올림피아드
+https://koi.or.kr/assets/koi/2019/1/e1-problems.pdf
+
 ### [Koi / 21](../../tree/main/Koi/21)
 |소스 코드|문제 수준|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -143,7 +145,8 @@
 ### [USACO / 21](../../tree/main/USACO/21)
 |소스 코드|문제 수준|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[herdle.cpp](../main/USACO/22/Footprints/herdle.cpp)|.|HERDLE|1|C++|부분 성공 (10/11)|1/30/2022|왜 6번이 안되냐고!!!!|
+|[herdle.cpp](../main/USACO/22/herdle.cpp)|.|[HERDLE](http://usaco.org/index.php?page=viewproblem2&cpid=1179)|2|C++|성공|2/6/2022|생각보다 어이없는 함수 `find_and_allocate()`|
+|[herdle.cpp](../main/USACO/22/Footprints/herdle.cpp)|.|[HERDLE](http://usaco.org/index.php?page=viewproblem2&cpid=1179)|1|C++|부분 성공 (10/11)|1/30/2022|왜 6번이 안되냐고!!!!|
 |[lonely_photo.cpp](../main/USACO/21/lonely_photo.cpp)|.|[Lonely Photo](http://www.usaco.org/index.php?page=viewproblem2&cpid=1155)|3|C++|성공|1/9/2022|O(N*log(N)) 개선 버전|
 |[lonely_photo.cpp](../main/USACO/21/Footprints/lonely_photo_t2.cpp)|.|[Lonely Photo](http://www.usaco.org/index.php?page=viewproblem2&cpid=1155)|2|C++|실패|1/2/2022|O(N*log(N)) 개선 버전으로 하려다 실패|
 |[lonely_photo.cpp](../main/USACO/21/Footprints/lonely_photo_ni.cpp)|.|[Lonely Photo](http://www.usaco.org/index.php?page=viewproblem2&cpid=1155)|1|C++|부분 성공 (10/11)|12/26/2021|.|
