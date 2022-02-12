@@ -170,6 +170,12 @@ https://koi.or.kr/assets/koi/2019/1/e1-problems.pdf
 |[abc_card_game.cpp](../main/PS-Gym/Silver/abc_card_game.cpp)|[ABC 카드게임](https://nextop.kpscoj.com/algorithm/S1/2)|1|C++|성공|12/12/2021|.|
 |[sort.cpp](../main/PS-Gym/Silver/sort.cpp)|[정렬](https://nextop.kpscoj.com/algorithm/S1/1)|1|C++|성공|12/12/2021|.|
 
+## HTML & CSS
+### [HTMLTML](../../tree/main/HTMLTML)
+|페이지 수|언어|날짜|설명|
+|~122p|HTML 7 CSS|2/12/2022|연습 문제 좀 어려운게 있었지만 드디어 CSS. 어렵다.|
+|~77p|HTML|2/5/2022|ㅈㅁㄱㅇㅇㄸ|
+
 ## OpenCV로 배우는 컴퓨터 비전과 머신러닝
 ### [OpenCV / 21](../../tree/main/OpenCV/21)
 |소스 코드|페이지 수|언어|날짜|설명|
@@ -223,7 +229,6 @@ https://koi.or.kr/assets/koi/2019/1/e1-problems.pdf
 ## [심심해서 그냥 만들어본 소소한 미니 프로젝트](../../tree/main/Side%20Projects)
 |소스 코드|책 이름|페이지 수|언어|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|[HTMLTML](../../tree/main/Side%20Projects/HTMLTML)|HTML & CSS|~77p|HTML|2/5/2022|ㅈㅁㄱㅇㅇㄸ|
 |[shuffle-monte-carlo.cpp](../main/Side%20Projects/shuffle-monte-carlo.cpp)|.|.|C++|12/26/2021|몬테 칼로 기법을 활용한 무작위 셔플 검증|
 |[Git4Nextop](https://github.com/MineEric64/Git4Nextop)|.|.|C#|4/24/2021|넥스탑 학원에서 쓰일 깃 프로그램|
 |[Project REINFORCED](https://github.com/Nextop-OpenCV/ProjectReinforced)|.|.|C#|2/7/2021|
