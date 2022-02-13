@@ -117,8 +117,6 @@
 |[unfinished_player.cpp](../main/Programmers/21/Hash/unfinished_player.cpp)|[해시](https://programmers.co.kr/learn/courses/30/parts/12077)|1|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|1|C++|성공|7/25/2021|
 
 ## 한국정보올림피아드
-https://koi.or.kr/assets/koi/2019/1/e1-problems.pdf
-
 ### [Koi / 21](../../tree/main/Koi/21)
 |소스 코드|문제 수준|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -140,6 +138,11 @@ https://koi.or.kr/assets/koi/2019/1/e1-problems.pdf
 |[diet_t2.cpp](../main/Koi/20/Footprints/diet_t2.cpp)|중등부|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf), [다이어트 (백준)](http://boj.kr/19942)|2|C++|실패|5/1/2021|전에 나왔던 오류는 고쳤는데 아직도 `diet()` 함수 코드 때문에 뭔가 계속 틀림. 예제는 맞음.|
 |[hamburger.cpp](../main/Koi/20/hamburger.cpp)|중등부|[햄버거 분배](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf)|1|C++|성공|4/18/2021|시간 복잡도 O(n)|
 |[diet_t1.cpp](../main/Koi/20/Footprints/diet_t1.cpp)|중등부|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf)|1|C++|실패|4/18/2021|`diet()` 함수만 고치면 성공적으로 될거임.|
+
+### [Koi / 19](../../tree/main/Koi/19)
+|소스 코드|문제 수준|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|.|.|.|.|.|.|.|.|
 
 ## USACO
 ### [USACO / 21](../../tree/main/USACO/21)
