@@ -236,14 +236,14 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[shuffle-monte-carlo.cpp](../main/Side%20Projects/shuffle-monte-carlo.cpp)|.|.|C++|12/26/2021|몬테 칼로 기법을 활용한 무작위 셔플 검증|
 |[Git4Nextop](https://github.com/MineEric64/Git4Nextop)|.|.|C#|4/24/2021|넥스탑 학원에서 쓰일 깃 프로그램|
-|[Project REINFORCED](https://github.com/Nextop-OpenCV/ProjectReinforced)|.|.|C#|2/7/2021|
+|[Project REINFORCED](https://github.com/Luigi38/ProjectReinforced)|.|.|C#|2/7/2021|
 |[Drug2.cpp](../main/Side%20Projects/Drug2.cpp)|OpenCV|158~159p|C++|11/8/2020|
 |[Drug.cpp](../main/Side%20Projects/Drug.cpp)|OpenCV|.|C++|11/1/2020|대마초를 먹은 느낌이랄까?|
 
 ## 서울여대 정보보호영재교육원 (SWU 2021)
 |파일 이름|날짜|설명|
 |:---:|:---:|:---:|
-|[코로나 멈춰!](https://github.com/Luigi38/ProjectNextop/blob/main/SWU/2021%ED%95%99%EB%85%84%EB%8F%84%20%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%20%EC%98%81%EC%9E%AC%EA%B5%90%EC%9C%A1%EC%9B%90%20%5B2%EC%A1%B0%20_%EC%BD%94%EB%A1%9C%EB%82%98%20%EB%A9%88%EC%B6%B0!%5D%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|4/10/2021|코로나 멈춰! 앱 개발 계획 프로젝트|
+|[코로나 멈춰!](../main/SWU/2021%ED%95%99%EB%85%84%EB%8F%84%20%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%20%EC%98%81%EC%9E%AC%EA%B5%90%EC%9C%A1%EC%9B%90%20%5B2%EC%A1%B0%20_%EC%BD%94%EB%A1%9C%EB%82%98%20%EB%A9%88%EC%B6%B0!%5D%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|4/10/2021|코로나 멈춰! 앱 개발 계획 프로젝트|
 
 ## 소소한 기밀 문서
 |index|데이터|설명|
@@ -251,6 +251,17 @@
 |0|ggLNW5K1pvZcCI4h6fXUjNuRUGaaDBOrUgjoXsaCFjrF36v76OhuWM2HkQYsc51h|라고 합니다|
 |.|[Advanced Encryption Standard](https://www.devglan.com/online-tools/aes-encryption-decryption)|암호화 및 복호화|
 |1|Competitive Programming Helper (cph)|Visual Studio Code 확장 플러그인 (테스트)|
+
+![Beginning of Nextop](../main/Documents/Beginning.png)
+2020년 10월 11일, ProjectNextop 프로젝트는 시작되었습니다.
+넥스탑 정보보안 학원은 2019년부터 다녔지만 블로그로 정보 기록을 한 것은
+이 때가 처음입니다.
+
+2022년이 지나가며 곧 프로젝트 2주년을 앞두고 있습니다.
+사실 유니컨버터 프로젝트는 4주년이 넘었긴 했지만, 그래도 넥스탑 정보보안 학원을 다니는 그 날까지
+1주일 1커밋 이상 해보겠습니다.
+
+감사합니다.
 
 ## 꿀팁
 ```c++
