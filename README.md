@@ -181,7 +181,7 @@
 |~122p|HTML 7 CSS|2/12/2022|연습 문제 좀 어려운게 있었지만 드디어 CSS. 어렵다.|
 |~77p|HTML|2/5/2022|ㅈㅁㄱㅇㅇㄸ|
 
-[HTMLTML / README](../main/HTMLTML/README.md) 참조
+**[HTMLTML / README](../main/HTMLTML/README.md)** 참조
 
 ## OpenCV로 배우는 컴퓨터 비전과 머신러닝
 ### [OpenCV / 21](../../tree/main/OpenCV/21)
