@@ -177,8 +177,8 @@
 ### [HTMLTML](../../tree/main/HTMLTML)
 |페이지 수|언어|날짜|설명|
 |:---:|:---:|:---:|:---:|
-|~174p|CSS|2/19/2022|CSS. 어렵다. 정리가 안된다. 그래도 ㅈㅁㄱㅇㅇㄸ|
-|~122p|HTML 7 CSS|2/12/2022|연습 문제 좀 어려운게 있었지만 드디어 CSS. 어렵다.|
+|123~174p|HTML 7 CSS|2/19/2022|CSS. 어렵다. 정리가 안된다. 그래도 ㅈㅁㄱㅇㅇㄸ|
+|78~122p|HTML 7 CSS|2/12/2022|연습 문제 좀 어려운게 있었지만 드디어 CSS. 어렵다.|
 |~77p|HTML|2/5/2022|ㅈㅁㄱㅇㅇㄸ|
 
 **[HTMLTML / README](../main/HTMLTML/README.md)** 참조
@@ -254,7 +254,7 @@
 |.|[Advanced Encryption Standard](https://www.devglan.com/online-tools/aes-encryption-decryption)|암호화 및 복호화|
 |1|Competitive Programming Helper (cph)|Visual Studio Code 확장 플러그인 (테스트)|
 
-![Beginning of Nextop](../main/Documents/Beginning.png)
+![Beginning of Nextop](../main/Resources/beginning.png)
 
 2020년 10월 11일, ProjectNextop 프로젝트는 시작되었습니다.
 
