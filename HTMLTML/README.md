@@ -1,8 +1,8 @@
 # HTMLTML
 HTML & CSS
 
-|[.html](../HTMLTML/caph5/.html)|p|HTML 7 CSS|2/12/2022|![docs-](../HTMLTML/caph5/docs/.jpg)|.|
-|[0.html](../HTMLTML/caph5/pp/0.html)|p|HTML 7 CSS|2/12/2022|![docs-pp-0](../HTMLTML/caph5/docs/pp-0.jpg)|.|
+|[.html](../HTMLTML/caph3/.html)|p|HTML|2/5/2022|![docs-](../HTMLTML/caph3/docs/.jpg)|.|
+|[0.html](../HTMLTML/caph3/pp/0.html)|p|HTML|2/5/2022|![docs-pp-0](../HTMLTML/caph3/docs/pp-0.jpg)|.|
 
 ## [챕터 1](../../../tree/main/HTMLTML/cahp1)
 |소스 코드|페이지 수|언어|날짜|결과|설명|
@@ -66,7 +66,7 @@ HTML & CSS
 |[text_shadow.html](../HTMLTML/caph5/text_shadow.html)|118~119p|HTML 7 CSS|2/12/2022|![docs-text_shadow](../HTMLTML/caph5/docs/text_shadow.jpg)|.|
 |[font_family.html](../HTMLTML/caph5/font_family.html)|119~120p|HTML 7 CSS|2/12/2022|![docs-font_family](../HTMLTML/caph5/docs/font_family.jpg)|.|
 |[font_style.html](../HTMLTML/caph5/font_style.html)|121~122p|HTML 7 CSS|2/12/2022|![docs-font_style](../HTMLTML/caph5/docs/font_style.jpg)|.|
-|[css_link.html](../HTMLTML/caph5/css_link.html)|127~128p|HTML 7 CSS|2/12/2022|![docs-css_link-1](../HTMLTML/caph5/docs/css_link-1.jpg)|방문하기 전의 링크 텍스트|
+|[css_link.html](../HTMLTML/caph5/css_link.html)|127~128p|HTML 7 CSS|2/19/2022|![docs-css_link-1](../HTMLTML/caph5/docs/css_link-1.jpg)|방문하기 전의 링크 텍스트|
 |"|"|"|"|![docs-css_link-2](../HTMLTML/caph5/docs/css_link-2.jpg)|링크 텍스트를 마우스 포인터를 갖다 댄 상태|
 |"|"|"|"|![docs-css_link-3](../HTMLTML/caph5/docs/css_link-3.jpg)|링크 텍스트를 마우스로 클릭한 순간|
 |"|"|"|"|![docs-css_link-4](../HTMLTML/caph5/docs/css_link-4.jpg)|링크 텍스트를 한 번 이상 클릭한 경우|
@@ -74,24 +74,28 @@ HTML & CSS
 ### [연습 문제](../../../tree/main/HTMLTML/caph5/pp)
 |소스 코드|페이지 수|언어|날짜|결과|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|[01.html](../HTMLTML/caph5/pp/01.html)|131~132p|HTML 7 CSS|2/12/2022|![docs-pp-01](../HTMLTML/caph5/docs/pp-01.jpg)|.|
+|[01.html](../HTMLTML/caph5/pp/01.html)|131~132p|HTML 7 CSS|2/19/2022|![docs-pp-01](../HTMLTML/caph5/docs/pp-01.jpg)|.|
 
 ## [챕터 6](../../../tree/main/HTMLTML/caph6)
 |소스 코드|페이지 수|언어|날짜|결과|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-
-### [연습 문제](../../../tree/main/HTMLTML/caph6/pp)
-|소스 코드|페이지 수|언어|날짜|결과|설명|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-
+|[tag_selector.html](../HTMLTML/caph6/tag_selector.html)|134~136p|HTML 7 CSS|2/19/2022|![docs-tag_selector](../HTMLTML/caph6/docs/tag_selector.jpg)|.|
+|[id_selector.html](../HTMLTML/caph6/id_selector.html)|136~138p|HTML 7 CSS|2/19/2022|![docs-id_selector](../HTMLTML/caph6/docs/id_selector.jpg)|.|
+|[class_selector1.html](../HTMLTML/caph6/class_selector1.html)|138~139p|HTML 7 CSS|2/19/2022|![docs-class_selector1](../HTMLTML/caph6/docs/class_selector1.jpg)|.|
+|[class_selector2.html](../HTMLTML/caph6/class_selector2.html)|140~141p|HTML 7 CSS|2/19/2022|![docs-class_selector2](../HTMLTML/caph6/docs/class_selector2.jpg)|.|
+|[descendant_selector.html](../HTMLTML/caph6/descendant_selector.html)|142~143p|HTML 7 CSS|2/19/2022|![docs-descendant_selector](../HTMLTML/caph6/docs/descendant_selector.jpg)|.|
+|[css_comment.html](../HTMLTML/caph6/css_comment.html)|144~146p|HTML 7 CSS|2/19/2022|![docs-css_comment](../HTMLTML/caph6/docs/css_comment.jpg)|.|
 
 ## [챕터 7](../../../tree/main/HTMLTML/caph7)
 |소스 코드|페이지 수|언어|날짜|결과|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-
-### [연습 문제](../../../tree/main/HTMLTML/caph7/pp)
-|소스 코드|페이지 수|언어|날짜|결과|설명|
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|[background_color.html](../HTMLTML/caph7/background_color.html)|156~157p|HTML 7 CSS|2/19/2022|![docs-background_color](../HTMLTML/caph7/docs/background_color.jpg)|.|
+|[background_image.html](../HTMLTML/caph7/background_image.html)|158~160p|HTML 7 CSS|2/19/2022|![docs-background_image](../HTMLTML/caph7/docs/background_image.jpg)|.|
+|[no-repeat.html](../HTMLTML/caph7/no-repeat.html)|160~161p|HTML 7 CSS|2/19/2022|![docs-no_repeat](../HTMLTML/caph7/docs/no_repeat.jpg)|.|
+|[repeat_x.html](../HTMLTML/caph7/repeat_x.html)|161~162p|HTML 7 CSS|2/19/2022|![docs-repeat_x](../HTMLTML/caph7/docs/repeat_x.jpg)|.|
+|[background_position.html](../HTMLTML/caph7/background_position.html)|163~164p|HTML 7 CSS|2/19/2022|![docs-background_position](../HTMLTML/caph7/docs/background_position.jpg)|.|
+|[list-style-type.html](../HTMLTML/caph7/list-style-type.html)|165~166p|HTML 7 CSS|2/19/2022|![docs-list_style_type](../HTMLTML/caph7/docs/list_style_type.jpg)|.|
+|[list_style_image.html](../HTMLTML/caph7/list_style_image.html)|166~167p|HTML 7 CSS|2/19/2022|![docs-list_style_image](../HTMLTML/caph7/docs/list_style_image.jpg)|.|
 
 ## [챕터 8](../../../tree/main/HTMLTML/caph8)
 |소스 코드|페이지 수|언어|날짜|결과|설명|
