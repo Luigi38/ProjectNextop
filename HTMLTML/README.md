@@ -24,8 +24,10 @@ HTML & CSS
 |[ul_li.html](../HTMLTML/cahp2/ul_li.html)|50~52p|HTML|2/5/2022|![docs-ul_li](../HTMLTML/cahp2/docs/ul_li.jpg)|.|
 |[ol_li.html](../HTMLTML/cahp2/ol_li.html)|52~53p|HTML|2/5/2022|![docs-ol_li](../HTMLTML/cahp2/docs/ol_li.jpg)|.|
 |[dl_dt_dd.html](../HTMLTML/cahp2/dl_dt_dd.html)|53~54p|HTML|2/5/2022|![docs-dl_dt_dd](../HTMLTML/cahp2/docs/dl_dt_dd.jpg)|.|
-|[index.html](../HTMLTML/cahp2/index.html)|55~57p|HTML|2/5/2022|![docs-index](../HTMLTML/cahp2/docs/index.jpg)|.|
-|[page1.html](../HTMLTML/cahp2/page1.html)|57p|HTML|2/5/2022|![docs-page1](../HTMLTML/cahp2/docs/page1.jpg)|.|
+|[index.html](../HTMLTML/cahp2/index.html)|55~57p|HTML|2/5/2022|![docs-index-1](../HTMLTML/cahp2/docs/index-1.jpg)|page1의 '홈으로' 버튼을 클릭 시|
+|"|"|"|"|![docs-index-2](../HTMLTML/cahp2/docs/index-2.jpg)|index의 'Click to search with Google' 버튼을 클릭 시|
+|"|"|"|"|![docs-index-3](../HTMLTML/cahp2/docs/index-3.jpg)|index의 'Click to watch the video with Youtube' 버튼을 클릭 시|
+|[page1.html](../HTMLTML/cahp2/page1.html)|57p|HTML|2/5/2022|![docs-page1](../HTMLTML/cahp2/docs/page1.jpg)|index의 '꽃잔디' 버튼을 클릭 시|
 |[html_comment.html](../HTMLTML/cahp2/html_comment.html)|58p|HTML|2/5/2022|![docs-html_comment](../HTMLTML/cahp2/docs/html_comment.jpg)|.|
 
 ### [연습 문제](../../../tree/main/HTMLTML/cahp2/pp)
