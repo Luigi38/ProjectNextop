@@ -113,9 +113,9 @@ HTML & CSS
 |[inline_block.html](../HTMLTML/caph8/inline_block.html)|192~193p|HTML 7 CSS|2/26/2022|![docs-inline_block](../HTMLTML/caph8/docs/inline_block.jpg)|.|
 |[h_menu.html](../HTMLTML/caph8/.html)|194~195p|HTML 7 CSS|2/26/2022|![docs-h_menu](../HTMLTML/caph8/docs/h_menu.jpg)|.|
 |[v_menu.html](../HTMLTML/caph8/v_menu.html)|196p|HTML 7 CSS|2/26/2022|![docs-v_menu-1](../HTMLTML/caph8/docs/v_menu-1.jpg)|.|
-|"|"|"|"|![docs-v_menu_2](../HTMLTML/caph8/docs/v_menu-2.jpg)|.|
-|"|"|"|"|![docs-v_menu_3](../HTMLTML/caph8/docs/v_menu-3.jpg)|.|
-|"|"|"|"|![docs-v_menu_4](../HTMLTML/caph8/docs/v_menu-4.jpg)|.|
+|"|"|"|"|![docs-v_menu_2](../HTMLTML/caph8/docs/v_menu-2.jpg)|Naver 클릭 시|
+|"|"|"|"|![docs-v_menu_3](../HTMLTML/caph8/docs/v_menu-3.jpg)|Google 클릭 시|
+|"|"|"|"|![docs-v_menu_4](../HTMLTML/caph8/docs/v_menu-4.jpg)|YouTube 클릭 시|
 |[boxes.html](../HTMLTML/caph8/boxes.html)|197~198p|HTML 7 CSS|2/26/2022|![docs-boxes](../HTMLTML/caph8/docs/boxes.jpg)|.|
 
 ## [챕터 9](../../../tree/main/HTMLTML/caph9)
