@@ -12,17 +12,17 @@ HTML & CSS
 |[챕터 7](../../../tree/main/HTMLTML/caph7)|CSS : 배경과 목록|156~174p|HTML 7 CSS|
 |[챕터 8](../../../tree/main/HTMLTML/caph8)|CSS : 박스 모델과 디스플레이|176~204p|HTML 7 CSS|
 |[챕터 9](../../../tree/main/HTMLTML/caph9)|CSS : 테이블과 폼|204~248p|HTML 7 CSS|
+|[챕터 10](../../../tree/main/HTMLTML/caph10)|CSS : 레이아웃|250~290p|HTML 7 CSS|
 
-|[.html](../caph9/.html)|p|HTML 7 CSS|2/26/2022|![docs-](../caph9/docs/.jpg)|.|
-|[0.html](../caph9/pp/0.html)|p|HTML 7 CSS|2/26/2022|![docs-pp-0](../caph9/docs/pp-0.jpg)|.|
+|[.html](../caph10/.html)|p|HTML 7 CSS|3/12/2022|![docs-](../caph10/docs/.jpg)|.|
+|[0.html](../caph10/pp/0.html)|p|HTML 7 CSS|3/12/2022|![docs-pp-0](../caph10/docs/pp-0.jpg)|.|
 
-## 챕터 10
+## 챕터 11
 |소스 코드|페이지 수|언어|날짜|결과|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-### [연습 문제](../../../../tree/main/HTMLTML/caph10/pp)
+### [연습 문제](../../../../tree/main/HTMLTML/caph11/pp)
 |소스 코드|페이지 수|언어|날짜|결과|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 ## TODO
-- 99p 회원가입 형식 만들어보기
