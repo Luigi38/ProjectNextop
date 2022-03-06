@@ -140,10 +140,7 @@
 |[diet_t1.cpp](../main/Koi/20/Footprints/diet_t1.cpp)|중등부|[다이어트](https://koi.or.kr/assets/koi/2020/1/problems/m2-problems.pdf)|1|C++|실패|4/18/2021|`diet()` 함수만 고치면 성공적으로 될거임.|
 
 ### [Koi / 19](../../tree/main/Koi/19)
-|소스 코드|문제 수준|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[palindrome.cpp](../main/Koi/19/palindrome.cpp)|초등부|[회문](https://koi.or.kr/assets/koi/2019/1/e2-problems.pdf), [회문 (백준)](http://boj.kr/17609)|1|C++|성공|2/27/2022|이게 초등부 문제라고? 최적의 시간 효율의 생각을 좀 전환해야 할 듯. 내가 알기 쉽게|
-|[stick.cpp](../main/Koi/19/stick.cpp)|초등부|[막대기](https://koi.or.kr/assets/koi/2019/1/e2-problems.pdf), [막대기 (백준)](http://boj.kr/17608)|1|C++|성공|2/20/2022|개쉽네|
+
 
 ## USACO
 ### [USACO / 21](../../tree/main/USACO/21)
