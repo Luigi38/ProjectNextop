@@ -13,15 +13,16 @@ HTML & CSS
 |[챕터 8](../../../tree/main/HTMLTML/caph8)|CSS : 박스 모델과 디스플레이|176~204p|HTML 7 CSS|
 |[챕터 9](../../../tree/main/HTMLTML/caph9)|CSS : 테이블과 폼|204~248p|HTML 7 CSS|
 |[챕터 10](../../../tree/main/HTMLTML/caph10)|CSS : 레이아웃|250~290p|HTML 7 CSS|
+|[챕터 11](../../../tree/main/HTMLTML/caph11)|웹 페이지 레이아웃|294~336p|HTML 7 CSS|
 
-|[.html](../caph10/.html)|p|HTML 7 CSS|3/12/2022|![docs-](../caph10/docs/.jpg)|.|
-|[0.html](../caph10/pp/0.html)|p|HTML 7 CSS|3/12/2022|![docs-pp-0](../caph10/docs/pp-0.jpg)|.|
+|[.html](../caph11/.html)|p|HTML 7 CSS|3/17/2022|![docs-](../caph11/docs/.jpg)|.|
+|[0.html](../caph11/pp/0.html)|p|HTML 7 CSS|3/17/2022|![docs-pp-0](../caph11/docs/pp-0.jpg)|.|
 
-## 챕터 11
+## 챕터 12
 |소스 코드|페이지 수|언어|날짜|결과|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-### [연습 문제](../../../../tree/main/HTMLTML/caph11/pp)
+### [연습 문제](../../../../tree/main/HTMLTML/caph12/pp)
 |소스 코드|페이지 수|언어|날짜|결과|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
