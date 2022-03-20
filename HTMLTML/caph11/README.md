@@ -8,6 +8,8 @@
 |[flexible_2col.html](../caph11/flexible_2col.html)|307~309p|HTML 7 CSS|3/12/2022|![docs-flexible_2col-1](../caph11/docs/flexible_2col-1.jpg)|.|
 |"|"|"|"|![docs-flexible_2col-2](../caph11/docs/flexible_2col-2.jpg)|.|
 |"|"|"|"|![docs-flexible_2col-3](../caph11/docs/flexible_2col-3.jpg)|.|
+|[header.html](../caph11/html/header.html)|312~315p|HTML 7 CSS|3/17/2022|![docs-header](../caph11/docs/header.jpg)|.|
+|[banner.html](../caph11/html/banner.html)|316~318p|HTML 7 CSS|3/17/2022|![docs-banner](../caph11/docs/banner.jpg)|.|
 
 ### [연습 문제](../../../../tree/main/HTMLTML/caph11/pp)
 |소스 코드|페이지 수|언어|날짜|결과|설명|
