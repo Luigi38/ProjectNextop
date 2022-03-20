@@ -1,4 +1,4 @@
-# Baekjoon / 20
+# 백준 (2020)
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[string_explosion_t1.cpp](../20/Footprints/string_explosion_t1.cpp)|[문자열 폭발](http://boj.kr/9935)|1|C++|시간 초과|11/21/2020|
