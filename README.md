@@ -2,7 +2,7 @@
 넥스탑 👍
 
 - [용어사전](../main/Documents/WordDictionary.md)
-- [정보보호영재교육원 2021](../../tree/main/SWU)
+- [정보보호영재교육원 2021](../main/SWU/README.md)
 - [가장 어려웠던 문제 모음, 어떻게 풀었을까?](../main/Documents/HowSolved.md)
 - [획기적인 기술, 우선순위 큐](../main/Documents/PriorityIsFun.md)
 - [백엔드 모든 개념 총정리](../main/Documents/Backend.md)
@@ -10,12 +10,16 @@
 ## 바로가기
 - [프로그래머스 - 코딩테스트 연습](https://programmers.co.kr/learn/challenges)
 
-## 백준 문제
-### [Baekjoon / 21](../../tree/main/Baekjoon/21)
-### [Baekjoon / 20](../../tree/main/Baekjoon/20)
+## 백준
+|주제|마지막 수정 날짜|
+|:---:|:---:|
+|[2021년도](../main/Baekjoon/21/README.md)|.|
+|[2020년도](../main/Baekjoon/20/README.md)|.|
 
 ## 프로그래머스
-### [Programmers / 21](../../tree/main/Programmers/21)
+|주제|마지막 수정 날짜|
+|:---:|:---:|
+|[2021년도](../main/Programmers/21/README.md)|.|
 
 ## 한국정보올림피아드
 |주제|마지막 수정 날짜|
