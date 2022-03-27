@@ -18,9 +18,11 @@
 ### [Programmers / 21](../../tree/main/Programmers/21)
 
 ## 한국정보올림피아드
-### [Koi / 21](../../tree/main/Koi/21)
-### [Koi / 20](../../tree/main/Koi/20)
-### [Koi / 19](../../tree/main/Koi/19)
+|주제|마지막 수정 날짜|
+|:---:|:---:|
+|[2021년도](../main/Koi/21/README.md)|.|
+|[2020년도](../main/Koi/20/README.md)|.|
+|[2019년도](../main/Koi/19/README.md)|.|
 
 ## USACO
 ### [USACO / 21](../../tree/main/USACO/21)
