@@ -29,38 +29,15 @@
 |[2019년도](../main/Koi/19/README.md)|.|
 
 ## USACO
-### [USACO / 21](../../tree/main/USACO/21)
-|소스 코드|문제 수준|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[herdle.cpp](../main/USACO/22/herdle.cpp)|.|[HERDLE](http://usaco.org/index.php?page=viewproblem2&cpid=1179)|2|C++|성공|2/6/2022|생각보다 어이없는 함수 `find_and_allocate()`|
-|[herdle.cpp](../main/USACO/22/Footprints/herdle.cpp)|.|[HERDLE](http://usaco.org/index.php?page=viewproblem2&cpid=1179)|1|C++|부분 성공 (10/11)|1/30/2022|왜 6번이 안되냐고!!!!|
-|[lonely_photo.cpp](../main/USACO/21/lonely_photo.cpp)|.|[Lonely Photo](http://www.usaco.org/index.php?page=viewproblem2&cpid=1155)|3|C++|성공|1/9/2022|O(N*log(N)) 개선 버전|
-|[lonely_photo.cpp](../main/USACO/21/Footprints/lonely_photo_t2.cpp)|.|[Lonely Photo](http://www.usaco.org/index.php?page=viewproblem2&cpid=1155)|2|C++|실패|1/2/2022|O(N*log(N)) 개선 버전으로 하려다 실패|
-|[lonely_photo.cpp](../main/USACO/21/Footprints/lonely_photo_ni.cpp)|.|[Lonely Photo](http://www.usaco.org/index.php?page=viewproblem2&cpid=1155)|1|C++|부분 성공 (10/11)|12/26/2021|.|
-|[Acowdemia-I.cpp](../main/USACO/21/Acowdemia-I.cpp)|.|[Acowdemia I](https://www.acmicpc.net/problem/21820)|4|C++|성공|12/11/2021|.|
-|[Acowdemia-I.cpp](../main/USACO/21/Footprints/Acowdemia-I_t3.cpp)|.|[Acowdemia I](https://www.acmicpc.net/problem/21820)|3|C++|실패|12/5/2021|15%, 객체화 및 체계화|
-|[Acowdemia-I.cpp](../main/USACO/21/Footprints/Acowdemia-I_t2.cpp)|.|[Acowdemia I](https://www.acmicpc.net/problem/21820)|2|C++|실패|11/28/2021|21%|
-|[Abowdemica-I.cpp](../main/USACO/21/Footprints/Abowdemica-I_t.cpp)|.|[Acowdemia I](https://www.acmicpc.net/problem/21820)|1|C++|실패|11/14/2021|.|
+|주제|마지막 수정 날짜|
+|:---:|:---:|
+|[2022년도](../main/USACO/22/README.md)|.|
+|[2021년도](../main/USACO/21/README.md)|.|
 
 ## PS Gym
 |주제|마지막 수정 날짜|
 |:---:|:---:|
-|[SILVER](../main/PS-Gym/Silver)|.|
-
-## HTML & CSS
-### [HTMLTML](../../tree/main/HTMLTML)
-|페이지 수|언어|날짜|설명|
-|:---:|:---:|:---:|:---:|
-|319~325p|HTML 7 CSS|3/27/2022|살려주세요 읍읍|
-|310~318p|HTML 7 CSS|3/20/2022|하하 tlqkf|
-|276~309p|HTML 7 CSS|3/12/2022|.|
-|223~263p|HTML 7 CSS|3/5/2022|다른 의미로 멘붕 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ|
-|175~214p|HTML 7 CSS|2/26/2022|와... 멘붕|
-|123~174p|HTML 7 CSS|2/19/2022|CSS. 어렵다. 정리가 안된다. 그래도 ㅈㅁㄱㅇㅇㄸ|
-|78~122p|HTML 7 CSS|2/12/2022|연습 문제 좀 어려운게 있었지만 드디어 CSS. 어렵다.|
-|~77p|HTML|2/5/2022|ㅈㅁㄱㅇㅇㄸ|
-
-**[HTMLTML / README](../main/HTMLTML/README.md)** 참조
+|[SILVER](../main/PS-Gym/Silver/README.md)|.|
 
 ## OpenCV로 배우는 컴퓨터 비전과 머신러닝
 ### [OpenCV / 21](../../tree/main/OpenCV/21)
@@ -95,22 +72,8 @@
 |[HelloOpenCV.cpp](../main/OpenCV/20/HelloOpenCV.cpp)|49~52p|C++|10/18/2020|
 |[MatOpEx.cpp](../main/OpenCV/20/MatOpEx.cpp)|90~95p|C++|10/18/2020|
 
+
 ## [자료구조](../../tree/main/Data%20Structure)
-|소스 코드|페이지 수|언어|날짜|설명|
-|:---:|:---:|:---:|:---:|:---:|
-|[search_maze.cpp](../main/Data%20Structure/search_maze.cpp)|135~141p|C++|11/14/2020|
-|[brackets.cpp](../main/Data%20Structure/brackets.cpp)|119~123p|C++|10/31/2020|
-|[infix_to_postfix.cpp](../main/Data%20Structure/infix_to_postfix.cpp)|124~134p|C++|10/31/2020|
-|[just_testing.cpp](../main/Data%20Structure/just_testing.cpp)|99p|C++|10/24/2020|12번|
-|[just_testing.py](../main/Data%20Structure/just_testing.py)|99p|Python|10/24/2020|12번|
-|[loc_is_deleted.cpp](../main/Data%20Structure/loc_is_deleted.cpp)|99p|C++|10/24/2020|10번|
-|[loc_is_deleted.py](../main/Data%20Structure/loc_is_deleted.py)|99p|Python|10/24/2020|10번|
-|[loc_is_fun.cpp](../main/Data%20Structure/loc_is_fun.cpp)|98p|C++|10/17/2020|8번|
-|[loc_is_fun.py](../main/Data%20Structure/loc_is_fun.py)|98p|Python|10/17/2020|8번|
-|[problem4.cpp](../main/Data%20Structure/problem4.cpp)|98p|C++|10/17/2020|4번|
-|[problem4.py](../main/Data%20Structure/problem4.py)|98p|Python|10/17/2020|4번|
-|[hanoi_tower.cpp](../main/Data%20Structure/hanoi_tower.cpp)|61p|C++|10/11/2020|
-|[hanoi_tower.py](../main/Data%20Structure/hanoi_tower.py)|61p|Python|10/11/2020|
 
 ## [심심해서 그냥 만들어본 소소한 미니 프로젝트](../../tree/main/Side%20Projects)
 |소스 코드|책 이름|페이지 수|언어|날짜|설명|
