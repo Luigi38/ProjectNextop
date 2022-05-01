@@ -13,7 +13,6 @@
 ## 백준
 |주제|마지막 수정 날짜|
 |:---:|:---:|
-|[2022년도](../main/Baekjoon/22/README.md)|4/22/2022|
 |[2021년도](../main/Baekjoon/21/README.md)|.|
 |[2020년도](../main/Baekjoon/20/README.md)|.|
 
