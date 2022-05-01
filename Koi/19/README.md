@@ -2,4 +2,4 @@
 |주제|날짜|
 |:---:|:---:|
 |[초등부](../19/elementary/README.md)|.|
-|[중등부](../19/middle/README.md)|.|
+|[중등부](../19/middle/README.md)|5/1/2022|
