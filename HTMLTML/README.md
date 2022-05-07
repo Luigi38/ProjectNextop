@@ -14,17 +14,7 @@ HTML & CSS
 |[챕터 9](../HTMLTML/caph9/README.md)|CSS : 테이블과 폼|204~248p|HTML 7 CSS|
 |[챕터 10](../HTMLTML/caph10/README.md)|CSS : 레이아웃|250~290p|HTML 7 CSS|
 |[챕터 11](../HTMLTML/caph11/README.md)|웹 페이지 레이아웃|294~336p|HTML 7 CSS|
-
-|[.html](../caph11/.html)|p|HTML 7 CSS|3/17/2022|![docs-](../caph11/docs/.jpg)|.|
-|[0.html](../caph11/pp/0.html)|p|HTML 7 CSS|3/17/2022|![docs-pp-0](../caph11/docs/pp-0.jpg)|.|
-
-## 챕터 12
-|소스 코드|페이지 수|언어|날짜|결과|설명|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-
-### [연습 문제](../../../../../tree/main/HTMLTML/caph12/pp)
-|소스 코드|페이지 수|언어|날짜|결과|설명|
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|[챕터 14](../HTMLTML/caph14/README.md)|반응형 웹 디자인|430~456p|HTML 7 CSS|
 
 ## TODO
 - [ ] 팀 VGR 자기소개 사이트 만들기
@@ -33,6 +23,7 @@ HTML & CSS
 ### HTMLTML (구식)
 |페이지 수|언어|날짜|설명|
 |:---:|:---:|:---:|:---:|
+|326~456p|HTML 7 CSS|5/7/2022|HTML 끄읏!|
 |319~325p|HTML 7 CSS|3/27/2022|살려주세요 읍읍|
 |310~318p|HTML 7 CSS|3/20/2022|하하 tlqkf|
 |276~309p|HTML 7 CSS|3/12/2022|.|
