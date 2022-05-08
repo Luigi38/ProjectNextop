@@ -1,4 +1,9 @@
 # 중등부 문제 (2021)
+|소스 코드|문제 제목|시도 횟수|언어|날짜|설명|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|[honey.cpp](../middle/honey.cpp)|[꿀 따기](http://boj.kr/21758)|9|C++|6/13/2021|최댓값을 미리 구한다면? FINISH. GG, O(3N)|
+
+## 과정
 |소스 코드|문제 제목|시도 횟수|언어|성공 여부|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[honey_t1_ni.cpp](../middle/Footprints/dog_honey_jam_t1_ni.cpp)|[꿀 따기](http://boj.kr/21758)|1|C++|부분 성공 (11점)|5/30/2021|삼중 포문 안에 while문을 `honey_t2_d.cpp`처럼 값을 미리 구해서 할 수 있음. O(N^3*2N)|
@@ -9,4 +14,3 @@
 |[honey_t5_v1.cpp](../middle/Footprints/honey_t5_v1.cpp)|[꿀 따기](http://boj.kr/21758)|6|C++|부분 성공 (24점)|6/13/2021|Idea #3 / O(N^3)|
 |[honey_t5_v2.cpp](../middle/Footprints/honey_t5_v2.cpp)|[꿀 따기](http://boj.kr/21758)|7|C++|부분 성공 (55점)|6/13/2021|`fly()` 함수 개선 버전. 기존 while문을 `dog_honey_jam_t3.cpp`에 있는 미리 구하는 코드로 변경, O(N^2)|
 |[honey_t5_v3.cpp](../middle/Footprints/honey_t5_v3.cpp)|[꿀 따기](http://boj.kr/21758)|8|C++|부분 성공 (55점)|6/13/2021|상황 3 규칙 개선, O(N^2)|
-|[honey.cpp](../middle/honey.cpp)|[꿀 따기](http://boj.kr/21758)|9|C++|성공|6/13/2021|최댓값을 미리 구한다면? FINISH. GG, O(3N)|
