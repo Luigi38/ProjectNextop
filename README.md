@@ -37,7 +37,12 @@
 ## [PS Gym](https://nextop.kpscoj.com)
 |주제|마지막 수정 날짜|
 |:---:|:---:|
-|[SILVER](../main/PS-Gym/Silver/README.md)|.|
+|[SILVER](./PS-Gym/Silver/README.md)|.|
+
+## 세부능력 및 특기사항 (DESP)
+|주제|마지막 수정 날짜|
+|:---:|:---:|
+|[2022년도](./DESP/22/README.md)|5/8/2022|
 
 ## OpenCV로 배우는 컴퓨터 비전과 머신러닝
 ### [OpenCV / 21](../../tree/main/OpenCV/21)
