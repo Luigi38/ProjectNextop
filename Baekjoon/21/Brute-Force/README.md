@@ -4,7 +4,7 @@
 |[decomposition.cpp](./decomposition.cpp)|[분해합](http://boj.kr/2231)|1|C++|3/6/2021|
 |[lotto.cpp](./lotto.cpp)|[로또](http://boj.kr/6603)|2|C++|3/20/2021|`lotto_d.cpp` 코드는 하다가 답이 없어서 때려침. DFS로 대체함|
 
-# 과정
+## 과정
 |소스 코드|문제 제목|시도 횟수|언어|결과|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[lotto_d.cpp](./Footprints/lotto.cpp)|[로또](http://boj.kr/6603)|1|C++|아직 안함|3/13/2021|하다가 때려칠 수도?|
