@@ -18,7 +18,7 @@
 |[html5_form.html](./html5_form.html)|98p|HTML|2/12/2022|![docs-html5_form-1](./docs/html5_form-1.jpg)|.|
 |"|"|"|"|![docs-html5_form-2](./docs/html5_form-2.jpg)|사용자가 직접 맞춤 설정 가능|
 
-### [연습 문제](../../../../tree/main/HTMLTML/caph4/pp)
+### 연습 문제
 |소스 코드|페이지 수|언어|날짜|결과|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[01.html](./pp/01.html)|104p|HTML|2/12/2022|![docs-pp-01](./docs/pp-01.jpg)|.|

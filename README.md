@@ -44,6 +44,12 @@
 |:---:|:---:|
 |[2022년도](./DESP/22/README.md)|5/8/2022|
 
+## HTMLTML
+|주제|마지막 수정 날짜|
+|:---:|:---:|
+|[HTML & CSS](./HTMLTML/html/README.md)|5/7/2022|
+|[Javascript](./HTMLTML/javascript/README.md)|.|
+
 ## OpenCV로 배우는 컴퓨터 비전과 머신러닝
 |주제|마지막 수정 날짜|
 |:---:|:---:|
@@ -53,13 +59,13 @@
 ## [자료구조](../../tree/main/Data%20Structure)
 
 ## [심심해서 그냥 만들어본 소소한 미니 프로젝트](../../tree/main/Side%20Projects)
-|소스 코드|책 이름|페이지 수|언어|날짜|설명|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|[Drug.cpp](./Side%20Projects/Drug.cpp)|OpenCV|.|C++|11/1/2020|대마초를 먹은 느낌이랄까?|
-|[Drug2.cpp](./Side%20Projects/Drug2.cpp)|OpenCV|158~159p|C++|11/8/2020|
-|[Project REINFORCED](https://github.com/Luigi38/ProjectReinforced)|.|.|C#|2/7/2021|
-|[Git4Nextop](https://github.com/MineEric64/Git4Nextop)|.|.|C#|4/24/2021|넥스탑 학원에서 쓰일 깃 프로그램|
-|[shuffle-monte-carlo.cpp](./Side%20Projects/shuffle-monte-carlo.cpp)|.|.|C++|12/26/2021|몬테 칼로 기법을 활용한 무작위 셔플 검증|
+## 사이드 프로젝트
+|주제|마지막 수정 날짜|
+|:---:|:---:|
+|[]|
+
+- 사이드 프로젝트
+- 자료구조
 
 ## 서울여대 정보보호영재교육원 (SWU 2021)
 |파일 이름|날짜|설명|

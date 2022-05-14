@@ -15,7 +15,7 @@
 |[page1.html](./page1.html)|57p|HTML|2/5/2022|![docs-page1](./docs/page1.jpg)|index의 '꽃잔디' 버튼을 클릭 시|
 |[html_comment.html](./html_comment.html)|58p|HTML|2/5/2022|![docs-html_comment](./docs/html_comment.jpg)|.|
 
-### [연습 문제](../../../tree/main/HTMLTML/cahp2/pp)
+### 연습 문제
 |소스 코드|페이지 수|언어|날짜|결과|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[01.html](./pp/01.html)|62p|HTML|2/5/2022|![docs-pp-01](./docs/pp-01.jpg)|.|

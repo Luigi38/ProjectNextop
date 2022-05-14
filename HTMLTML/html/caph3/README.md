@@ -14,7 +14,7 @@
 |[video.html](./video.html)|76~77p|HTML|2/5/2022|![docs-video-1](./docs/video-1.jpg)|동영상 재생 시|
 |"|"|"|"|![docs-video-2](./docs/video-2.jpg)|동영상 바|
 
-### [연습 문제](../../../../tree/main/HTMLTML/caph3/pp)
+### 연습 문제
 |소스 코드|페이지 수|언어|날짜|결과|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[02.html](./pp/02.html)|80p|HTML|2/5/2022|![docs-pp-02](./docs/pp-02.jpg)|.|

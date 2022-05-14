@@ -14,7 +14,7 @@
 |[position4.html](./position4.html)|279~280p|HTML 7 CSS|3/12/2022|![docs-position4](./docs/position4.jpg)|.|
 |[position_layout.html](./position_layout.html)|280~283p|HTML 7 CSS|3/12/2022|![docs-position_layout](./docs/position_layout.jpg)|.|
 
-### [연습 문제](../../../../tree/main/HTMLTML/caph10/pp)
+### 연습 문제
 |소스 코드|페이지 수|언어|날짜|결과|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[01.html](./pp/01.html)|p|HTML 7 CSS|3/12/2022|![docs-pp-01](./docs/pp-01.jpg)|.|

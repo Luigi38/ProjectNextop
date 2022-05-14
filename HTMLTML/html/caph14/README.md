@@ -17,7 +17,7 @@
 |"|"|"|"|![docs-photo_academy-2](./docs/photo_academy-2.jpg)|너비가 600px 이상 768px 미만인 경우|
 |"|"|"|"|![docs-photo_academy-3](./docs/photo_academy-3.jpg)|너비가 768px 이상인 경우|
 
-### [연습 문제](../../../../../tree/main/HTMLTML/caph14/pp)
+### 연습 문제
 |소스 코드|페이지 수|언어|날짜|결과|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[04.html](./pp/04.html)|455~456p|HTML 7 CSS|5/7/2022|![docs-pp-04-1](./docs/pp-04-1.jpg)|.|

@@ -8,7 +8,7 @@
 |[login_form.html](./login_form.html)|223~226p|HTML 7 CSS|3/5/2022|![docs-login_form](./docs/login_form.jpg)|.|
 |[sign_up_form.html](./sign_up_form.html)|227~231p|HTML 7 CSS|3/5/2022|![docs-sign_up_form](./docs/sign_up_form.jpg)|.|
 
-### [연습 문제](../../../../tree/main/HTMLTML/caph9/pp)
+### 연습 문제
 |소스 코드|페이지 수|언어|날짜|결과|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[01.html](./pp/01.html)|246~247p|HTML 7 CSS|3/5/2022|![docs-pp-01](./docs/pp-01.jpg)|.|
