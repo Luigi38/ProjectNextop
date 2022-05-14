@@ -1,5 +1,5 @@
 # 한국정보올림피아드 (2019)
 |주제|날짜|
 |:---:|:---:|
-|[초등부](../19/elementary/README.md)|.|
-|[중등부](../19/middle/README.md)|5/1/2022|
+|[초등부](./elementary/README.md)|.|
+|[중등부](./middle/README.md)|5/1/2022|
