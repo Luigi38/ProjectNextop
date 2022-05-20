@@ -2,7 +2,6 @@
 넥스탑 👍
 
 - [용어사전](./Documents/WordDictionary.md)
-- [정보보호영재교육원 2021](./SWU/README.md)
 - [가장 어려웠던 문제 모음, 어떻게 풀었을까?](./Documents/HowSolved.md)
 - [획기적인 기술, 우선순위 큐](./Documents/PriorityIsFun.md)
 - [백엔드 모든 개념 총정리](./Documents/Backend.md)
@@ -13,31 +12,31 @@
 ## 백준
 |주제|마지막 수정 날짜|
 |:---:|:---:|
-|[2021년도](./Baekjoon/21/README.md)|.|
-|[2020년도](./Baekjoon/20/README.md)|.|
+|[2021년도](./Baekjoon/21/README.md)|9/5/2021|
+|[2020년도](./Baekjoon/20/README.md)|12/14/2020|
 
 ## 프로그래머스
 |주제|마지막 수정 날짜|
 |:---:|:---:|
-|[2021년도](./Programmers/21/README.md)|.|
+|[2021년도](./Programmers/21/README.md)|11/7/2021|
 
 ## 한국정보올림피아드
 |주제|마지막 수정 날짜|
 |:---:|:---:|
-|[2021년도](./Koi/21/README.md)|.|
-|[2020년도](./Koi/20/README.md)|.|
+|[2021년도](./Koi/21/README.md)|6/13/2021|
+|[2020년도](./Koi/20/README.md)|5/2/2021|
 |[2019년도](./Koi/19/README.md)|5/1/2022|
 
 ## USACO
 |주제|마지막 수정 날짜|
 |:---:|:---:|
-|[2022년도](./USACO/22/README.md)|.|
-|[2021년도](./USACO/21/README.md)|.|
+|[2022년도](./USACO/22/README.md)|2/6/2022|
+|[2021년도](./USACO/21/README.md)|12/11/2021|
 
 ## [PS Gym](https://nextop.kpscoj.com)
 |주제|마지막 수정 날짜|
 |:---:|:---:|
-|[SILVER](./PS-Gym/Silver/README.md)|.|
+|[SILVER](./PS-Gym/Silver/README.md)|1/23/2022|
 
 ## 세부능력 및 특기사항 (DESP)
 |주제|마지막 수정 날짜|
@@ -56,21 +55,12 @@
 |[2021년도](./OpenCV/21/README.md)|2/7/2021|
 |[2020년도](./OpenCV/20/README.md)|12/6/2020|
 
-## [자료구조](../../tree/main/Data%20Structure)
-
-## [심심해서 그냥 만들어본 소소한 미니 프로젝트](../../tree/main/Side%20Projects)
 ## 사이드 프로젝트
 |주제|마지막 수정 날짜|
 |:---:|:---:|
-|[]|
-
-- 사이드 프로젝트
-- 자료구조
-
-## 서울여대 정보보호영재교육원 (SWU 2021)
-|파일 이름|날짜|설명|
-|:---:|:---:|:---:|
-|[코로나 멈춰!](./SWU/2021%ED%95%99%EB%85%84%EB%8F%84%20%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%20%EC%98%81%EC%9E%AC%EA%B5%90%EC%9C%A1%EC%9B%90%20%5B2%EC%A1%B0%20_%EC%BD%94%EB%A1%9C%EB%82%98%20%EB%A9%88%EC%B6%B0!%5D%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|4/10/2021|코로나 멈춰! 앱 개발 계획 프로젝트|
+|[자료구조](./Data-Structure/README.md)|11/14/2020|
+|[심심해서 그냥 만들어본 소소한 미니 프로젝트](./Side-Projects/README.md)|12/26/2021|
+|[서울여대 정보보호영재교육원](./SWU/README.md)|5/2/2021|
 
 ## 소소한 기밀 문서
 |index|데이터|설명|
@@ -79,6 +69,7 @@
 |.|[Advanced Encryption Standard](https://www.devglan.com/online-tools/aes-encryption-decryption)|암호화 및 복호화|
 |1|Competitive Programming Helper (cph)|Visual Studio Code 확장 플러그인 (테스트)|
 
+## 소개
 ![Beginning of Nextop](./Resources/beginning.png)
 
 2020년 10월 11일, ProjectNextop 프로젝트는 시작되었습니다.
