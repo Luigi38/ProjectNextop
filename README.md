@@ -36,7 +36,7 @@
 ## [PS Gym](https://nextop.kpscoj.com)
 |주제|마지막 수정 날짜|
 |:---:|:---:|
-|[SILVER](./PS-Gym/Silver/README.md)|1/23/2022|
+|[SILVER](./PS-Gym/Silver/README.md)|5/21/2022|
 
 ## 세부능력 및 특기사항 (DESP)
 |주제|마지막 수정 날짜|
