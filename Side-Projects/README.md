@@ -6,4 +6,4 @@
 |[Project REINFORCED](https://github.com/Luigi38/ProjectReinforced)|.|.|C#|2/7/2021|
 |[Git4Nextop](https://github.com/MineEric64/Git4Nextop)|.|.|C#|4/24/2021|넥스탑 학원에서 쓰일 깃 프로그램|
 |[shuffle-monte-carlo.cpp](./shuffle-monte-carlo.cpp)|.|.|C++|12/26/2021|몬테 칼로 기법을 활용한 무작위 셔플 검증|
-|[bitmaster.cpp](./bitmaster.cpp)|.|.|C++|5/26/2022|#22 참조|
+|[bitmaster.cpp](./bitmaster.cpp)|.|.|C++|5/26/2022|[#22](../../../issues/22) 참조|
