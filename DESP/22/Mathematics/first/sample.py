@@ -1,4 +1,6 @@
 import turtle as t
+import cmath
+import math
 
 # 직선 그리기
 def draw_line(x1, y1, x2, y2):
@@ -33,6 +35,10 @@ def draw_scale():
             write_text(0.07, i-0.05, i)
 
         i += 1
+
+# 두 점 사이의 거리 공식
+def get_distance(x1, y1, x2, y2):
+    return math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2)
 
 t.speed(0)
 t.hideturtle()
