@@ -1,7 +1,6 @@
 # 자료 구조 (스택)
 |소스 코드|문제 제목|시도 횟수|언어|날짜|
 |:---:|:---:|:---:|:---:|:---:|
-|[keylogger.cpp](./keylogger.cpp)|[키로거](http://boj.kr/5397)|1|C++|12/6/2020|
 |[string_explosion.cpp](./string_explosion.cpp)|[문자열 폭발](http://boj.kr/9935)|4|C++|12/6/2020|
 
 ## 과정
