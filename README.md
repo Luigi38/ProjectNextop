@@ -94,6 +94,11 @@ cout.tie(NULL);
 
 => 입출력을 전보다 빠르게 가속시킬 수 있다.
 
+`cin` 함수 이용하고 `getline()` 함수 이용할 시 주의사항!
+- `\n` 때문에 `getline()` 함수가 제대로 작동하지 않을 수 있음.
+
+=> `cin` 함수 이용하고 `cin.ignore()` 함수를 이용하자!
+
 - `endl` 보다 `'\n'`을 사용하기
 
 - GitHub Repository에서 .을 누르면 Visual Studio Code 편집 가능함.
