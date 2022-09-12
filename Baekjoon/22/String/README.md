@@ -2,6 +2,8 @@
 |소스 코드|문제 제목|시도 횟수|언어|날짜|설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[search_document.cpp](./search_document.cpp)|[문서 검색](http://boj.kr/1543)|3|C++|7/17/2022|이런 쾌감으로 문제 푸는거지 ㅋ|
+|[how_many_letters.cpp](./how_many_letters.cpp)|[문자가 몇갤까](http://boj.kr/7600)|1|C++|9/12/2022|in STARBUCKS|
+|[contact_list.cpp](./contact_list.cpp)|[전화번호 목록](http://boj.kr/5052)|1|C++|9/12/2022|추석에 코딩은 못참지|
 
 ## 과정
 |소스 코드|문제 제목|시도 횟수|언어|결과|날짜|설명|
