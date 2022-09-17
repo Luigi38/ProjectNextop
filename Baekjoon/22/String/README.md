@@ -6,6 +6,7 @@
 |[contact_list.cpp](./contact_list.cpp)|[전화번호 목록](http://boj.kr/5052)|1|C++|9/12/2022|추석에 코딩은 못참지|
 |[infinite_string.cpp](./infinite_string.cpp)|[무한 문자열](http://boj.kr/12871)|1|C++|9/14/2022|쉬운 줄 알았는데 조금 어려웠음..|
 |[paradox_number.cpp](./paradox_number.cpp)|[크면서 작은 수](http://boj.kr/2992)|1|C++|9/14/2022|모순, 그니깐 역전재판 봐야지 ㅎ|
+|[password_of_mingyun.cpp](./password_of_mingyun.cpp)|[민균이의 비밀번호](http://boj.kr/9933)|1|C++|9/17/2022|생각보다 쉬웠다|
 
 ## 과정
 |소스 코드|문제 제목|시도 횟수|언어|결과|날짜|설명|
