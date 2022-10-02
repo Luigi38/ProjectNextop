@@ -3,6 +3,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[factorial.cpp](./factorial.cpp)|[팩토리얼](http://boj.kr/10872)|1|C++|8/28/2022|Recursion/factorial 문제를 DP를 사용하여 해결|
 |[fibonacci.cpp](./fibonacci.cpp)|[피보나치 수 5](http://boj.kr/10870)|1|C++|8/28/2022|Recursion/fibonacci 문제를 DP를 사용하여 해결|
+|[ezreal_gg.cpp](./ezreal_gg.cpp)|[Ezreal 여눈부터 가네 ㅈㅈ](http://boj.kr/20500)|2|C++|성공|10/2/2022|N=20일 때부터 안되는 이유: ULL 범위를 넘어서서. 그리고 나머지 법칙을 이용하여 범위 문제를 해결함. GG|
 
 ## 과정
 |소스 코드|문제 제목|시도 횟수|언어|결과|날짜|설명|
