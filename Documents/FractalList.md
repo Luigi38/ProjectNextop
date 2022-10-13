@@ -26,7 +26,7 @@ A에는 item1이 있고 item1에는 item2가 있는 것이다.
 A
 
 ㄴ item1
-    
+
     ㄴ item2
 
 이렇게 Tree가 형성된다.
