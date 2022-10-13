@@ -1,7 +1,7 @@
 # 프랙탈 리스트
 ## 원리
 ![Fractal-List](../Resources/fractal_list_2.png)
-- 사진 참고
+- 사진 참고. 이 얼마나 아름다운 코드인가?
 
 A와 Child라는 List가 있다고 하자.
 

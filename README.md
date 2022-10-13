@@ -5,6 +5,7 @@
 - [가장 어려웠던 문제 모음, 어떻게 풀었을까?](./Documents/HowSolved.md)
 - [획기적인 기술, 우선순위 큐](./Documents/PriorityIsFun.md)
 - [백엔드 모든 개념 총정리](./Documents/Backend.md)
+- [프랙탈 리스트 원리](./Documents/FractalList.md)
 
 ## 바로가기
 - [프로그래머스 - 코딩테스트 연습](https://programmers.co.kr/learn/challenges)
