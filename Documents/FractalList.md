@@ -15,7 +15,7 @@ A를 Child에 대입한다. `Child = A`
 
 ex) `vector<T> v = v2`
 
-item1의 Child를 Child에 대입하고 `item1.Child = Child`
+item1의 Child를 Child에 대입하고 `Child = item1.Child`
 
 Child에 아이템을 추가하면 `Child.Add(item2)`
 
