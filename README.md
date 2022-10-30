@@ -16,7 +16,7 @@
 |[2022년도](./Baekjoon/22/README.md)|10/2/2022|
 |[2021년도](./Baekjoon/21/README.md)|9/5/2021|
 |[2020년도](./Baekjoon/20/README.md)|12/14/2020|
-|[단계별로 풀어보기](./Baekjoon/ssbs/README.md)|10/23/2022|
+|[단계별로 풀어보기](./Baekjoon/ssbs/README.md)|10/30/2022|
 
 ## 프로그래머스
 |주제|마지막 수정 날짜|
