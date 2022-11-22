@@ -8,6 +8,6 @@
 |5|[study_word.cpp](./study_word.cpp)|[단어 공부](http://boj.kr/1157)|C++|11/20/2022|.|
 |6|[the_number_of_word.cpp](./the_number_of_word.cpp)|[단어의 개수](http://boj.kr/1152)|C++|11/20/2022|.|
 |7|[constant.cpp](./constant.cpp)|[상수](http://boj.kr/2908)|C++|11/20/2022|.|
-|8|[.cpp](.)|[다이얼](http://boj.kr/5622)|C++|?/2022|.|
-|9|[.cpp](.)|[크로아티아 알파벳](http://boj.kr/2941)|C++|?/2022|.|
-|10|[.cpp](.)|[그룹 단어 제거](http://boj.kr/1316)|C++|?/2022|.|
+|8|[dial.cpp](./dial.cpp)|[다이얼](http://boj.kr/5622)|C++|11/22/2022|.|
+|9|[croatia_alphabet.cpp](./croatia_alphabet.cpp)|[크로아티아 알파벳](http://boj.kr/2941)|C++|11/22/2022|.|
+|10|[group_word_checker.cpp](./group_word_checker.cpp)|[그룹 단어 제거](http://boj.kr/1316)|C++|11/22/2022|.|
