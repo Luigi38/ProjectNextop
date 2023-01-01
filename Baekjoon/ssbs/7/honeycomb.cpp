@@ -17,8 +17,6 @@ int main() {
 	Q = (N - 1) / 6;
 	R = (N - 1) % 6;
 
-	bool equals = true;
-
 	maxx = ceil((double)(N - 1) / 6.0);
 	int total = 0;
 
@@ -27,7 +25,6 @@ int main() {
 
 		if (maxx <= total) {
 			maxx = i + 1;
-			equals = maxx == total;
 			break;
 		}
 	}
