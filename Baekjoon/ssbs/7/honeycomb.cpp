@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 	int N;
-	int Q, R;
+	double Q;
 	int maxx = 0;
 
 	cin >> N;
@@ -14,10 +14,9 @@ int main() {
 		return 0;
 	}
 
-	Q = (N - 1) / 6;
-	R = (N - 1) % 6;
+	Q = (N - 1) / 6.0;
 
-	maxx = ceil((double)(N - 1) / 6.0);
+	maxx = ceil(Q);
 	int total = 0;
 
 	for (int i = 1; i <= 100000000; i++) {
